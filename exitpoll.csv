@@ -1,1001 +1,1001 @@
-Name,Gender,Marital Status,Race/Ethnicity,Religion,Age,First Time Voting,Education,Income,Area type,Region
-David,Male,Married,Latino,Others,43,Yes,Bachelor's Degree,121805,rural,east
-Michael,Female,Married,Latino,Protestant,64,No,Postgraduate degree,43047,rural,west
-Michael,Female,Unmarried,Native American,Catholic,20,Yes,Less then high school,50770,urban,west
-Alex,Female,Unmarried,Black,Catholic,30,Yes,Bachelor's Degree,151934,rural,east
-Olivia,Male,Married,Other,Others,38,No,Less then high school,115636,suburban,midwest
-Matthew,Male,Married,Native American,Others,42,Yes,Less then high school,145107,urban,south
-Emma,Female,Unmarried,Asian,Catholic,52,No,Less then high school,195058,urban,south
-Joseph,Female,Married,Native American,Catholic,53,Yes,Bachelor's Degree,187212,urban,west
-Andrew,Female,Married,Native American,Jewish,25,No,Bachelor's Degree,175686,suburban,west
-Michael,Male,Unmarried,Native American,Catholic,29,Yes,Associate Degree,100687,urban,east
-Amelia,Female,Unmarried,Other,Jewish,27,Yes,Postgraduate degree,133900,rural,east
-Chris,Female,Married,Native American,Atheist,27,Yes,Postgraduate degree,122138,urban,west
-Evelyn,Male,Unmarried,Native American,Others,18,No,Less then high school,42768,suburban,south
-David,Male,Unmarried,Other,Catholic,35,Yes,Bachelor's Degree,121048,suburban,west
-Matthew,Male,Unmarried,Black,Others,57,No,Associate Degree,35812,rural,south
-Emma,Male,Married,Asian,Atheist,37,Yes,Bachelor's Degree,80933,urban,west
-Laura,Female,Married,Black,Jewish,64,No,High School,170000,rural,midwest
-David,Male,Married,Black,Atheist,22,Yes,Postgraduate degree,127899,rural,west
-Olivia,Female,Married,Other,Atheist,56,Yes,High School,198802,rural,east
-Ethan,Male,Married,Other,Others,39,No,Associate Degree,101662,suburban,midwest
-Michael,Male,Married,Asian,Atheist,18,Yes,Postgraduate degree,61846,suburban,south
-Abigail,Female,Married,Native American,Protestant,32,No,Associate Degree,47102,rural,west
-Elijah,Female,Unmarried,Asian,Jewish,39,No,Less then high school,198103,rural,east
-Matthew,Male,Unmarried,Native American,Jewish,19,No,Bachelor's Degree,53561,urban,east
-John,Male,Unmarried,Asian,Others,53,No,High School,95099,suburban,south
-Olivia,Female,Unmarried,Asian,Jewish,57,No,Postgraduate degree,192422,suburban,midwest
-Chris,Male,Unmarried,Native American,Jewish,47,No,High School,107148,suburban,midwest
-Mia,Female,Married,Latino,Protestant,24,Yes,Postgraduate degree,70511,suburban,midwest
-Katie,Male,Married,Native American,Protestant,20,No,High School,91240,urban,east
-Sarah,Male,Married,Black,Jewish,64,No,High School,102886,suburban,east
-David,Male,Married,Other,Others,55,Yes,High School,115592,rural,west
-Daniel,Male,Married,White,Others,49,No,Postgraduate degree,191337,rural,east
-Sarah,Female,Unmarried,White,Jewish,57,No,Postgraduate degree,166099,rural,east
-Sarah,Male,Married,Black,Catholic,53,Yes,Postgraduate degree,121551,urban,midwest
-Sarah,Female,Married,Other,Atheist,47,Yes,Less then high school,129777,urban,midwest
-Abigail,Male,Married,Latino,Jewish,46,No,Postgraduate degree,197127,rural,east
-Sarah,Male,Married,Latino,Jewish,65,Yes,Bachelor's Degree,38562,urban,west
-Samuel,Male,Married,Black,Others,42,Yes,Less then high school,113196,suburban,midwest
-Alex,Female,Married,Latino,Atheist,21,Yes,Postgraduate degree,76769,rural,west
-David,Male,Unmarried,Asian,Jewish,23,Yes,Less then high school,49544,urban,west
-Katie,Male,Unmarried,Latino,Protestant,51,Yes,Associate Degree,108603,suburban,south
-Samuel,Male,Unmarried,Latino,Others,31,Yes,Bachelor's Degree,128423,urban,midwest
-Matthew,Male,Married,Asian,Atheist,31,No,Postgraduate degree,56735,urban,midwest
-Andrew,Female,Unmarried,White,Atheist,46,No,Less then high school,96927,suburban,midwest
-Ethan,Male,Married,Native American,Jewish,32,Yes,Less then high school,116695,rural,midwest
-David,Male,Unmarried,White,Catholic,59,Yes,Less then high school,71812,urban,midwest
-Chris,Male,Married,Black,Catholic,30,No,Less then high school,199038,suburban,midwest
-Matthew,Female,Married,White,Catholic,60,Yes,Less then high school,76865,rural,west
-Charlotte,Male,Unmarried,White,Catholic,36,Yes,High School,177260,rural,midwest
-Lucas,Male,Unmarried,Other,Catholic,34,No,Postgraduate degree,119345,suburban,midwest
-Jane,Female,Unmarried,Black,Jewish,33,No,Postgraduate degree,30559,suburban,east
-James,Male,Married,Native American,Jewish,46,No,Associate Degree,145747,suburban,south
-David,Male,Unmarried,Native American,Atheist,32,Yes,Associate Degree,38682,rural,west
-Isabella,Male,Unmarried,Other,Catholic,49,No,Postgraduate degree,145411,rural,east
-Abigail,Female,Married,Other,Atheist,19,No,Less then high school,94972,rural,midwest
-Alex,Male,Unmarried,Asian,Atheist,21,Yes,Postgraduate degree,166257,urban,east
-Emma,Female,Unmarried,Other,Jewish,32,No,Postgraduate degree,158033,urban,midwest
-John,Female,Unmarried,Black,Others,42,Yes,Bachelor's Degree,146723,urban,east
-Abigail,Male,Unmarried,White,Others,37,No,Bachelor's Degree,117270,suburban,south
-Olivia,Female,Married,Latino,Others,33,Yes,Bachelor's Degree,173367,suburban,east
-Mia,Female,Unmarried,Black,Others,55,No,Postgraduate degree,120286,suburban,east
-Elijah,Female,Unmarried,White,Atheist,25,Yes,Postgraduate degree,84080,urban,east
-Laura,Male,Married,Asian,Atheist,62,Yes,Bachelor's Degree,116691,suburban,east
-David,Male,Unmarried,Other,Others,57,Yes,Associate Degree,151080,suburban,midwest
-Samuel,Female,Unmarried,Other,Protestant,61,Yes,Less then high school,128018,urban,south
-Elijah,Male,Unmarried,Latino,Others,50,No,Less then high school,57129,urban,west
-Michael,Male,Married,Other,Catholic,37,Yes,Less then high school,171398,urban,east
-Emily,Female,Married,Asian,Jewish,65,Yes,Bachelor's Degree,175532,urban,midwest
-John,Female,Unmarried,Black,Catholic,62,No,High School,35574,rural,midwest
-Chris,Female,Married,Asian,Catholic,59,No,Less then high school,31498,suburban,east
-Samuel,Female,Unmarried,Latino,Protestant,42,No,Associate Degree,107553,rural,east
-Chris,Male,Unmarried,Asian,Jewish,32,Yes,Associate Degree,101160,rural,west
-David,Male,Married,Other,Protestant,18,Yes,Postgraduate degree,87456,rural,south
-Laura,Female,Married,Black,Atheist,58,No,Bachelor's Degree,146329,rural,midwest
-Harper,Male,Married,Other,Jewish,58,Yes,Postgraduate degree,122939,urban,east
-Isabella,Female,Married,Other,Others,42,Yes,High School,84965,urban,east
-Mia,Female,Married,White,Others,35,No,Less then high school,157279,urban,east
-Andrew,Male,Unmarried,Asian,Protestant,23,No,Bachelor's Degree,97689,suburban,midwest
-Jane,Male,Married,Other,Others,51,Yes,Less then high school,152491,rural,east
-Matthew,Male,Married,Asian,Atheist,44,Yes,High School,90687,suburban,east
-Ethan,Male,Married,Latino,Protestant,38,No,Less then high school,173958,rural,south
-Benjamin,Male,Married,Native American,Others,39,Yes,Less then high school,60317,urban,west
-Laura,Male,Married,Black,Others,22,No,Less then high school,185870,suburban,midwest
-Mia,Female,Unmarried,Black,Atheist,44,Yes,Postgraduate degree,146368,urban,south
-Alex,Female,Unmarried,Asian,Atheist,30,Yes,Less then high school,76334,rural,midwest
-Sarah,Male,Unmarried,Other,Protestant,58,Yes,Associate Degree,86114,suburban,east
-Emma,Male,Unmarried,Black,Atheist,54,No,High School,65362,rural,midwest
-Lucas,Female,Married,Latino,Atheist,45,Yes,Postgraduate degree,127479,suburban,east
-Elijah,Female,Married,Black,Atheist,58,Yes,Bachelor's Degree,115828,urban,east
-Emily,Female,Married,Black,Protestant,19,No,High School,53659,urban,midwest
-Emma,Female,Married,White,Jewish,42,Yes,Bachelor's Degree,38579,urban,south
-Evelyn,Male,Unmarried,Black,Atheist,37,Yes,Less then high school,178359,rural,east
-Katie,Male,Unmarried,Other,Others,55,Yes,Associate Degree,59802,rural,west
-Abigail,Male,Unmarried,Latino,Catholic,36,Yes,High School,133929,urban,midwest
-Katie,Female,Married,Native American,Others,56,No,Bachelor's Degree,134705,suburban,south
-Emma,Male,Married,Native American,Atheist,55,No,Associate Degree,36006,urban,east
-Mia,Female,Married,Native American,Atheist,61,No,Less then high school,78479,rural,south
-Elijah,Male,Married,Other,Atheist,46,No,Postgraduate degree,184497,urban,east
-Andrew,Female,Married,Native American,Catholic,44,Yes,High School,57575,rural,midwest
-Katie,Male,Married,Black,Jewish,21,Yes,High School,97032,rural,south
-Katie,Female,Married,Native American,Catholic,48,Yes,Postgraduate degree,142396,rural,south
-Emma,Female,Married,Native American,Catholic,63,No,Associate Degree,44914,rural,west
-Harper,Female,Unmarried,Latino,Protestant,49,No,Associate Degree,151219,rural,south
-James,Male,Unmarried,White,Protestant,53,Yes,Less then high school,34582,urban,east
-Joseph,Male,Married,Black,Catholic,65,No,Less then high school,193359,rural,south
-Joseph,Male,Unmarried,Other,Protestant,52,No,Bachelor's Degree,148502,suburban,midwest
-Mia,Male,Unmarried,Asian,Protestant,32,Yes,Less then high school,175192,suburban,east
-Chris,Male,Married,Black,Protestant,55,Yes,Less then high school,38884,rural,east
-Ethan,Female,Married,Latino,Atheist,28,Yes,Bachelor's Degree,197698,rural,west
-Evelyn,Female,Unmarried,Black,Atheist,31,Yes,Less then high school,96432,rural,midwest
-Chris,Male,Unmarried,White,Others,43,No,High School,149271,urban,midwest
-Joseph,Female,Unmarried,Asian,Jewish,22,No,Less then high school,66769,rural,south
-John,Female,Unmarried,Latino,Protestant,40,Yes,Associate Degree,108508,suburban,midwest
-Emma,Male,Married,Native American,Jewish,61,No,Postgraduate degree,99610,suburban,east
-Jane,Female,Married,Native American,Jewish,44,Yes,Postgraduate degree,184720,rural,west
-Emily,Female,Unmarried,Asian,Jewish,41,Yes,Less then high school,95824,rural,south
-Andrew,Male,Unmarried,Black,Others,32,Yes,Postgraduate degree,85359,suburban,east
-Laura,Male,Unmarried,White,Catholic,64,No,High School,105815,urban,south
-Elijah,Female,Married,Native American,Catholic,64,Yes,Associate Degree,106229,rural,east
-Jane,Male,Married,Latino,Jewish,46,No,Less then high school,82605,rural,midwest
-Matthew,Male,Married,Asian,Jewish,36,Yes,Bachelor's Degree,149380,urban,south
-Michael,Male,Unmarried,Black,Protestant,59,Yes,High School,105354,suburban,south
-Emma,Female,Unmarried,Latino,Others,22,No,Associate Degree,62361,suburban,west
-Emma,Male,Unmarried,Black,Others,47,No,Associate Degree,189487,suburban,east
-Daniel,Female,Married,Asian,Protestant,59,Yes,Associate Degree,193727,rural,west
-Alex,Female,Married,Other,Others,23,Yes,Less then high school,117293,rural,south
-Sophia,Male,Unmarried,Asian,Others,26,No,High School,71576,rural,east
-Isabella,Male,Married,Black,Others,39,Yes,Less then high school,91148,rural,midwest
-Jane,Male,Married,White,Catholic,65,Yes,Less then high school,145087,urban,east
-Michael,Male,Married,White,Protestant,27,No,Postgraduate degree,155385,suburban,west
-Benjamin,Male,Unmarried,Native American,Catholic,34,Yes,Associate Degree,55379,urban,west
-Charlotte,Male,Unmarried,White,Protestant,46,Yes,Bachelor's Degree,164073,rural,south
-Michael,Male,Married,White,Protestant,22,Yes,High School,38285,suburban,south
-John,Male,Married,Asian,Jewish,44,No,Bachelor's Degree,198624,urban,east
-Emily,Male,Unmarried,Black,Atheist,33,Yes,High School,197657,rural,south
-Abigail,Male,Unmarried,White,Protestant,24,Yes,High School,103466,urban,east
-Benjamin,Female,Unmarried,Black,Others,32,No,Associate Degree,78324,urban,east
-Joseph,Female,Married,Latino,Catholic,38,No,High School,95676,rural,south
-Amelia,Female,Unmarried,Native American,Atheist,20,No,Bachelor's Degree,40542,suburban,east
-Charlotte,Male,Married,Other,Catholic,61,Yes,Less then high school,72015,urban,west
-Michael,Male,Married,Asian,Others,32,No,Less then high school,92543,rural,west
-Emily,Female,Married,White,Protestant,26,No,High School,47328,urban,west
-Emma,Female,Unmarried,Native American,Jewish,34,No,Associate Degree,53661,rural,east
-Evelyn,Male,Unmarried,Asian,Jewish,51,Yes,Associate Degree,34145,urban,east
-Abigail,Female,Unmarried,Black,Jewish,63,No,Postgraduate degree,129655,urban,east
-Alex,Female,Unmarried,Native American,Jewish,48,Yes,Postgraduate degree,71756,suburban,south
-Chris,Female,Married,Native American,Protestant,44,Yes,Less then high school,129162,suburban,south
-Sophia,Female,Unmarried,Latino,Protestant,50,Yes,Bachelor's Degree,191575,urban,midwest
-Emily,Female,Married,Black,Others,63,No,Postgraduate degree,39171,suburban,east
-Isabella,Female,Unmarried,Asian,Atheist,29,Yes,High School,61083,rural,midwest
-Emily,Female,Unmarried,Black,Catholic,25,No,Associate Degree,77356,urban,midwest
-Benjamin,Male,Married,Other,Atheist,56,Yes,High School,42025,rural,midwest
-Michael,Female,Unmarried,Other,Catholic,33,Yes,Bachelor's Degree,136636,rural,south
-Laura,Male,Unmarried,Other,Catholic,25,Yes,Postgraduate degree,33436,suburban,south
-Isabella,Female,Married,Black,Protestant,19,Yes,Associate Degree,140135,urban,south
-Benjamin,Male,Unmarried,Latino,Jewish,48,No,Associate Degree,171366,urban,east
-Lucas,Female,Married,Black,Catholic,42,No,Postgraduate degree,67309,suburban,midwest
-Chris,Female,Married,Native American,Atheist,59,No,Bachelor's Degree,58018,urban,east
-Harper,Female,Married,Black,Catholic,28,Yes,Postgraduate degree,53631,suburban,midwest
-Sarah,Male,Married,Latino,Others,39,Yes,Associate Degree,170328,rural,west
-Sarah,Female,Married,White,Others,18,No,Postgraduate degree,184417,rural,east
-Benjamin,Female,Married,White,Atheist,57,Yes,Bachelor's Degree,196646,suburban,midwest
-Elijah,Male,Married,Latino,Jewish,38,No,Less then high school,142869,urban,west
-Evelyn,Male,Unmarried,Latino,Protestant,30,No,Associate Degree,127055,suburban,west
-Ethan,Male,Unmarried,Other,Protestant,55,No,Less then high school,169498,rural,east
-Laura,Male,Unmarried,Native American,Jewish,30,No,Associate Degree,87980,urban,south
-Evelyn,Female,Married,Latino,Atheist,52,No,High School,191235,suburban,east
-Evelyn,Male,Married,Latino,Catholic,62,No,High School,117475,urban,east
-Daniel,Female,Unmarried,Asian,Catholic,29,Yes,Bachelor's Degree,58888,rural,east
-Abigail,Female,Married,Black,Atheist,43,No,High School,152433,suburban,east
-Daniel,Male,Unmarried,Black,Catholic,35,Yes,Postgraduate degree,114976,urban,west
-Harper,Female,Unmarried,Asian,Catholic,40,No,Less then high school,176525,suburban,midwest
-Emma,Female,Unmarried,White,Jewish,18,No,Less then high school,56221,rural,south
-Mia,Male,Unmarried,Native American,Atheist,45,Yes,Postgraduate degree,146609,urban,midwest
-James,Male,Married,Asian,Others,31,Yes,Associate Degree,90808,suburban,south
-Emily,Male,Married,Asian,Catholic,25,No,Associate Degree,64411,urban,west
-Samuel,Female,Unmarried,Latino,Catholic,21,Yes,Bachelor's Degree,45100,urban,west
-Amelia,Female,Unmarried,Black,Atheist,42,No,Bachelor's Degree,161667,suburban,south
-Harper,Male,Married,Other,Catholic,56,No,High School,145512,urban,west
-Amelia,Female,Unmarried,Asian,Protestant,40,Yes,Postgraduate degree,110253,urban,west
-Amelia,Female,Unmarried,Other,Catholic,55,Yes,Associate Degree,103789,urban,south
-David,Female,Married,Latino,Protestant,63,No,Less then high school,88034,rural,south
-Olivia,Female,Unmarried,Asian,Protestant,21,Yes,Bachelor's Degree,100555,urban,east
-Charlotte,Female,Unmarried,Black,Others,42,No,Associate Degree,97226,urban,west
-Evelyn,Female,Unmarried,Latino,Atheist,60,Yes,Associate Degree,104715,suburban,east
-Ethan,Female,Married,Latino,Catholic,29,Yes,Associate Degree,142897,suburban,south
-Harper,Male,Married,Native American,Jewish,44,No,Less then high school,39093,urban,midwest
-Katie,Female,Married,White,Others,33,Yes,Postgraduate degree,54134,suburban,east
-Evelyn,Female,Married,White,Others,45,No,Bachelor's Degree,43106,suburban,midwest
-Laura,Female,Unmarried,Black,Jewish,25,Yes,High School,197979,urban,south
-Mia,Female,Married,Asian,Jewish,45,Yes,Postgraduate degree,50382,urban,midwest
-John,Female,Married,Latino,Catholic,26,Yes,Less then high school,88866,suburban,midwest
-Amelia,Male,Married,Black,Jewish,58,Yes,High School,42549,urban,east
-Charlotte,Male,Married,Native American,Catholic,41,No,Postgraduate degree,79223,urban,east
-Daniel,Male,Married,Black,Protestant,18,No,Postgraduate degree,92080,rural,east
-Matthew,Female,Married,Latino,Others,56,Yes,Postgraduate degree,110237,suburban,east
-Samuel,Male,Married,Native American,Others,54,No,High School,109111,urban,south
-James,Male,Married,Native American,Jewish,50,Yes,Associate Degree,124870,urban,east
-Mia,Female,Unmarried,Native American,Atheist,34,Yes,Postgraduate degree,142666,suburban,midwest
-Ethan,Female,Married,Black,Others,33,No,Associate Degree,144963,urban,midwest
-Olivia,Male,Unmarried,Latino,Catholic,27,Yes,Associate Degree,40960,urban,midwest
-Lucas,Male,Unmarried,Asian,Jewish,41,No,Bachelor's Degree,32265,rural,south
-Elijah,Male,Married,Black,Atheist,20,Yes,Less then high school,189468,suburban,east
-Joseph,Male,Married,Other,Atheist,22,No,Postgraduate degree,170136,urban,south
-Katie,Female,Married,Native American,Catholic,61,Yes,Associate Degree,184764,urban,west
-John,Female,Unmarried,Black,Catholic,36,No,Postgraduate degree,125973,suburban,west
-Joseph,Male,Married,Other,Atheist,42,Yes,Postgraduate degree,32322,rural,south
-Amelia,Male,Unmarried,Black,Others,43,Yes,Postgraduate degree,135124,urban,east
-Andrew,Male,Unmarried,Native American,Protestant,29,No,Postgraduate degree,199105,suburban,south
-Harper,Female,Married,Other,Atheist,42,Yes,Less then high school,148321,urban,east
-Amelia,Male,Unmarried,Other,Others,46,No,High School,192214,urban,east
-Sophia,Male,Married,White,Jewish,36,Yes,Less then high school,109173,urban,south
-Elijah,Female,Unmarried,Other,Jewish,21,No,Postgraduate degree,58966,suburban,east
-Isabella,Female,Unmarried,White,Protestant,30,Yes,Less then high school,38845,suburban,east
-Benjamin,Male,Unmarried,Native American,Catholic,63,Yes,Less then high school,154989,urban,east
-Mia,Female,Unmarried,Asian,Jewish,49,No,High School,181018,rural,west
-Laura,Female,Married,Asian,Jewish,59,Yes,High School,163135,urban,south
-Jane,Male,Married,Black,Protestant,27,Yes,Bachelor's Degree,156618,suburban,west
-Isabella,Male,Married,White,Others,37,No,High School,167052,urban,east
-Michael,Male,Married,Other,Others,59,Yes,Bachelor's Degree,132149,urban,midwest
-Michael,Female,Unmarried,Native American,Atheist,34,No,Less then high school,188637,suburban,west
-Joseph,Female,Married,Black,Catholic,55,Yes,Associate Degree,56985,urban,south
-Andrew,Female,Unmarried,White,Others,52,Yes,Less then high school,65794,suburban,east
-Chris,Male,Unmarried,Other,Atheist,41,No,Bachelor's Degree,167662,urban,west
-Daniel,Female,Unmarried,Black,Others,38,Yes,Associate Degree,56336,rural,west
-Isabella,Male,Married,Black,Atheist,63,No,High School,109890,suburban,midwest
-James,Female,Married,Asian,Catholic,34,Yes,Postgraduate degree,181082,urban,west
-John,Male,Unmarried,White,Protestant,52,Yes,Associate Degree,149400,rural,south
-Harper,Male,Unmarried,Asian,Jewish,47,No,Associate Degree,35501,rural,east
-Sophia,Female,Married,Native American,Protestant,35,Yes,Postgraduate degree,192215,urban,west
-Laura,Male,Married,Native American,Protestant,59,Yes,Less then high school,179548,urban,west
-Michael,Female,Unmarried,Black,Catholic,50,No,Associate Degree,77983,rural,midwest
-Olivia,Female,Unmarried,Asian,Jewish,32,No,Postgraduate degree,120962,rural,west
-Evelyn,Male,Unmarried,Other,Atheist,64,Yes,High School,56621,urban,east
-Joseph,Female,Married,Native American,Catholic,39,No,Associate Degree,135979,suburban,east
-Andrew,Female,Married,Black,Atheist,64,No,Associate Degree,57560,suburban,midwest
-John,Female,Married,Latino,Atheist,19,Yes,Associate Degree,68639,rural,midwest
-John,Female,Unmarried,White,Jewish,54,Yes,Associate Degree,96889,rural,east
-Charlotte,Male,Unmarried,White,Others,58,No,Less then high school,120787,rural,south
-Michael,Male,Married,Latino,Catholic,43,No,Bachelor's Degree,107156,rural,west
-Sophia,Female,Married,Asian,Others,19,No,High School,62594,suburban,midwest
-Lucas,Female,Married,Native American,Catholic,26,Yes,High School,99086,rural,south
-Joseph,Female,Married,Black,Atheist,43,Yes,Bachelor's Degree,41534,suburban,east
-Emma,Female,Unmarried,Black,Catholic,50,No,High School,141762,suburban,south
-Chris,Male,Married,Latino,Others,18,Yes,Less then high school,188604,rural,west
-Andrew,Male,Unmarried,Black,Atheist,24,Yes,Less then high school,186161,rural,west
-Joseph,Female,Unmarried,Black,Atheist,40,Yes,Postgraduate degree,167694,rural,east
-Joseph,Female,Married,Native American,Jewish,53,Yes,High School,61058,suburban,midwest
-Emily,Female,Unmarried,Latino,Others,21,Yes,Postgraduate degree,176559,suburban,midwest
-Abigail,Female,Unmarried,White,Catholic,50,No,Less then high school,150706,rural,west
-Sophia,Male,Unmarried,Latino,Protestant,34,No,High School,108318,urban,south
-David,Female,Unmarried,White,Atheist,20,Yes,Bachelor's Degree,37160,rural,midwest
-Lucas,Female,Married,Asian,Protestant,48,No,Postgraduate degree,90113,suburban,east
-Isabella,Male,Unmarried,Latino,Protestant,22,Yes,Bachelor's Degree,45489,suburban,south
-Joseph,Female,Married,Asian,Protestant,39,No,Postgraduate degree,81381,suburban,east
-Amelia,Male,Unmarried,Black,Jewish,53,Yes,Postgraduate degree,182890,rural,midwest
-Jane,Female,Unmarried,Black,Protestant,48,Yes,Less then high school,42675,suburban,west
-Lucas,Female,Married,White,Atheist,24,No,Less then high school,138337,urban,east
-Charlotte,Male,Married,White,Catholic,44,No,High School,169141,suburban,midwest
-Benjamin,Female,Unmarried,Other,Jewish,28,No,Postgraduate degree,139146,suburban,midwest
-Abigail,Male,Unmarried,Native American,Jewish,47,No,Associate Degree,68891,rural,midwest
-Benjamin,Female,Unmarried,Native American,Others,45,Yes,High School,90266,suburban,west
-Laura,Male,Married,Black,Protestant,18,Yes,Bachelor's Degree,102725,suburban,south
-Alex,Female,Unmarried,Other,Catholic,55,No,High School,152599,rural,east
-Laura,Male,Married,Latino,Protestant,40,No,Bachelor's Degree,102871,suburban,south
-Mia,Male,Married,Black,Atheist,44,Yes,High School,98417,suburban,midwest
-Emma,Female,Married,Latino,Catholic,46,No,Postgraduate degree,45905,suburban,south
-James,Male,Married,Asian,Others,25,No,Postgraduate degree,71217,urban,south
-Abigail,Male,Unmarried,Asian,Others,40,Yes,Bachelor's Degree,46225,rural,west
-Amelia,Female,Unmarried,Native American,Atheist,60,Yes,High School,126781,urban,west
-David,Female,Married,Native American,Jewish,49,Yes,Less then high school,194051,urban,south
-Abigail,Male,Married,Native American,Protestant,34,Yes,Associate Degree,173800,suburban,east
-Emily,Male,Unmarried,Black,Protestant,31,Yes,Less then high school,78798,urban,south
-Charlotte,Female,Unmarried,Native American,Protestant,19,Yes,Less then high school,198166,suburban,west
-James,Male,Unmarried,White,Catholic,62,No,Associate Degree,30657,suburban,south
-John,Male,Married,White,Protestant,40,Yes,Bachelor's Degree,85225,rural,midwest
-Harper,Female,Married,Asian,Jewish,36,No,High School,135599,urban,midwest
-Benjamin,Female,Unmarried,White,Others,54,No,Postgraduate degree,86637,urban,east
-Harper,Female,Married,Latino,Atheist,44,No,Postgraduate degree,131513,rural,midwest
-Olivia,Male,Unmarried,Black,Protestant,60,Yes,High School,196650,rural,west
-Harper,Male,Married,Latino,Protestant,62,Yes,High School,120407,suburban,midwest
-Emma,Female,Married,Native American,Atheist,19,Yes,Less then high school,123434,suburban,west
-Elijah,Male,Married,Latino,Jewish,34,No,Associate Degree,129670,suburban,south
-Matthew,Female,Unmarried,White,Others,19,No,Bachelor's Degree,138724,rural,west
-Lucas,Male,Unmarried,Other,Protestant,54,No,Bachelor's Degree,45148,suburban,east
-Jane,Male,Married,Other,Jewish,20,No,Bachelor's Degree,56191,rural,south
-Laura,Female,Married,White,Jewish,19,No,Less then high school,166185,urban,west
-Chris,Female,Unmarried,Asian,Protestant,57,No,Bachelor's Degree,178811,urban,midwest
-Andrew,Male,Unmarried,Asian,Others,26,No,High School,82357,urban,south
-Daniel,Female,Married,Native American,Catholic,31,Yes,Less then high school,58745,urban,west
-Alex,Male,Unmarried,Black,Others,36,Yes,Bachelor's Degree,150575,urban,midwest
-Sarah,Female,Married,White,Protestant,65,Yes,High School,42028,urban,east
-Chris,Male,Unmarried,Native American,Jewish,27,No,Postgraduate degree,111697,suburban,midwest
-Laura,Female,Unmarried,Other,Others,57,No,Bachelor's Degree,97467,suburban,west
-Jane,Male,Unmarried,Latino,Protestant,25,No,Postgraduate degree,174495,urban,east
-Isabella,Male,Married,Other,Others,61,No,Associate Degree,145314,urban,east
-Sarah,Female,Unmarried,Other,Others,34,Yes,Associate Degree,111119,rural,west
-Charlotte,Female,Unmarried,Native American,Others,38,Yes,Less then high school,139929,urban,west
-Olivia,Male,Unmarried,Latino,Protestant,26,Yes,Postgraduate degree,34783,rural,south
-Abigail,Male,Unmarried,Other,Jewish,50,Yes,Less then high school,157622,rural,east
-Emily,Male,Unmarried,Native American,Jewish,41,Yes,Postgraduate degree,62844,rural,east
-Chris,Female,Married,Black,Atheist,58,Yes,Postgraduate degree,54478,rural,south
-Evelyn,Male,Married,White,Catholic,65,No,Less then high school,43978,rural,west
-Chris,Male,Unmarried,Asian,Protestant,27,No,High School,59183,urban,east
-Daniel,Female,Married,Latino,Protestant,42,Yes,High School,185784,suburban,midwest
-Charlotte,Female,Unmarried,Native American,Catholic,41,Yes,Associate Degree,128133,rural,west
-Jane,Female,Married,Black,Others,36,No,Postgraduate degree,137775,rural,south
-Chris,Male,Married,Black,Catholic,52,No,High School,97128,rural,midwest
-Chris,Male,Unmarried,White,Catholic,64,No,Bachelor's Degree,164118,suburban,south
-Chris,Female,Married,Native American,Jewish,47,No,Associate Degree,183493,urban,south
-Samuel,Female,Unmarried,Latino,Atheist,51,No,Postgraduate degree,175782,suburban,midwest
-Laura,Male,Unmarried,Asian,Atheist,49,Yes,Bachelor's Degree,188987,rural,midwest
-Evelyn,Female,Married,Black,Atheist,22,No,Bachelor's Degree,63690,rural,midwest
-Jane,Male,Unmarried,Asian,Catholic,33,No,Less then high school,35304,urban,south
-Sarah,Female,Unmarried,Latino,Atheist,37,Yes,Less then high school,199424,rural,midwest
-Laura,Female,Unmarried,Other,Others,58,Yes,High School,133136,suburban,east
-John,Female,Married,Other,Others,64,Yes,High School,118056,suburban,west
-Abigail,Female,Unmarried,Asian,Atheist,54,No,Bachelor's Degree,157728,suburban,midwest
-Sarah,Male,Unmarried,Asian,Jewish,64,No,Associate Degree,85647,rural,south
-Charlotte,Female,Unmarried,Latino,Jewish,39,Yes,Bachelor's Degree,44872,rural,west
-Alex,Male,Married,Other,Catholic,19,No,Postgraduate degree,199016,urban,east
-Andrew,Female,Married,Asian,Atheist,30,No,Postgraduate degree,148679,suburban,west
-Harper,Female,Married,White,Others,29,Yes,Associate Degree,131720,urban,south
-Chris,Male,Unmarried,Latino,Catholic,46,No,Associate Degree,192481,rural,west
-Katie,Male,Married,Latino,Jewish,28,No,Postgraduate degree,88256,rural,west
-Benjamin,Male,Married,Latino,Protestant,65,No,Associate Degree,94627,urban,south
-Amelia,Male,Unmarried,Native American,Atheist,45,Yes,Bachelor's Degree,38901,rural,midwest
-David,Male,Unmarried,White,Catholic,61,Yes,Postgraduate degree,80186,urban,east
-Laura,Male,Unmarried,White,Jewish,38,No,Associate Degree,153646,suburban,midwest
-David,Female,Unmarried,Black,Catholic,26,No,Less then high school,67311,suburban,midwest
-Katie,Male,Married,White,Catholic,64,Yes,Postgraduate degree,35188,urban,west
-Abigail,Female,Married,Asian,Atheist,20,No,Associate Degree,92574,urban,south
-Olivia,Male,Unmarried,Black,Protestant,48,Yes,High School,39173,rural,east
-Amelia,Female,Unmarried,Other,Atheist,32,No,High School,37846,rural,midwest
-Ethan,Female,Married,White,Catholic,64,Yes,High School,195245,urban,east
-Chris,Female,Married,Black,Others,42,No,Postgraduate degree,163868,suburban,midwest
-Sarah,Female,Married,White,Catholic,48,No,Associate Degree,57437,urban,east
-Sarah,Female,Unmarried,Native American,Catholic,41,No,Postgraduate degree,78302,rural,midwest
-Sophia,Male,Married,Other,Catholic,24,Yes,Less then high school,104090,rural,midwest
-James,Female,Married,Black,Others,31,No,Postgraduate degree,31015,rural,south
-Emily,Male,Married,Latino,Atheist,61,No,Associate Degree,82177,rural,midwest
-Benjamin,Male,Married,Other,Jewish,33,Yes,High School,40107,urban,midwest
-Elijah,Female,Married,Black,Others,34,Yes,High School,38173,rural,south
-Sophia,Female,Unmarried,Black,Protestant,41,Yes,Less then high school,116018,urban,west
-Daniel,Male,Married,Black,Jewish,39,No,Associate Degree,81970,rural,east
-Ethan,Female,Married,Native American,Others,41,No,Postgraduate degree,84279,urban,south
-Katie,Male,Married,Other,Catholic,34,Yes,Associate Degree,66244,urban,midwest
-Evelyn,Male,Unmarried,Asian,Catholic,35,No,Associate Degree,47714,urban,midwest
-Lucas,Male,Married,Latino,Jewish,26,Yes,Postgraduate degree,173537,suburban,west
-Laura,Male,Married,Black,Catholic,32,No,Less then high school,145175,suburban,east
-Katie,Female,Married,Native American,Protestant,43,Yes,Postgraduate degree,103158,urban,midwest
-Andrew,Male,Unmarried,Latino,Atheist,59,No,Associate Degree,35619,suburban,midwest
-Olivia,Female,Unmarried,Native American,Jewish,34,No,Bachelor's Degree,40463,suburban,south
-John,Male,Married,Other,Jewish,36,Yes,Associate Degree,181599,urban,west
-Chris,Female,Married,Native American,Jewish,62,Yes,Associate Degree,119853,urban,south
-Abigail,Female,Unmarried,White,Jewish,61,No,Less then high school,109452,suburban,midwest
-Benjamin,Female,Married,Native American,Atheist,36,No,Bachelor's Degree,156419,rural,west
-Ethan,Female,Married,Black,Others,46,Yes,Associate Degree,140956,rural,south
-Harper,Male,Unmarried,Black,Others,22,No,Postgraduate degree,47401,suburban,east
-Abigail,Female,Unmarried,Native American,Catholic,20,Yes,Postgraduate degree,140526,rural,west
-Katie,Female,Unmarried,Latino,Others,57,Yes,Postgraduate degree,134319,rural,west
-Sophia,Male,Married,Latino,Others,37,Yes,Associate Degree,86714,rural,south
-Sarah,Female,Unmarried,Black,Others,48,No,High School,70754,suburban,south
-Andrew,Female,Unmarried,Black,Protestant,30,No,Associate Degree,199566,rural,south
-Harper,Male,Married,Native American,Protestant,34,Yes,Less then high school,168352,rural,midwest
-Andrew,Male,Unmarried,Native American,Jewish,59,Yes,Bachelor's Degree,52043,urban,west
-David,Male,Unmarried,Black,Protestant,22,Yes,High School,156384,urban,midwest
-Michael,Male,Married,White,Jewish,31,Yes,Postgraduate degree,150680,urban,midwest
-Samuel,Male,Unmarried,White,Catholic,50,No,Bachelor's Degree,187964,suburban,east
-Emma,Female,Married,Latino,Protestant,29,No,Postgraduate degree,47307,rural,west
-Joseph,Male,Unmarried,Black,Protestant,56,Yes,Bachelor's Degree,182364,suburban,east
-Laura,Male,Married,Native American,Others,34,No,Less then high school,164778,suburban,midwest
-Benjamin,Female,Unmarried,Native American,Catholic,26,No,Associate Degree,78141,urban,east
-Joseph,Female,Unmarried,Black,Atheist,33,No,Bachelor's Degree,145888,suburban,midwest
-Evelyn,Female,Married,Native American,Jewish,43,Yes,Associate Degree,173235,urban,west
-Harper,Female,Unmarried,White,Atheist,47,No,Postgraduate degree,139585,rural,midwest
-Chris,Female,Married,Other,Atheist,59,Yes,Bachelor's Degree,58075,rural,east
-Michael,Female,Unmarried,Asian,Jewish,47,No,Less then high school,40928,urban,west
-Lucas,Male,Married,White,Protestant,59,Yes,Associate Degree,189173,urban,west
-Ethan,Female,Married,White,Protestant,21,No,Bachelor's Degree,134072,suburban,south
-Ethan,Female,Unmarried,Native American,Others,27,Yes,Bachelor's Degree,108129,rural,south
-Sarah,Female,Unmarried,Other,Protestant,54,Yes,Postgraduate degree,60692,suburban,west
-Lucas,Female,Unmarried,Native American,Jewish,50,No,Associate Degree,76200,urban,south
-Elijah,Male,Married,White,Protestant,63,No,High School,142335,rural,south
-Isabella,Female,Married,White,Catholic,46,Yes,Associate Degree,141481,suburban,west
-Benjamin,Female,Married,Asian,Atheist,61,Yes,High School,197625,urban,west
-Harper,Female,Unmarried,Native American,Atheist,20,Yes,Postgraduate degree,93707,rural,south
-Sophia,Male,Married,Black,Catholic,34,Yes,Less then high school,105415,suburban,south
-Harper,Male,Unmarried,Native American,Others,33,Yes,Less then high school,48398,rural,west
-Ethan,Female,Married,Asian,Protestant,42,Yes,Less then high school,194530,suburban,west
-Olivia,Male,Married,Other,Protestant,30,No,High School,151078,suburban,south
-Lucas,Male,Married,Black,Others,26,Yes,Less then high school,86427,urban,east
-Joseph,Male,Unmarried,Asian,Others,22,Yes,High School,144471,urban,east
-Elijah,Male,Married,White,Catholic,65,Yes,High School,103311,suburban,south
-David,Female,Married,Latino,Protestant,23,Yes,Associate Degree,94011,urban,south
-Evelyn,Female,Married,Native American,Atheist,52,Yes,Postgraduate degree,188236,urban,midwest
-Emily,Male,Unmarried,Latino,Others,52,Yes,High School,61271,urban,south
-David,Male,Unmarried,Native American,Jewish,19,Yes,High School,115449,rural,east
-Samuel,Female,Unmarried,White,Jewish,18,No,Bachelor's Degree,142264,suburban,south
-Sarah,Female,Married,Asian,Jewish,65,No,Bachelor's Degree,70979,rural,midwest
-Michael,Male,Married,White,Others,23,No,Postgraduate degree,152087,suburban,south
-Alex,Male,Married,Black,Protestant,22,Yes,Associate Degree,95962,rural,south
-Andrew,Female,Unmarried,White,Others,59,Yes,Postgraduate degree,115852,urban,west
-Olivia,Female,Married,White,Protestant,31,Yes,High School,60616,suburban,south
-Olivia,Female,Married,Black,Others,36,No,Postgraduate degree,153748,rural,midwest
-Evelyn,Male,Unmarried,Other,Atheist,63,Yes,Associate Degree,86808,rural,east
-David,Male,Unmarried,Other,Protestant,54,No,Bachelor's Degree,31623,suburban,midwest
-Andrew,Female,Unmarried,Asian,Others,23,No,Associate Degree,149603,rural,midwest
-Benjamin,Male,Married,Black,Catholic,18,Yes,Bachelor's Degree,169208,urban,west
-Emily,Female,Unmarried,White,Atheist,55,No,Postgraduate degree,131920,rural,west
-Harper,Female,Married,Asian,Protestant,65,No,Bachelor's Degree,100151,rural,west
-Michael,Male,Unmarried,Native American,Jewish,56,No,Associate Degree,66615,urban,midwest
-Evelyn,Female,Unmarried,Black,Jewish,30,Yes,Associate Degree,171841,urban,west
-John,Male,Unmarried,Latino,Catholic,29,Yes,High School,53290,suburban,midwest
-Ethan,Female,Unmarried,Black,Atheist,40,No,High School,132458,suburban,west
-Chris,Female,Married,Asian,Others,58,Yes,Associate Degree,108467,urban,east
-Charlotte,Male,Married,Other,Others,53,No,Bachelor's Degree,32096,rural,west
-Evelyn,Female,Unmarried,Black,Atheist,54,No,High School,121718,urban,west
-David,Male,Unmarried,White,Others,44,Yes,High School,43655,suburban,west
-Jane,Female,Unmarried,Black,Catholic,52,Yes,High School,189278,urban,south
-Isabella,Female,Married,Asian,Atheist,19,No,Less then high school,197918,urban,south
-Abigail,Female,Married,Asian,Jewish,50,Yes,Less then high school,104513,urban,south
-Harper,Male,Unmarried,Native American,Jewish,24,Yes,Bachelor's Degree,96907,suburban,south
-Harper,Male,Unmarried,Other,Protestant,57,No,Bachelor's Degree,74835,urban,south
-Andrew,Male,Married,Latino,Atheist,64,No,Associate Degree,79293,suburban,south
-Andrew,Female,Married,Other,Atheist,51,Yes,Postgraduate degree,130640,suburban,midwest
-Olivia,Male,Unmarried,White,Jewish,57,Yes,Less then high school,61746,rural,midwest
-Joseph,Female,Unmarried,Latino,Protestant,19,Yes,High School,114959,rural,midwest
-Alex,Female,Married,Asian,Atheist,46,No,Associate Degree,80964,suburban,east
-Daniel,Male,Married,Black,Jewish,59,No,Less then high school,71511,suburban,east
-Olivia,Male,Unmarried,White,Protestant,43,Yes,Less then high school,134085,urban,south
-Chris,Male,Unmarried,Asian,Protestant,25,Yes,Bachelor's Degree,37792,rural,midwest
-Jane,Male,Unmarried,White,Jewish,52,No,Less then high school,81622,urban,midwest
-Andrew,Male,Unmarried,Latino,Others,18,No,High School,56924,rural,south
-Evelyn,Male,Unmarried,Latino,Jewish,54,No,Bachelor's Degree,197800,urban,midwest
-Matthew,Male,Married,Native American,Atheist,32,No,Postgraduate degree,140136,urban,east
-Joseph,Female,Unmarried,White,Atheist,53,No,Bachelor's Degree,118960,rural,midwest
-Emily,Male,Unmarried,Native American,Others,45,No,Postgraduate degree,135380,urban,west
-Abigail,Male,Married,Latino,Protestant,25,Yes,Bachelor's Degree,89286,rural,midwest
-Benjamin,Female,Married,Other,Catholic,49,No,Bachelor's Degree,69989,suburban,west
-Joseph,Female,Unmarried,Other,Protestant,54,No,Postgraduate degree,62043,rural,midwest
-Michael,Female,Unmarried,Black,Catholic,65,No,Bachelor's Degree,195018,rural,east
-Sophia,Male,Unmarried,Native American,Jewish,23,Yes,Bachelor's Degree,97825,suburban,west
-Laura,Female,Unmarried,Latino,Others,50,No,Associate Degree,141056,rural,south
-Michael,Male,Married,Latino,Jewish,47,No,Associate Degree,72552,suburban,west
-James,Male,Unmarried,Black,Atheist,62,Yes,Associate Degree,56876,rural,midwest
-Sarah,Male,Married,Black,Jewish,47,No,Associate Degree,140740,suburban,east
-Chris,Male,Unmarried,White,Atheist,60,No,Bachelor's Degree,119330,suburban,east
-Elijah,Female,Unmarried,White,Others,20,Yes,Postgraduate degree,197707,urban,south
-David,Female,Unmarried,White,Protestant,42,Yes,Bachelor's Degree,174150,rural,east
-Amelia,Female,Unmarried,White,Catholic,27,Yes,High School,82953,urban,east
-Emma,Male,Married,Black,Protestant,22,Yes,Less then high school,81961,suburban,east
-Jane,Female,Married,Native American,Jewish,19,No,Bachelor's Degree,132596,urban,east
-Isabella,Female,Married,Asian,Catholic,58,Yes,Postgraduate degree,196552,rural,west
-Mia,Male,Married,Asian,Atheist,26,Yes,Postgraduate degree,50209,suburban,south
-David,Male,Unmarried,Latino,Catholic,33,No,Postgraduate degree,116007,suburban,south
-Samuel,Female,Married,White,Protestant,60,Yes,Less then high school,184548,suburban,west
-David,Female,Married,Native American,Others,31,No,Less then high school,66328,suburban,east
-Chris,Male,Unmarried,Other,Catholic,26,No,Less then high school,199689,rural,south
-Laura,Male,Married,Black,Others,50,Yes,Associate Degree,146330,urban,east
-Sophia,Female,Unmarried,Native American,Jewish,31,Yes,Bachelor's Degree,167530,rural,west
-Matthew,Male,Unmarried,Black,Atheist,44,Yes,Less then high school,114963,suburban,south
-Joseph,Male,Married,Latino,Protestant,54,Yes,High School,175878,suburban,midwest
-Abigail,Male,Unmarried,White,Jewish,48,Yes,High School,168681,suburban,east
-Andrew,Female,Unmarried,Latino,Catholic,33,Yes,Less then high school,179372,urban,east
-Harper,Female,Married,Other,Others,50,Yes,High School,139742,suburban,east
-Chris,Female,Married,White,Catholic,35,No,High School,49702,suburban,midwest
-Abigail,Male,Married,White,Protestant,41,Yes,Associate Degree,78709,urban,midwest
-Laura,Female,Unmarried,Black,Catholic,37,No,Associate Degree,123072,rural,south
-Ethan,Male,Unmarried,Latino,Atheist,43,Yes,Postgraduate degree,190486,suburban,south
-Charlotte,Female,Married,Native American,Atheist,28,Yes,Bachelor's Degree,175344,urban,midwest
-John,Female,Married,Asian,Jewish,63,Yes,Less then high school,124508,suburban,south
-Lucas,Male,Unmarried,Native American,Catholic,57,Yes,Bachelor's Degree,110169,suburban,south
-Michael,Female,Married,Other,Jewish,56,Yes,Associate Degree,178512,urban,south
-Elijah,Female,Married,Native American,Others,37,No,Associate Degree,168683,rural,midwest
-Ethan,Female,Married,Other,Atheist,29,No,Associate Degree,190740,urban,east
-Sophia,Male,Married,White,Protestant,31,No,High School,147616,suburban,east
-John,Male,Unmarried,Native American,Atheist,45,No,Postgraduate degree,123596,urban,east
-Isabella,Male,Married,Black,Catholic,23,No,High School,76156,urban,south
-Sophia,Female,Unmarried,Latino,Catholic,55,Yes,Associate Degree,125603,suburban,midwest
-Abigail,Female,Unmarried,Other,Atheist,53,Yes,Associate Degree,199087,urban,south
-Alex,Male,Unmarried,Latino,Catholic,33,No,Bachelor's Degree,30944,suburban,east
-Harper,Male,Married,White,Jewish,37,Yes,Bachelor's Degree,159124,suburban,midwest
-Chris,Female,Married,Latino,Catholic,46,Yes,Bachelor's Degree,155906,rural,west
-Charlotte,Female,Unmarried,Native American,Protestant,19,Yes,Bachelor's Degree,41285,rural,west
-Jane,Male,Married,Asian,Others,24,No,Less then high school,45443,urban,midwest
-Abigail,Male,Unmarried,Other,Catholic,61,No,Bachelor's Degree,151659,suburban,west
-Charlotte,Male,Married,Other,Jewish,22,Yes,Less then high school,156595,rural,south
-Mia,Female,Unmarried,Native American,Atheist,19,No,Bachelor's Degree,63794,suburban,west
-Evelyn,Male,Unmarried,Latino,Protestant,30,No,Associate Degree,51454,urban,east
-Evelyn,Female,Unmarried,Latino,Jewish,38,No,Associate Degree,64475,urban,midwest
-Katie,Male,Married,Asian,Others,42,No,Less then high school,104820,suburban,midwest
-David,Male,Unmarried,White,Catholic,29,No,Less then high school,108049,suburban,east
-James,Male,Unmarried,Latino,Atheist,37,No,Less then high school,160189,urban,south
-Benjamin,Male,Married,Asian,Catholic,50,Yes,Bachelor's Degree,166140,suburban,east
-Evelyn,Male,Unmarried,Native American,Atheist,64,Yes,Bachelor's Degree,53829,urban,west
-Sarah,Female,Married,Black,Others,24,Yes,High School,101351,suburban,south
-Katie,Male,Unmarried,Black,Jewish,24,Yes,Postgraduate degree,82341,rural,south
-Ethan,Female,Unmarried,Latino,Catholic,20,Yes,Associate Degree,157382,urban,west
-John,Male,Unmarried,Asian,Others,39,No,High School,132532,urban,east
-Katie,Male,Unmarried,Latino,Others,41,Yes,Associate Degree,92960,suburban,south
-Sarah,Female,Unmarried,Native American,Catholic,52,No,Bachelor's Degree,157796,urban,south
-Jane,Female,Unmarried,Asian,Protestant,20,No,Bachelor's Degree,36050,urban,west
-Evelyn,Male,Married,Black,Atheist,58,No,Bachelor's Degree,113238,urban,east
-Abigail,Male,Married,Black,Others,55,No,Postgraduate degree,129786,suburban,south
-John,Male,Unmarried,Latino,Atheist,57,Yes,High School,149223,urban,south
-Emily,Male,Unmarried,Native American,Catholic,38,Yes,High School,99900,urban,east
-Ethan,Female,Married,Black,Others,40,No,Bachelor's Degree,135735,suburban,east
-Samuel,Male,Married,Black,Catholic,49,Yes,Associate Degree,188357,rural,south
-Chris,Female,Married,Other,Catholic,31,No,High School,153720,suburban,west
-Isabella,Male,Married,White,Protestant,41,Yes,Associate Degree,38024,suburban,south
-Emma,Male,Unmarried,Black,Jewish,28,No,Postgraduate degree,195691,rural,east
-Andrew,Male,Unmarried,Black,Atheist,59,No,Bachelor's Degree,181805,suburban,west
-Isabella,Male,Married,White,Protestant,28,Yes,Less then high school,166302,rural,south
-Olivia,Female,Married,Other,Protestant,37,Yes,High School,135366,urban,east
-Katie,Male,Unmarried,Native American,Catholic,50,No,High School,162008,suburban,south
-Lucas,Female,Unmarried,Native American,Atheist,60,Yes,Associate Degree,90733,urban,east
-Michael,Female,Married,Native American,Catholic,51,No,Postgraduate degree,180693,urban,west
-Daniel,Male,Unmarried,White,Atheist,20,Yes,High School,87392,suburban,east
-Abigail,Male,Married,Other,Atheist,65,No,Associate Degree,47903,urban,east
-Daniel,Male,Married,Asian,Jewish,29,Yes,Bachelor's Degree,132673,urban,midwest
-Jane,Female,Married,Other,Protestant,54,No,High School,173385,suburban,west
-Harper,Female,Unmarried,Black,Protestant,41,Yes,Bachelor's Degree,160009,suburban,south
-Isabella,Female,Unmarried,Native American,Protestant,23,Yes,Associate Degree,112870,suburban,south
-Andrew,Male,Unmarried,Black,Others,58,No,Associate Degree,155062,suburban,midwest
-Olivia,Female,Married,Other,Catholic,39,No,Postgraduate degree,156688,urban,west
-Abigail,Male,Unmarried,Latino,Protestant,57,Yes,High School,166650,suburban,midwest
-Sarah,Female,Married,Other,Protestant,49,Yes,High School,65517,urban,east
-Abigail,Male,Married,Black,Jewish,56,Yes,Postgraduate degree,191153,rural,south
-Ethan,Female,Unmarried,Asian,Protestant,65,No,Associate Degree,82371,urban,east
-Emily,Female,Married,White,Atheist,55,Yes,Associate Degree,195152,urban,east
-Emma,Female,Unmarried,Native American,Protestant,32,No,Less then high school,33388,urban,east
-Daniel,Female,Unmarried,Latino,Protestant,37,Yes,Postgraduate degree,169233,rural,midwest
-Benjamin,Female,Married,White,Others,49,Yes,Bachelor's Degree,45693,rural,south
-Harper,Male,Unmarried,White,Protestant,59,No,Less then high school,115053,urban,west
-Ethan,Female,Married,Native American,Jewish,65,Yes,Associate Degree,83861,urban,midwest
-Emily,Female,Married,Other,Others,28,No,High School,47187,suburban,south
-Mia,Female,Married,Native American,Protestant,27,Yes,Less then high school,168344,rural,west
-Andrew,Female,Unmarried,Black,Others,49,No,Bachelor's Degree,38002,suburban,south
-Chris,Male,Married,Black,Others,52,No,High School,179391,urban,south
-Matthew,Female,Unmarried,Latino,Atheist,43,Yes,Less then high school,144800,rural,south
-Sophia,Female,Unmarried,Native American,Catholic,36,Yes,Less then high school,174431,urban,midwest
-James,Male,Married,Black,Jewish,59,Yes,High School,141297,urban,east
-Samuel,Male,Married,White,Protestant,26,Yes,Postgraduate degree,136772,urban,midwest
-Andrew,Female,Married,White,Others,50,No,Bachelor's Degree,167582,rural,west
-Benjamin,Male,Married,Black,Atheist,51,No,Less then high school,115622,suburban,south
-Abigail,Male,Unmarried,Black,Catholic,65,No,Postgraduate degree,150719,suburban,midwest
-Andrew,Female,Unmarried,Other,Others,55,No,Bachelor's Degree,187414,rural,east
-Sophia,Male,Married,White,Atheist,38,No,High School,138861,suburban,west
-David,Female,Unmarried,White,Protestant,58,No,High School,91512,suburban,east
-Emily,Female,Unmarried,Asian,Others,45,No,High School,120391,suburban,south
-John,Female,Unmarried,Native American,Protestant,40,No,Less then high school,164281,urban,west
-Isabella,Female,Unmarried,Black,Catholic,59,Yes,Postgraduate degree,83504,urban,south
-Michael,Male,Unmarried,Latino,Jewish,56,No,Postgraduate degree,165750,rural,west
-Abigail,Female,Unmarried,Latino,Atheist,60,Yes,Bachelor's Degree,50326,urban,west
-Sophia,Female,Unmarried,Native American,Catholic,27,Yes,Postgraduate degree,101380,suburban,east
-Harper,Male,Married,Other,Catholic,35,Yes,Bachelor's Degree,64336,suburban,west
-Mia,Male,Unmarried,Black,Jewish,36,Yes,Associate Degree,165862,urban,south
-David,Male,Unmarried,Black,Atheist,38,No,Postgraduate degree,119882,urban,midwest
-Laura,Male,Married,Other,Atheist,46,Yes,Bachelor's Degree,197067,urban,west
-Jane,Female,Married,Asian,Others,21,No,High School,168012,rural,east
-Chris,Male,Married,White,Jewish,47,No,Less then high school,105736,urban,midwest
-Evelyn,Female,Married,Asian,Atheist,18,Yes,Associate Degree,34415,urban,south
-Amelia,Female,Unmarried,Other,Jewish,22,No,Bachelor's Degree,114827,urban,east
-Elijah,Female,Unmarried,Latino,Others,42,No,Bachelor's Degree,117497,rural,west
-Emma,Male,Married,Native American,Catholic,65,No,Less then high school,125825,rural,midwest
-Matthew,Male,Unmarried,Asian,Others,48,No,Postgraduate degree,180395,suburban,south
-Charlotte,Male,Unmarried,Latino,Protestant,24,Yes,Bachelor's Degree,99683,urban,east
-Charlotte,Female,Unmarried,White,Atheist,57,Yes,Less then high school,32997,rural,west
-Abigail,Female,Unmarried,Black,Others,59,No,Associate Degree,73712,urban,west
-Charlotte,Male,Married,Asian,Catholic,44,Yes,Postgraduate degree,46189,rural,midwest
-Emma,Female,Married,Black,Protestant,60,No,Postgraduate degree,199831,suburban,south
-Mia,Female,Unmarried,Black,Catholic,23,Yes,Bachelor's Degree,139764,suburban,east
-Harper,Male,Unmarried,Other,Atheist,45,No,Less then high school,132017,suburban,west
-Mia,Female,Unmarried,Latino,Jewish,19,No,Bachelor's Degree,158351,rural,south
-Olivia,Female,Unmarried,Other,Atheist,44,Yes,Postgraduate degree,193611,urban,midwest
-Jane,Male,Married,Other,Atheist,42,Yes,High School,49074,urban,midwest
-Katie,Female,Married,Asian,Jewish,28,No,High School,194551,urban,east
-Mia,Female,Unmarried,Black,Jewish,46,No,Bachelor's Degree,186909,suburban,south
-Michael,Female,Married,Asian,Others,55,No,Associate Degree,32473,urban,south
-Jane,Female,Unmarried,Latino,Jewish,35,No,Bachelor's Degree,159614,rural,east
-James,Male,Married,Latino,Others,26,No,Associate Degree,97830,urban,south
-Joseph,Female,Unmarried,Black,Others,51,No,Postgraduate degree,90278,urban,midwest
-John,Female,Unmarried,Latino,Jewish,64,No,Less then high school,108150,suburban,east
-Harper,Male,Unmarried,Black,Protestant,63,Yes,High School,109684,urban,east
-Matthew,Female,Married,Native American,Atheist,38,No,High School,101378,suburban,west
-Harper,Male,Unmarried,Native American,Protestant,44,Yes,Associate Degree,140335,rural,east
-Benjamin,Male,Unmarried,Asian,Jewish,53,No,Bachelor's Degree,104739,rural,east
-Alex,Male,Married,Native American,Others,32,No,Less then high school,153951,rural,south
-Andrew,Female,Married,Asian,Jewish,41,Yes,High School,81117,urban,east
-Charlotte,Male,Married,Black,Others,65,No,High School,183720,rural,south
-Benjamin,Male,Unmarried,Other,Atheist,56,Yes,High School,111613,rural,midwest
-Abigail,Female,Unmarried,Native American,Protestant,63,Yes,Less then high school,167480,suburban,midwest
-Katie,Male,Married,White,Protestant,24,No,Bachelor's Degree,103209,urban,west
-Daniel,Female,Unmarried,Black,Catholic,38,No,Postgraduate degree,65950,rural,east
-Samuel,Male,Unmarried,Black,Others,63,Yes,Less then high school,191283,rural,south
-Elijah,Male,Married,Latino,Jewish,34,No,Less then high school,32710,rural,east
-Harper,Male,Unmarried,Latino,Atheist,61,Yes,Bachelor's Degree,36108,urban,east
-Harper,Female,Unmarried,White,Atheist,22,Yes,Associate Degree,45315,suburban,west
-Alex,Male,Married,Other,Catholic,35,No,High School,107254,urban,south
-Sophia,Female,Unmarried,White,Jewish,51,Yes,Bachelor's Degree,59725,rural,midwest
-Samuel,Female,Unmarried,Asian,Atheist,63,No,Associate Degree,176821,suburban,west
-Chris,Female,Married,Asian,Jewish,29,No,Less then high school,94574,suburban,south
-Abigail,Male,Married,Latino,Atheist,28,No,Bachelor's Degree,159593,rural,west
-Laura,Male,Married,Native American,Protestant,50,Yes,Postgraduate degree,188160,urban,east
-Sophia,Female,Unmarried,Native American,Catholic,26,No,Less then high school,128895,urban,east
-Lucas,Male,Married,White,Others,24,No,Less then high school,168511,urban,midwest
-Olivia,Female,Married,Black,Atheist,54,Yes,Postgraduate degree,173834,urban,east
-Jane,Female,Married,Asian,Atheist,36,No,Postgraduate degree,171332,urban,midwest
-Michael,Male,Married,White,Jewish,26,Yes,High School,169631,rural,east
-James,Male,Married,Other,Protestant,53,No,Postgraduate degree,136487,rural,midwest
-Olivia,Female,Married,Asian,Protestant,58,Yes,Bachelor's Degree,31010,suburban,east
-Amelia,Male,Married,Black,Catholic,50,Yes,Associate Degree,120812,suburban,south
-Sophia,Male,Unmarried,Asian,Catholic,55,Yes,Postgraduate degree,190999,urban,east
-Elijah,Male,Married,Latino,Protestant,60,No,Less then high school,188327,rural,midwest
-Abigail,Female,Married,White,Atheist,42,Yes,Associate Degree,80189,rural,midwest
-Sophia,Female,Married,Latino,Catholic,32,No,High School,129459,urban,west
-Alex,Female,Unmarried,Asian,Catholic,40,No,Associate Degree,37164,rural,midwest
-Lucas,Male,Married,Other,Catholic,62,Yes,Postgraduate degree,146753,urban,south
-Michael,Male,Unmarried,Native American,Protestant,41,Yes,Associate Degree,114967,urban,south
-Daniel,Male,Married,Other,Others,32,No,Less then high school,107055,suburban,midwest
-James,Female,Unmarried,Asian,Catholic,52,No,Postgraduate degree,166379,rural,midwest
-Chris,Female,Unmarried,Native American,Catholic,58,Yes,High School,144810,urban,midwest
-Ethan,Female,Unmarried,Black,Jewish,27,No,Bachelor's Degree,172764,rural,midwest
-Michael,Male,Unmarried,Asian,Others,33,Yes,Bachelor's Degree,157999,rural,west
-Daniel,Female,Married,Asian,Protestant,47,No,Postgraduate degree,70293,rural,south
-Andrew,Female,Married,White,Catholic,56,No,Associate Degree,130212,rural,south
-Ethan,Male,Married,White,Atheist,43,Yes,Bachelor's Degree,157085,urban,south
-Matthew,Male,Unmarried,Latino,Jewish,31,Yes,Less then high school,169624,rural,midwest
-Elijah,Female,Married,White,Atheist,35,Yes,Bachelor's Degree,44096,urban,west
-Benjamin,Female,Unmarried,Native American,Jewish,42,No,Less then high school,148834,suburban,south
-Elijah,Female,Married,Native American,Jewish,53,No,Less then high school,162198,urban,west
-Sophia,Female,Married,Latino,Catholic,44,Yes,Postgraduate degree,175266,urban,west
-Michael,Female,Unmarried,Asian,Atheist,49,Yes,High School,139861,urban,midwest
-Michael,Male,Married,White,Atheist,64,No,High School,174707,urban,west
-Jane,Female,Married,Latino,Protestant,40,No,Less then high school,106782,urban,south
-Chris,Male,Unmarried,Asian,Jewish,47,No,Less then high school,76712,rural,south
-David,Male,Married,White,Jewish,21,No,Postgraduate degree,162705,rural,west
-John,Female,Married,Native American,Jewish,53,No,Postgraduate degree,187659,urban,midwest
-Mia,Male,Married,Asian,Others,36,No,Associate Degree,108400,suburban,south
-Jane,Female,Unmarried,Black,Atheist,46,Yes,Associate Degree,69663,urban,south
-Olivia,Female,Unmarried,Asian,Protestant,29,No,High School,161184,suburban,east
-Michael,Male,Unmarried,Other,Catholic,50,Yes,Bachelor's Degree,48000,rural,south
-Andrew,Male,Unmarried,Asian,Catholic,30,Yes,Bachelor's Degree,167010,urban,midwest
-Olivia,Male,Unmarried,Native American,Atheist,64,No,Postgraduate degree,154346,urban,west
-Laura,Female,Unmarried,Black,Others,49,No,Less then high school,55605,suburban,east
-Benjamin,Female,Unmarried,Other,Protestant,24,No,Less then high school,43396,rural,west
-Charlotte,Male,Unmarried,Native American,Atheist,33,No,High School,113446,rural,east
-Alex,Female,Married,Other,Catholic,56,Yes,Less then high school,84216,suburban,south
-Matthew,Male,Unmarried,White,Protestant,46,Yes,Less then high school,107034,rural,midwest
-Ethan,Male,Unmarried,Asian,Protestant,29,Yes,Bachelor's Degree,129125,suburban,midwest
-Lucas,Male,Married,Native American,Protestant,22,Yes,Less then high school,140917,rural,east
-Daniel,Female,Unmarried,Native American,Atheist,54,Yes,Associate Degree,46596,suburban,west
-Sophia,Female,Unmarried,Other,Jewish,24,Yes,Associate Degree,142462,rural,south
-Katie,Female,Married,Native American,Others,22,No,Postgraduate degree,190368,rural,south
-Michael,Male,Married,Asian,Jewish,20,Yes,Less then high school,37447,rural,west
-David,Male,Unmarried,Asian,Catholic,64,No,Less then high school,86022,urban,east
-Alex,Female,Unmarried,Other,Catholic,41,No,Associate Degree,164202,rural,east
-Alex,Female,Unmarried,Black,Atheist,55,Yes,Less then high school,103731,rural,east
-Andrew,Male,Married,Asian,Others,62,Yes,Less then high school,155696,suburban,midwest
-Olivia,Male,Married,Other,Catholic,41,Yes,Bachelor's Degree,45758,rural,south
-Katie,Female,Married,Latino,Protestant,20,Yes,High School,50802,rural,south
-Michael,Male,Married,Latino,Protestant,60,No,High School,84925,suburban,west
-Charlotte,Female,Married,Asian,Others,23,Yes,Less then high school,188844,urban,west
-Laura,Male,Unmarried,Latino,Atheist,45,Yes,Less then high school,121582,suburban,midwest
-Isabella,Female,Unmarried,Asian,Catholic,34,No,Associate Degree,182563,rural,south
-James,Female,Unmarried,White,Catholic,42,No,Associate Degree,101997,suburban,midwest
-Emily,Male,Married,Native American,Others,22,Yes,Less then high school,136820,rural,midwest
-Andrew,Female,Unmarried,White,Jewish,56,Yes,Less then high school,130031,rural,midwest
-Chris,Female,Unmarried,Asian,Jewish,44,Yes,Less then high school,90806,suburban,west
-John,Female,Married,Latino,Atheist,27,No,Postgraduate degree,143581,urban,south
-Amelia,Male,Married,White,Catholic,61,Yes,Postgraduate degree,50495,suburban,east
-James,Female,Unmarried,Native American,Catholic,47,No,Less then high school,126666,rural,west
-Olivia,Male,Married,Latino,Atheist,39,Yes,Less then high school,184254,rural,south
-Alex,Female,Unmarried,Asian,Catholic,58,Yes,Postgraduate degree,76349,suburban,west
-Elijah,Female,Unmarried,White,Jewish,32,Yes,High School,111917,urban,midwest
-Elijah,Male,Married,Asian,Protestant,59,No,Associate Degree,169986,urban,midwest
-Abigail,Male,Unmarried,White,Jewish,49,Yes,Less then high school,130503,rural,midwest
-Harper,Female,Unmarried,White,Atheist,24,No,Associate Degree,142793,urban,east
-Alex,Male,Unmarried,White,Catholic,23,No,Bachelor's Degree,43256,urban,midwest
-Andrew,Male,Married,Asian,Jewish,19,Yes,Associate Degree,164602,suburban,west
-Michael,Female,Married,Native American,Protestant,30,Yes,Bachelor's Degree,162529,rural,south
-Sarah,Female,Unmarried,White,Atheist,57,Yes,Postgraduate degree,81084,rural,east
-Olivia,Male,Unmarried,Black,Atheist,60,No,Postgraduate degree,145233,urban,south
-Olivia,Female,Unmarried,Latino,Atheist,54,Yes,Bachelor's Degree,138304,urban,south
-James,Male,Married,White,Atheist,23,Yes,Less then high school,80072,urban,south
-Elijah,Female,Unmarried,Native American,Atheist,45,No,Bachelor's Degree,69574,urban,west
-Laura,Female,Married,Other,Atheist,27,Yes,High School,177010,urban,south
-Sarah,Male,Married,White,Protestant,31,Yes,High School,164977,suburban,west
-Abigail,Male,Unmarried,Other,Catholic,37,No,Less then high school,108357,rural,midwest
-Matthew,Female,Unmarried,White,Catholic,55,No,Bachelor's Degree,35501,suburban,south
-Isabella,Female,Unmarried,Black,Others,36,No,Less then high school,167439,rural,west
-Evelyn,Male,Married,White,Jewish,65,Yes,Less then high school,93549,suburban,midwest
-Emma,Female,Unmarried,Other,Others,33,No,Less then high school,56993,urban,midwest
-Andrew,Male,Unmarried,Native American,Catholic,28,No,High School,121973,suburban,south
-Mia,Male,Unmarried,Latino,Catholic,52,Yes,Postgraduate degree,118352,urban,east
-Charlotte,Male,Unmarried,Black,Atheist,55,No,Less then high school,191674,suburban,east
-Amelia,Male,Married,Native American,Catholic,37,Yes,Postgraduate degree,192008,rural,east
-Matthew,Male,Unmarried,Black,Catholic,56,No,Bachelor's Degree,136130,rural,midwest
-Amelia,Male,Married,Asian,Protestant,60,Yes,Bachelor's Degree,55607,urban,east
-Chris,Male,Unmarried,Native American,Jewish,47,No,Less then high school,141282,rural,west
-Sarah,Male,Unmarried,Black,Atheist,48,Yes,High School,132044,suburban,midwest
-Alex,Female,Unmarried,Native American,Others,48,Yes,Less then high school,57771,urban,east
-Katie,Female,Unmarried,Asian,Protestant,36,No,Bachelor's Degree,82116,suburban,south
-Ethan,Female,Married,White,Atheist,36,Yes,Bachelor's Degree,85807,urban,south
-Mia,Female,Married,Other,Others,19,Yes,Bachelor's Degree,64116,suburban,east
-Andrew,Male,Married,Black,Catholic,20,No,Bachelor's Degree,35039,suburban,east
-Emily,Male,Married,White,Jewish,19,Yes,Less then high school,141968,urban,east
-James,Male,Unmarried,Black,Jewish,47,No,High School,75678,urban,midwest
-Laura,Female,Married,Latino,Catholic,27,Yes,High School,77393,rural,west
-Benjamin,Female,Married,Native American,Atheist,29,Yes,Bachelor's Degree,127690,rural,west
-Charlotte,Male,Unmarried,White,Atheist,57,No,High School,140647,rural,south
-Alex,Male,Married,Other,Catholic,50,No,Postgraduate degree,183972,urban,west
-Samuel,Male,Unmarried,Other,Jewish,25,No,Postgraduate degree,88141,suburban,south
-David,Female,Unmarried,Native American,Atheist,53,No,High School,135474,suburban,south
-Benjamin,Female,Unmarried,Latino,Others,30,Yes,High School,197058,urban,west
-Amelia,Female,Unmarried,Other,Catholic,40,Yes,High School,60202,urban,midwest
-Olivia,Male,Unmarried,Asian,Protestant,48,No,High School,132562,suburban,east
-Elijah,Female,Unmarried,Asian,Atheist,52,No,Bachelor's Degree,50862,urban,midwest
-Olivia,Male,Unmarried,Native American,Catholic,28,Yes,High School,43615,urban,midwest
-Evelyn,Male,Unmarried,Other,Catholic,54,Yes,Bachelor's Degree,172506,urban,east
-Sophia,Male,Unmarried,Native American,Catholic,53,No,Postgraduate degree,52864,suburban,west
-Benjamin,Female,Married,Native American,Protestant,52,No,High School,175187,suburban,east
-Chris,Female,Unmarried,Latino,Jewish,23,Yes,Less then high school,45018,suburban,south
-Joseph,Male,Unmarried,Native American,Catholic,38,Yes,High School,32519,rural,west
-Emily,Male,Unmarried,White,Atheist,28,No,High School,162829,urban,west
-Emma,Male,Married,Other,Atheist,64,No,High School,55314,rural,midwest
-Samuel,Male,Unmarried,Asian,Atheist,34,No,Associate Degree,54928,urban,east
-Samuel,Male,Unmarried,Asian,Catholic,33,No,High School,143371,rural,west
-Sophia,Female,Unmarried,Native American,Catholic,39,No,Postgraduate degree,31688,rural,midwest
-Sarah,Male,Married,White,Others,24,No,Postgraduate degree,116638,rural,east
-Evelyn,Female,Unmarried,Other,Catholic,61,Yes,Associate Degree,64983,suburban,west
-Harper,Female,Unmarried,Native American,Protestant,40,Yes,Associate Degree,150807,urban,south
-Benjamin,Male,Married,Black,Atheist,33,Yes,Less then high school,74509,urban,midwest
-Emma,Male,Married,White,Atheist,49,Yes,Postgraduate degree,150154,suburban,west
-Jane,Female,Unmarried,Asian,Catholic,30,No,Postgraduate degree,155582,urban,east
-Olivia,Male,Married,Native American,Atheist,44,No,High School,172360,urban,west
-Elijah,Female,Married,Other,Atheist,46,No,Postgraduate degree,165587,rural,south
-Daniel,Male,Married,Latino,Others,63,No,Postgraduate degree,54840,suburban,west
-Harper,Female,Married,Native American,Atheist,38,Yes,Bachelor's Degree,96844,suburban,south
-Emily,Male,Unmarried,Native American,Catholic,61,Yes,Postgraduate degree,185144,urban,south
-Olivia,Male,Unmarried,Black,Atheist,26,No,Less then high school,178756,urban,midwest
-Emma,Female,Unmarried,Asian,Others,64,No,Bachelor's Degree,194369,urban,south
-Evelyn,Male,Unmarried,White,Others,53,No,Bachelor's Degree,132398,suburban,midwest
-Sophia,Male,Unmarried,Latino,Jewish,36,Yes,Less then high school,120346,suburban,west
-Charlotte,Female,Unmarried,White,Others,52,No,Postgraduate degree,141324,rural,west
-Evelyn,Male,Married,White,Jewish,30,Yes,Postgraduate degree,144746,urban,midwest
-Katie,Male,Unmarried,Asian,Catholic,26,Yes,Less then high school,73438,suburban,west
-John,Male,Unmarried,Native American,Catholic,19,Yes,Postgraduate degree,132744,rural,west
-Emma,Female,Unmarried,Other,Atheist,32,No,Associate Degree,189876,suburban,midwest
-Harper,Male,Unmarried,Other,Others,36,No,Postgraduate degree,112705,suburban,west
-Benjamin,Female,Married,White,Protestant,26,Yes,Less then high school,30427,rural,east
-Lucas,Male,Unmarried,White,Atheist,33,Yes,Associate Degree,91303,suburban,east
-Benjamin,Female,Unmarried,Black,Atheist,46,No,High School,191113,suburban,west
-John,Female,Married,Asian,Others,43,Yes,Bachelor's Degree,72712,urban,west
-Emma,Female,Unmarried,Other,Catholic,39,Yes,Associate Degree,135322,urban,east
-Amelia,Female,Married,Black,Others,33,No,Bachelor's Degree,51307,urban,west
-Evelyn,Female,Married,Asian,Catholic,38,Yes,Postgraduate degree,131730,suburban,midwest
-Mia,Male,Married,Other,Atheist,21,Yes,Bachelor's Degree,140716,urban,south
-Mia,Male,Unmarried,White,Atheist,54,No,Less then high school,131018,suburban,west
-Ethan,Male,Married,Latino,Protestant,18,Yes,High School,81769,urban,east
-Jane,Female,Married,White,Others,28,Yes,Postgraduate degree,135352,rural,midwest
-David,Female,Unmarried,Native American,Jewish,54,No,Less then high school,144651,suburban,west
-Laura,Female,Married,Other,Atheist,18,Yes,Postgraduate degree,85825,suburban,east
-Sarah,Male,Married,Asian,Others,23,No,Bachelor's Degree,74422,rural,east
-Emily,Female,Unmarried,White,Protestant,43,Yes,High School,76365,suburban,east
-Charlotte,Female,Unmarried,Asian,Others,58,No,Associate Degree,57983,suburban,midwest
-Emily,Male,Unmarried,Other,Protestant,49,No,Postgraduate degree,80136,suburban,west
-James,Male,Unmarried,Asian,Others,38,No,High School,31297,rural,east
-Emily,Female,Unmarried,Black,Atheist,32,No,Associate Degree,136370,suburban,west
-James,Male,Married,Latino,Protestant,56,Yes,Associate Degree,46256,rural,midwest
-Katie,Male,Married,Other,Atheist,19,Yes,Postgraduate degree,115028,rural,east
-John,Female,Married,Asian,Protestant,41,No,Bachelor's Degree,93594,suburban,south
-Sarah,Female,Married,Asian,Protestant,27,Yes,Postgraduate degree,126814,suburban,west
-David,Male,Unmarried,Asian,Catholic,28,Yes,High School,126584,urban,south
-Sophia,Female,Married,Native American,Jewish,53,No,Postgraduate degree,161130,rural,south
-Abigail,Female,Married,Black,Atheist,65,Yes,Associate Degree,30853,suburban,east
-Ethan,Male,Unmarried,Native American,Catholic,31,No,Bachelor's Degree,186611,rural,west
-David,Male,Married,Black,Others,21,No,High School,140649,urban,midwest
-Harper,Female,Married,Latino,Protestant,28,No,Less then high school,151344,rural,midwest
-Jane,Male,Unmarried,Asian,Protestant,21,No,Less then high school,166285,suburban,midwest
-Charlotte,Male,Unmarried,Asian,Catholic,65,No,Less then high school,126308,urban,midwest
-Amelia,Male,Married,Other,Atheist,22,No,Postgraduate degree,60865,urban,west
-Andrew,Male,Married,Black,Atheist,28,No,Less then high school,52740,urban,west
-Elijah,Male,Unmarried,Black,Jewish,39,No,High School,49521,urban,east
-Joseph,Male,Unmarried,White,Jewish,54,No,High School,123199,rural,east
-Andrew,Female,Married,Other,Catholic,24,Yes,Bachelor's Degree,107311,rural,east
-David,Female,Married,White,Atheist,18,Yes,Associate Degree,118835,urban,east
-Isabella,Male,Unmarried,Native American,Catholic,41,Yes,Associate Degree,43869,rural,midwest
-Benjamin,Female,Married,Other,Others,22,Yes,High School,65974,rural,midwest
-Isabella,Male,Unmarried,Native American,Protestant,37,No,Bachelor's Degree,167082,urban,east
-Abigail,Female,Unmarried,Black,Jewish,47,Yes,Less then high school,34500,suburban,midwest
-Lucas,Female,Unmarried,White,Atheist,53,Yes,Postgraduate degree,113672,urban,west
-Isabella,Female,Married,Other,Catholic,21,Yes,Bachelor's Degree,148470,rural,east
-Evelyn,Male,Married,Native American,Others,21,Yes,Postgraduate degree,98218,suburban,west
-Sarah,Male,Married,Asian,Protestant,50,No,Less then high school,47052,suburban,east
-Sophia,Male,Unmarried,Asian,Catholic,45,No,High School,187867,urban,east
-David,Female,Married,Other,Others,48,No,High School,130130,urban,east
-Benjamin,Male,Married,Native American,Atheist,38,No,Postgraduate degree,110573,urban,west
-Abigail,Male,Married,Native American,Atheist,20,Yes,Associate Degree,186359,urban,east
-Alex,Male,Married,Black,Atheist,49,Yes,Associate Degree,147169,rural,midwest
-Amelia,Male,Unmarried,Other,Jewish,50,Yes,Less then high school,174747,suburban,south
-Charlotte,Male,Married,Other,Catholic,60,Yes,Bachelor's Degree,159511,urban,midwest
-Abigail,Male,Married,White,Atheist,37,No,Postgraduate degree,76225,rural,east
-Harper,Male,Married,Asian,Jewish,62,No,High School,70254,rural,east
-Alex,Male,Married,Other,Others,44,No,Less then high school,149267,urban,south
-David,Female,Married,Black,Atheist,51,No,Associate Degree,38107,suburban,east
-Alex,Female,Married,White,Others,28,Yes,Postgraduate degree,63010,suburban,south
-Emma,Male,Married,Black,Others,35,Yes,High School,163427,urban,east
-Charlotte,Male,Married,Asian,Protestant,21,Yes,Associate Degree,161931,urban,midwest
-David,Female,Unmarried,Black,Atheist,44,No,Less then high school,121993,suburban,east
-Sophia,Male,Unmarried,Native American,Catholic,33,Yes,Bachelor's Degree,156284,suburban,midwest
-Charlotte,Male,Unmarried,Native American,Atheist,58,No,Postgraduate degree,98887,suburban,east
-James,Female,Married,Native American,Catholic,54,No,Associate Degree,43631,suburban,east
-Sarah,Female,Married,Native American,Atheist,59,Yes,Less then high school,66680,urban,south
-Benjamin,Female,Unmarried,Black,Catholic,25,Yes,High School,138322,urban,west
-Matthew,Male,Married,Native American,Jewish,58,No,Postgraduate degree,124693,urban,south
-Alex,Female,Unmarried,Other,Atheist,25,Yes,Associate Degree,180948,suburban,east
-Benjamin,Female,Unmarried,Asian,Atheist,30,No,Postgraduate degree,132783,urban,south
-Emily,Male,Unmarried,Asian,Protestant,31,Yes,Postgraduate degree,89136,suburban,east
-Joseph,Female,Married,Asian,Jewish,28,No,High School,189460,urban,midwest
-Ethan,Male,Unmarried,Asian,Catholic,50,Yes,Associate Degree,142208,rural,south
-David,Male,Married,White,Jewish,51,No,High School,146415,urban,midwest
-Daniel,Male,Unmarried,White,Protestant,55,No,Postgraduate degree,133085,rural,south
-Jane,Male,Married,Native American,Atheist,39,Yes,Postgraduate degree,161971,urban,west
-Alex,Male,Married,Other,Jewish,39,No,Associate Degree,184580,rural,east
-Sophia,Female,Unmarried,Latino,Jewish,21,Yes,Associate Degree,137518,rural,midwest
-Emma,Male,Married,Native American,Protestant,38,No,Associate Degree,95397,suburban,south
-Amelia,Male,Married,Black,Atheist,61,No,Postgraduate degree,35442,urban,midwest
-Evelyn,Female,Unmarried,Native American,Jewish,45,No,Bachelor's Degree,148533,rural,east
-Joseph,Male,Unmarried,Native American,Catholic,39,Yes,High School,190740,urban,west
-Abigail,Female,Married,Other,Others,57,Yes,Less then high school,37794,rural,south
-Matthew,Female,Unmarried,Latino,Jewish,45,Yes,Bachelor's Degree,41605,rural,midwest
-Alex,Male,Unmarried,Native American,Catholic,60,No,Postgraduate degree,178880,suburban,midwest
-Samuel,Female,Unmarried,Latino,Atheist,48,No,Associate Degree,136468,suburban,midwest
-Ethan,Female,Unmarried,Native American,Others,23,Yes,Postgraduate degree,125500,suburban,south
-James,Male,Married,Asian,Atheist,50,No,Less then high school,159332,urban,west
-Lucas,Female,Unmarried,Latino,Catholic,40,No,High School,148282,suburban,east
-John,Female,Unmarried,Asian,Protestant,47,Yes,Associate Degree,30492,suburban,midwest
-Abigail,Female,Married,Latino,Jewish,45,Yes,Less then high school,72284,urban,south
-Alex,Female,Unmarried,White,Protestant,32,No,Less then high school,31472,rural,south
-Andrew,Male,Unmarried,Native American,Others,50,Yes,Bachelor's Degree,147802,rural,midwest
-Olivia,Male,Unmarried,Other,Atheist,49,Yes,Associate Degree,148100,urban,west
-Alex,Female,Unmarried,Latino,Protestant,52,No,Less then high school,72956,suburban,midwest
-Joseph,Male,Unmarried,Native American,Atheist,20,No,High School,149511,urban,west
-Chris,Female,Married,Latino,Jewish,56,No,Associate Degree,177047,rural,midwest
-David,Female,Unmarried,Black,Others,33,Yes,High School,34901,urban,east
-Charlotte,Female,Unmarried,Native American,Others,61,Yes,Bachelor's Degree,184201,suburban,south
-David,Female,Unmarried,Other,Catholic,64,Yes,Bachelor's Degree,169743,suburban,south
-John,Female,Married,Asian,Jewish,45,No,Associate Degree,137000,rural,south
-Emily,Female,Unmarried,Asian,Catholic,33,Yes,Postgraduate degree,67705,urban,midwest
-Lucas,Female,Married,White,Jewish,38,Yes,Associate Degree,167276,rural,midwest
-Alex,Female,Unmarried,Asian,Catholic,29,No,Less then high school,38143,rural,midwest
-Lucas,Male,Unmarried,Asian,Others,56,Yes,Postgraduate degree,114891,rural,south
-Daniel,Female,Married,Latino,Atheist,34,Yes,Less then high school,32327,rural,east
-David,Female,Unmarried,Other,Catholic,32,Yes,Bachelor's Degree,198337,rural,south
-Amelia,Female,Married,Native American,Protestant,56,Yes,High School,141802,suburban,south
-Laura,Male,Unmarried,White,Catholic,42,No,High School,122165,suburban,east
-Ethan,Female,Married,White,Catholic,22,Yes,Postgraduate degree,162239,suburban,west
-Olivia,Male,Unmarried,Asian,Catholic,45,Yes,Less then high school,108518,suburban,south
-Ethan,Male,Unmarried,Native American,Atheist,22,Yes,High School,58900,urban,east
-Laura,Female,Unmarried,Asian,Jewish,61,No,Less then high school,153677,suburban,south
-Emily,Male,Married,White,Jewish,64,Yes,Less then high school,93179,suburban,east
-Katie,Male,Married,White,Others,41,No,High School,76368,suburban,west
-Lucas,Male,Unmarried,Native American,Protestant,25,Yes,Bachelor's Degree,181783,rural,south
-Jane,Male,Unmarried,Native American,Others,40,Yes,Less then high school,98088,rural,west
-Charlotte,Male,Unmarried,White,Catholic,54,Yes,Bachelor's Degree,145796,suburban,midwest
-John,Female,Unmarried,Native American,Others,36,Yes,Less then high school,198954,rural,midwest
-Benjamin,Female,Unmarried,White,Others,61,No,Postgraduate degree,71034,rural,south
-James,Female,Married,Black,Catholic,57,No,Less then high school,58783,suburban,west
-Joseph,Female,Married,Native American,Others,27,Yes,Less then high school,45554,rural,east
-Samuel,Male,Unmarried,Native American,Protestant,65,No,Associate Degree,72024,suburban,south
-Isabella,Male,Unmarried,White,Jewish,54,No,High School,186370,urban,west
-Olivia,Female,Unmarried,Asian,Jewish,47,Yes,Less then high school,157661,suburban,south
-Andrew,Male,Unmarried,Latino,Others,34,No,Associate Degree,55636,rural,midwest
-Emma,Male,Married,Latino,Jewish,32,Yes,Associate Degree,152437,urban,south
-Lucas,Male,Unmarried,Asian,Others,18,No,Less then high school,55248,urban,south
-John,Female,Married,White,Jewish,18,Yes,High School,77491,urban,midwest
-Matthew,Male,Unmarried,Other,Protestant,20,Yes,Postgraduate degree,46537,suburban,midwest
-Ethan,Male,Unmarried,Native American,Atheist,54,Yes,Less then high school,148483,rural,east
-Sarah,Female,Unmarried,Latino,Protestant,65,No,Less then high school,139647,rural,south
-Matthew,Male,Unmarried,Asian,Catholic,35,No,Postgraduate degree,52933,urban,east
-Harper,Male,Married,Native American,Jewish,43,Yes,Postgraduate degree,85018,suburban,west
-Sophia,Male,Unmarried,Other,Jewish,58,No,Less then high school,80435,urban,east
-Daniel,Male,Married,Other,Jewish,43,No,Less then high school,50792,urban,south
-Amelia,Male,Married,Asian,Protestant,23,Yes,Bachelor's Degree,122333,urban,west
-Joseph,Female,Married,Other,Catholic,36,Yes,Associate Degree,121181,suburban,midwest
-Mia,Female,Unmarried,Native American,Jewish,53,No,Associate Degree,147159,urban,south
-Harper,Female,Married,White,Atheist,43,No,Associate Degree,179978,urban,east
-Emma,Male,Unmarried,Latino,Protestant,61,Yes,High School,47109,suburban,midwest
-Harper,Male,Unmarried,Asian,Atheist,26,Yes,Associate Degree,179621,urban,east
-Benjamin,Male,Married,Black,Jewish,50,No,Bachelor's Degree,98453,suburban,south
-Matthew,Male,Unmarried,Latino,Protestant,65,No,Associate Degree,166075,suburban,midwest
-John,Male,Unmarried,Asian,Atheist,48,Yes,Less then high school,136716,urban,west
-Samuel,Male,Unmarried,Black,Jewish,36,No,Postgraduate degree,182059,urban,midwest
-Samuel,Female,Unmarried,White,Protestant,61,No,High School,153656,urban,west
-Alex,Female,Unmarried,Asian,Jewish,39,No,Less then high school,79518,rural,east
-Amelia,Female,Unmarried,Native American,Jewish,39,Yes,Postgraduate degree,78164,urban,south
-Emily,Female,Married,White,Jewish,25,No,Postgraduate degree,91679,suburban,midwest
-Charlotte,Male,Married,Asian,Others,51,Yes,Bachelor's Degree,132585,suburban,south
-Laura,Female,Married,Black,Jewish,44,No,Bachelor's Degree,155740,urban,west
-Laura,Male,Unmarried,Asian,Jewish,27,No,Postgraduate degree,41978,suburban,west
-Emily,Female,Married,Other,Catholic,36,No,Associate Degree,90774,rural,south
-Emma,Male,Unmarried,Native American,Catholic,52,Yes,Less then high school,89953,rural,west
-Laura,Female,Married,Native American,Protestant,60,No,High School,95056,rural,east
-Samuel,Male,Unmarried,White,Catholic,32,No,Bachelor's Degree,111329,urban,south
-Amelia,Male,Married,Latino,Others,57,No,High School,68016,suburban,midwest
-Alex,Male,Unmarried,Other,Jewish,34,No,Bachelor's Degree,107844,suburban,west
-Sophia,Male,Unmarried,White,Catholic,60,No,Postgraduate degree,192217,suburban,south
-Sophia,Male,Married,Black,Catholic,43,Yes,Less then high school,155009,suburban,east
-Mia,Male,Married,Asian,Atheist,57,Yes,Postgraduate degree,115679,urban,west
-Evelyn,Male,Unmarried,Black,Catholic,57,Yes,Bachelor's Degree,153289,rural,midwest
-Ethan,Male,Unmarried,White,Protestant,40,Yes,Associate Degree,47966,rural,west
-Matthew,Male,Married,Black,Protestant,63,No,Postgraduate degree,53630,suburban,midwest
-Sarah,Female,Married,White,Others,20,No,Associate Degree,93814,rural,midwest
-Abigail,Female,Unmarried,Asian,Jewish,45,No,Bachelor's Degree,103973,suburban,west
-Samuel,Male,Unmarried,White,Catholic,24,Yes,Less then high school,79619,urban,south
-Matthew,Male,Married,Latino,Protestant,53,No,Bachelor's Degree,61037,suburban,west
-Lucas,Male,Unmarried,Latino,Protestant,36,No,Less then high school,120659,urban,midwest
-John,Female,Married,Native American,Protestant,41,No,Associate Degree,36323,rural,west
-David,Female,Unmarried,Black,Atheist,41,Yes,Associate Degree,123223,rural,midwest
-Abigail,Male,Married,Black,Jewish,51,Yes,Bachelor's Degree,141808,suburban,south
-Elijah,Male,Unmarried,Black,Protestant,56,Yes,Less then high school,82344,urban,midwest
-Olivia,Male,Married,Latino,Protestant,18,No,Associate Degree,132787,suburban,east
-Elijah,Male,Unmarried,Latino,Others,51,No,Bachelor's Degree,194867,suburban,east
-John,Male,Unmarried,Latino,Jewish,46,No,Associate Degree,105412,urban,east
-Sophia,Male,Married,Latino,Others,43,No,Bachelor's Degree,83028,urban,south
-Alex,Female,Married,White,Protestant,42,Yes,High School,112252,urban,south
-Laura,Male,Married,White,Catholic,22,Yes,Postgraduate degree,163506,suburban,east
-Emily,Male,Married,Asian,Catholic,22,Yes,High School,103184,rural,east
-Charlotte,Male,Married,Asian,Catholic,52,No,Associate Degree,55086,suburban,east
-Evelyn,Male,Married,White,Others,54,Yes,High School,179373,urban,east
-Olivia,Female,Married,Latino,Atheist,30,Yes,Bachelor's Degree,154782,urban,south
-Sophia,Female,Unmarried,Native American,Others,37,No,Associate Degree,50646,urban,east
-Evelyn,Male,Unmarried,Latino,Jewish,33,Yes,Bachelor's Degree,39704,urban,south
-John,Female,Married,Latino,Catholic,65,No,Less then high school,173373,urban,west
-Elijah,Male,Unmarried,Asian,Protestant,54,Yes,Associate Degree,139126,suburban,midwest
-Elijah,Female,Married,Native American,Atheist,39,Yes,High School,80507,rural,west
-Sarah,Female,Married,White,Jewish,29,No,Bachelor's Degree,70691,rural,midwest
-Jane,Male,Unmarried,Native American,Catholic,46,Yes,Associate Degree,54815,suburban,south
-Jane,Female,Unmarried,Native American,Atheist,51,Yes,Less then high school,195283,suburban,midwest
-Benjamin,Male,Married,Latino,Protestant,40,No,Bachelor's Degree,149934,urban,midwest
-James,Male,Married,White,Others,40,Yes,Less then high school,110385,rural,east
-Katie,Male,Unmarried,Latino,Others,62,No,Postgraduate degree,74132,urban,west
-Emma,Female,Married,Black,Catholic,30,No,Associate Degree,89074,rural,west
-Daniel,Male,Married,Latino,Protestant,47,No,High School,187355,suburban,west
-Alex,Male,Married,White,Others,26,No,Bachelor's Degree,109636,urban,midwest
-James,Male,Unmarried,Asian,Protestant,21,No,Postgraduate degree,43453,rural,east
-Evelyn,Female,Unmarried,Other,Others,63,No,Postgraduate degree,175964,urban,west
-Amelia,Male,Married,Latino,Others,20,No,Associate Degree,187324,rural,east
-Harper,Male,Unmarried,White,Others,33,Yes,Bachelor's Degree,178587,suburban,east
-Charlotte,Male,Unmarried,White,Others,58,No,Bachelor's Degree,111443,rural,west
-Olivia,Male,Married,Native American,Atheist,50,No,High School,156326,rural,east
-Amelia,Male,Unmarried,Black,Others,36,Yes,Less then high school,45012,urban,south
-Daniel,Male,Unmarried,Asian,Others,21,No,Bachelor's Degree,160692,suburban,south
-Sophia,Male,Unmarried,Other,Atheist,47,No,Postgraduate degree,115523,urban,midwest
-Daniel,Female,Unmarried,Latino,Jewish,25,Yes,Postgraduate degree,68736,suburban,west
-Elijah,Male,Married,White,Atheist,54,No,Less then high school,161473,suburban,west
-Lucas,Female,Unmarried,Asian,Catholic,56,Yes,Postgraduate degree,161827,suburban,south
-John,Female,Married,Other,Atheist,52,Yes,Less then high school,155667,suburban,midwest
-Andrew,Female,Unmarried,White,Catholic,22,No,Associate Degree,109248,suburban,west
-Matthew,Male,Unmarried,White,Others,41,Yes,Bachelor's Degree,44218,suburban,south
-Emily,Male,Married,Asian,Atheist,38,No,High School,35901,urban,midwest
-Emily,Female,Unmarried,Latino,Atheist,44,Yes,Bachelor's Degree,63802,suburban,east
-Isabella,Female,Married,White,Protestant,28,No,Associate Degree,107739,urban,south
-John,Male,Married,Asian,Others,19,Yes,Associate Degree,159030,suburban,east
-Amelia,Female,Married,Other,Atheist,55,Yes,High School,102328,rural,south
-Elijah,Male,Unmarried,Black,Protestant,43,Yes,Bachelor's Degree,138853,rural,east
-James,Female,Unmarried,Latino,Others,39,No,Less then high school,184218,suburban,west
-Katie,Female,Unmarried,Latino,Others,19,No,Associate Degree,164794,rural,south
-David,Female,Married,Other,Jewish,62,Yes,Less then high school,56954,urban,east
-Joseph,Male,Married,White,Atheist,60,No,High School,154325,rural,midwest
-Jane,Male,Unmarried,White,Others,51,No,Associate Degree,75202,suburban,west
-Joseph,Female,Married,Asian,Catholic,25,Yes,Less then high school,173477,urban,south
-Chris,Male,Married,Black,Protestant,48,Yes,Bachelor's Degree,181291,urban,midwest
-Alex,Male,Unmarried,Asian,Jewish,55,Yes,Bachelor's Degree,31874,urban,midwest
-Evelyn,Female,Unmarried,Latino,Protestant,22,No,Less then high school,126352,rural,south
-Benjamin,Male,Married,White,Protestant,20,Yes,High School,133043,urban,west
-Olivia,Male,Married,Other,Others,55,Yes,Associate Degree,109266,rural,south
-Benjamin,Female,Unmarried,Other,Others,57,No,Associate Degree,101703,suburban,west
-Amelia,Male,Married,Other,Jewish,58,No,Bachelor's Degree,119114,urban,east
-Daniel,Female,Unmarried,Native American,Atheist,34,No,Associate Degree,137173,suburban,south
-Joseph,Female,Unmarried,Black,Atheist,38,Yes,Postgraduate degree,155142,rural,west
-Chris,Male,Married,Black,Others,19,No,Bachelor's Degree,189415,suburban,south
-Joseph,Female,Unmarried,Latino,Jewish,18,Yes,Less then high school,132580,suburban,east
-Daniel,Female,Married,Latino,Protestant,57,No,Postgraduate degree,60214,suburban,midwest
-Benjamin,Male,Married,Native American,Catholic,21,Yes,Postgraduate degree,67527,suburban,south
-Abigail,Female,Unmarried,White,Catholic,38,No,Bachelor's Degree,66985,suburban,west
-Chris,Male,Married,Latino,Others,52,No,Less then high school,94378,urban,south
-Charlotte,Male,Married,White,Catholic,23,No,Bachelor's Degree,44173,rural,west
-Laura,Male,Unmarried,Black,Protestant,50,Yes,Less then high school,110963,rural,east
-Chris,Female,Married,Latino,Atheist,50,Yes,Bachelor's Degree,172708,suburban,west
-Katie,Male,Unmarried,White,Others,32,No,Less then high school,101951,suburban,east
-Samuel,Female,Married,Asian,Others,37,Yes,Bachelor's Degree,88684,suburban,east
-Laura,Male,Married,Native American,Others,43,No,Bachelor's Degree,141059,rural,south
-Ethan,Female,Married,Other,Others,60,No,Postgraduate degree,141969,urban,midwest
-Abigail,Male,Unmarried,Asian,Protestant,61,No,Postgraduate degree,110296,suburban,midwest
-Olivia,Female,Married,Asian,Atheist,37,Yes,High School,149662,rural,midwest
-John,Female,Unmarried,Other,Jewish,62,Yes,Postgraduate degree,51326,suburban,midwest
-Elijah,Female,Unmarried,White,Atheist,29,No,Less then high school,188075,rural,west
+Name,Gender,Marital Status,Race/Ethnicity,Religion,Age,First Time Voting,Education,Income,Area type,Region,Leaning
+Sarah,Female,Married,Black,Catholic,45,Yes,High School,196902,rural,south,right
+Alex,Female,Married,Other,Atheist,32,Yes,High School,111364,urban,east,right
+Daniel,Female,Unmarried,Other,Jewish,34,Yes,High School,105843,urban,south,left
+Amelia,Female,Married,Latino,Jewish,25,Yes,Associate Degree,123690,suburban,west,right
+Samuel,Male,Married,White,Others,49,Yes,Bachelor's Degree,35968,suburban,midwest,left
+Sarah,Female,Married,White,Catholic,19,No,High School,132951,rural,west,right
+Sarah,Female,Married,White,Protestant,55,No,Postgraduate degree,151273,suburban,midwest,right
+Lucas,Male,Unmarried,Asian,Catholic,22,No,Postgraduate degree,199045,suburban,west,right
+Elijah,Male,Unmarried,Asian,Others,21,No,Postgraduate degree,126054,urban,east,left
+Ethan,Female,Unmarried,Latino,Jewish,61,No,Associate Degree,123352,suburban,west,right
+Michael,Male,Married,White,Catholic,46,Yes,Less then high school,89246,suburban,east,right
+Ethan,Male,Unmarried,Asian,Atheist,52,Yes,High School,147461,urban,west,left
+Samuel,Female,Married,Black,Jewish,44,No,Less then high school,187637,suburban,east,left
+Isabella,Female,Married,Asian,Others,63,No,High School,97189,rural,south,left
+James,Male,Unmarried,Latino,Jewish,63,Yes,Bachelor's Degree,95454,rural,east,right
+Harper,Male,Unmarried,Black,Atheist,18,No,Postgraduate degree,112008,urban,south,left
+Daniel,Female,Married,Native American,Others,49,Yes,Less then high school,74870,suburban,midwest,right
+Matthew,Male,Unmarried,Asian,Protestant,46,No,Postgraduate degree,181224,suburban,midwest,left
+Jane,Female,Married,Latino,Jewish,36,Yes,High School,34002,suburban,east,right
+John,Male,Unmarried,Black,Protestant,55,Yes,Bachelor's Degree,121548,urban,east,left
+Evelyn,Female,Unmarried,Other,Others,28,No,Less then high school,119729,suburban,south,left
+Ethan,Female,Unmarried,Black,Catholic,57,Yes,Bachelor's Degree,187714,rural,midwest,left
+Jane,Male,Married,Asian,Others,27,Yes,Bachelor's Degree,75307,urban,south,left
+Daniel,Male,Married,Native American,Others,53,No,Less then high school,40747,rural,midwest,right
+Joseph,Male,Married,Other,Jewish,39,No,Less then high school,150475,rural,east,right
+Abigail,Female,Unmarried,Native American,Protestant,18,No,High School,37882,rural,midwest,left
+Charlotte,Female,Unmarried,Latino,Protestant,33,No,Less then high school,158128,urban,south,left
+Michael,Male,Married,Latino,Catholic,34,No,Bachelor's Degree,106171,rural,midwest,right
+Charlotte,Female,Unmarried,Latino,Atheist,25,No,Less then high school,106857,suburban,west,left
+Charlotte,Male,Unmarried,Latino,Jewish,47,No,Bachelor's Degree,119302,rural,south,left
+Emily,Female,Unmarried,Native American,Catholic,51,No,Bachelor's Degree,171109,urban,midwest,left
+Laura,Female,Married,Native American,Jewish,29,Yes,Less then high school,73946,urban,midwest,left
+Andrew,Male,Unmarried,Asian,Jewish,25,Yes,High School,81169,rural,west,right
+Ethan,Male,Married,Latino,Atheist,44,No,Postgraduate degree,178030,suburban,midwest,right
+Olivia,Female,Unmarried,White,Others,37,Yes,Postgraduate degree,175204,suburban,west,left
+Benjamin,Male,Unmarried,Latino,Jewish,24,Yes,Postgraduate degree,110634,urban,west,left
+Abigail,Female,Married,Other,Protestant,39,No,Associate Degree,139945,urban,midwest,right
+Laura,Female,Unmarried,White,Protestant,20,No,Postgraduate degree,50782,rural,south,left
+John,Male,Unmarried,Native American,Others,54,Yes,Postgraduate degree,54829,urban,south,right
+Daniel,Male,Married,White,Others,29,Yes,Postgraduate degree,108193,suburban,east,left
+Amelia,Male,Married,Other,Atheist,35,Yes,Less then high school,188251,urban,east,right
+David,Male,Married,White,Catholic,35,No,High School,155666,rural,south,left
+David,Female,Married,Black,Atheist,21,Yes,High School,125417,rural,west,right
+Emma,Male,Married,Black,Protestant,50,Yes,Postgraduate degree,164917,urban,midwest,right
+Michael,Male,Unmarried,White,Others,56,Yes,Less then high school,151381,suburban,south,right
+Daniel,Male,Unmarried,Asian,Protestant,46,Yes,Associate Degree,75554,suburban,midwest,right
+Joseph,Male,Married,Other,Catholic,48,Yes,Postgraduate degree,120557,urban,south,left
+Samuel,Female,Unmarried,White,Catholic,18,Yes,Bachelor's Degree,42742,suburban,east,right
+David,Female,Unmarried,Asian,Protestant,37,Yes,Bachelor's Degree,44781,urban,south,right
+Mia,Male,Married,Asian,Catholic,52,No,High School,130835,urban,midwest,right
+Emma,Male,Married,White,Atheist,34,Yes,Postgraduate degree,163183,rural,midwest,right
+Emma,Female,Unmarried,Black,Others,48,No,Less then high school,171543,urban,east,left
+Amelia,Female,Married,Native American,Others,20,Yes,Postgraduate degree,145913,urban,midwest,right
+Harper,Male,Married,Native American,Others,52,No,Postgraduate degree,171765,suburban,midwest,right
+Mia,Male,Unmarried,Other,Jewish,57,Yes,High School,145699,suburban,east,right
+Samuel,Male,Married,Other,Protestant,56,Yes,Less then high school,181204,urban,south,right
+Abigail,Female,Married,White,Catholic,65,No,Less then high school,98382,suburban,east,left
+Mia,Female,Married,Black,Atheist,36,No,Bachelor's Degree,132047,suburban,east,right
+Abigail,Female,Unmarried,Other,Catholic,42,No,Bachelor's Degree,55253,rural,south,right
+Harper,Female,Married,Black,Atheist,23,Yes,Associate Degree,140674,urban,east,left
+Michael,Male,Unmarried,White,Catholic,22,No,Postgraduate degree,59608,suburban,midwest,left
+Evelyn,Male,Unmarried,White,Others,45,Yes,High School,106628,rural,midwest,right
+Sophia,Female,Married,White,Protestant,46,Yes,Bachelor's Degree,111790,rural,east,right
+Joseph,Male,Unmarried,White,Catholic,30,No,Associate Degree,145023,urban,east,left
+Abigail,Male,Unmarried,Other,Atheist,41,No,Bachelor's Degree,194176,suburban,midwest,right
+Emma,Female,Married,Native American,Protestant,43,No,High School,97583,rural,south,left
+Matthew,Female,Married,Native American,Others,24,Yes,High School,159866,urban,east,left
+Samuel,Male,Unmarried,Native American,Catholic,25,Yes,Less then high school,55271,suburban,south,right
+Katie,Female,Married,Asian,Others,37,Yes,Associate Degree,127346,urban,east,right
+Emma,Male,Unmarried,Black,Protestant,27,Yes,Bachelor's Degree,95980,rural,west,left
+Evelyn,Female,Married,Latino,Protestant,63,No,Bachelor's Degree,142622,suburban,midwest,left
+Elijah,Male,Married,Latino,Catholic,65,Yes,High School,92512,urban,east,right
+Amelia,Male,Married,Other,Catholic,59,Yes,High School,119458,rural,west,left
+Amelia,Male,Unmarried,White,Atheist,51,No,Postgraduate degree,35907,suburban,west,right
+Mia,Male,Unmarried,Black,Protestant,33,No,Less then high school,48431,urban,west,right
+Olivia,Male,Unmarried,Asian,Atheist,54,No,Less then high school,71278,rural,midwest,left
+Laura,Male,Married,Latino,Jewish,22,No,Less then high school,122007,suburban,west,left
+Elijah,Male,Unmarried,Asian,Jewish,42,Yes,Less then high school,188633,suburban,east,left
+Abigail,Female,Unmarried,Other,Atheist,45,Yes,Associate Degree,114691,rural,west,right
+Jane,Female,Unmarried,Asian,Catholic,18,No,Less then high school,141499,urban,south,right
+David,Female,Unmarried,Latino,Jewish,20,No,Bachelor's Degree,70945,suburban,east,right
+Charlotte,Female,Married,White,Catholic,57,No,Associate Degree,108003,suburban,west,left
+Laura,Male,Married,Other,Atheist,42,No,Less then high school,168856,urban,west,right
+Ethan,Female,Unmarried,Black,Protestant,26,Yes,Postgraduate degree,125330,rural,west,right
+Emily,Male,Unmarried,Other,Others,30,Yes,Postgraduate degree,159814,rural,midwest,right
+John,Female,Married,Latino,Protestant,48,Yes,Postgraduate degree,35449,rural,south,left
+Joseph,Female,Unmarried,Asian,Protestant,58,Yes,Postgraduate degree,181993,suburban,east,left
+Ethan,Female,Married,Asian,Protestant,52,No,Postgraduate degree,170885,urban,west,left
+Matthew,Female,Married,Latino,Catholic,62,No,High School,191124,urban,south,right
+Andrew,Male,Married,White,Atheist,21,Yes,Postgraduate degree,155289,suburban,midwest,left
+Sophia,Male,Unmarried,Asian,Jewish,32,Yes,Bachelor's Degree,69489,rural,east,left
+Chris,Male,Married,Native American,Catholic,23,No,Less then high school,94009,suburban,south,right
+Michael,Male,Unmarried,Latino,Others,30,Yes,High School,48264,rural,east,left
+Amelia,Female,Married,Other,Catholic,60,Yes,Postgraduate degree,132814,suburban,east,left
+Alex,Male,Married,Native American,Protestant,49,Yes,Postgraduate degree,55405,rural,west,left
+Harper,Male,Unmarried,Other,Catholic,32,Yes,Postgraduate degree,165260,rural,west,left
+Michael,Female,Unmarried,Native American,Jewish,38,Yes,High School,45355,suburban,west,right
+Andrew,Female,Unmarried,Other,Others,42,Yes,High School,80557,urban,east,right
+Benjamin,Male,Married,White,Catholic,27,No,Less then high school,78582,suburban,west,right
+Sophia,Female,Unmarried,Other,Catholic,43,Yes,Bachelor's Degree,70278,rural,west,right
+Chris,Female,Married,Native American,Atheist,36,No,Less then high school,84098,rural,west,left
+Katie,Male,Married,White,Protestant,45,Yes,Postgraduate degree,41085,urban,east,left
+Chris,Female,Unmarried,Asian,Others,41,No,Associate Degree,33195,rural,midwest,right
+Sophia,Female,Married,Native American,Protestant,43,No,Bachelor's Degree,156367,suburban,south,left
+Olivia,Male,Unmarried,White,Atheist,58,No,Postgraduate degree,67621,urban,west,left
+Chris,Male,Unmarried,Latino,Catholic,18,Yes,Bachelor's Degree,104680,rural,east,right
+Emma,Male,Married,Black,Others,32,Yes,Less then high school,149949,suburban,south,left
+Mia,Male,Unmarried,Native American,Atheist,28,No,Less then high school,187671,rural,south,right
+Olivia,Female,Unmarried,Asian,Protestant,24,No,Bachelor's Degree,82848,suburban,midwest,right
+Alex,Male,Married,Latino,Jewish,65,No,Associate Degree,96152,suburban,south,left
+Alex,Male,Unmarried,Latino,Atheist,26,Yes,Postgraduate degree,184385,urban,west,left
+Jane,Female,Married,Latino,Others,56,Yes,High School,167737,suburban,west,right
+Emma,Male,Married,Asian,Jewish,28,No,Associate Degree,188736,urban,west,left
+Evelyn,Male,Unmarried,White,Jewish,51,No,Associate Degree,88033,suburban,east,left
+Amelia,Male,Married,White,Atheist,22,Yes,Associate Degree,118625,suburban,south,left
+Joseph,Male,Unmarried,Other,Protestant,40,Yes,Less then high school,60408,rural,south,right
+Evelyn,Female,Unmarried,Asian,Others,45,No,High School,63881,rural,east,right
+Mia,Male,Unmarried,Other,Others,38,Yes,Less then high school,189727,rural,west,left
+James,Female,Married,Latino,Jewish,24,No,Bachelor's Degree,66451,suburban,west,right
+Evelyn,Male,Unmarried,Asian,Jewish,18,Yes,Associate Degree,38991,rural,east,left
+Joseph,Male,Unmarried,Latino,Atheist,52,Yes,Bachelor's Degree,89049,urban,midwest,right
+Abigail,Male,Unmarried,Native American,Catholic,27,Yes,Associate Degree,127731,urban,midwest,right
+Laura,Male,Unmarried,White,Atheist,39,Yes,Associate Degree,66284,rural,midwest,right
+John,Female,Married,Native American,Others,51,Yes,Bachelor's Degree,152826,urban,south,left
+Matthew,Male,Married,Native American,Protestant,63,Yes,Bachelor's Degree,177208,rural,west,left
+Daniel,Male,Married,Latino,Protestant,58,Yes,High School,77340,rural,east,left
+Harper,Male,Married,White,Others,56,No,Associate Degree,161756,urban,east,left
+Benjamin,Male,Unmarried,White,Catholic,32,No,Associate Degree,46391,suburban,west,left
+John,Female,Married,Native American,Protestant,61,Yes,Bachelor's Degree,179545,rural,west,right
+Emily,Female,Married,Other,Protestant,55,No,Postgraduate degree,143136,urban,west,left
+Lucas,Female,Married,Native American,Catholic,37,Yes,Bachelor's Degree,36105,suburban,midwest,right
+Lucas,Male,Married,White,Protestant,54,No,Associate Degree,76273,rural,west,right
+Elijah,Male,Married,Other,Catholic,28,Yes,Less then high school,148292,suburban,south,left
+Charlotte,Male,Unmarried,Latino,Atheist,26,No,High School,54045,rural,south,right
+James,Female,Married,Asian,Others,22,Yes,Bachelor's Degree,170847,urban,west,left
+Charlotte,Female,Unmarried,Latino,Catholic,34,Yes,Bachelor's Degree,112541,urban,east,left
+Jane,Female,Unmarried,Other,Protestant,62,Yes,Bachelor's Degree,102428,suburban,midwest,left
+Olivia,Male,Married,Native American,Catholic,47,No,Less then high school,74454,urban,midwest,left
+David,Male,Married,Asian,Protestant,63,No,Less then high school,98087,suburban,east,left
+John,Male,Married,Black,Atheist,39,Yes,Less then high school,168502,suburban,south,left
+David,Female,Unmarried,White,Catholic,23,No,Bachelor's Degree,196316,rural,midwest,right
+Abigail,Female,Married,Latino,Protestant,36,No,Less then high school,75713,rural,west,left
+Chris,Female,Unmarried,Other,Atheist,41,Yes,Associate Degree,130871,suburban,west,right
+Mia,Female,Unmarried,Asian,Atheist,39,Yes,High School,169152,rural,midwest,right
+Abigail,Female,Unmarried,Black,Protestant,22,Yes,Bachelor's Degree,134235,urban,east,left
+Jane,Female,Unmarried,Asian,Others,54,Yes,Bachelor's Degree,102505,rural,midwest,right
+Olivia,Male,Married,White,Protestant,52,No,Bachelor's Degree,47827,rural,midwest,right
+Laura,Male,Unmarried,Asian,Others,24,Yes,Postgraduate degree,154688,urban,east,left
+Jane,Male,Unmarried,Black,Catholic,30,Yes,Less then high school,119822,rural,east,left
+Daniel,Male,Married,White,Others,21,No,Bachelor's Degree,37284,suburban,west,left
+Katie,Female,Married,Black,Others,58,Yes,Less then high school,192689,urban,west,left
+Chris,Female,Married,Other,Catholic,39,No,Less then high school,163839,rural,south,left
+Emily,Female,Married,Other,Protestant,63,No,Associate Degree,102848,suburban,midwest,right
+Amelia,Male,Married,Native American,Catholic,65,No,Postgraduate degree,136797,urban,west,right
+Emma,Female,Married,Other,Others,55,No,Postgraduate degree,111040,rural,south,left
+Harper,Male,Married,Latino,Protestant,42,Yes,High School,138221,urban,midwest,right
+John,Female,Married,Asian,Protestant,37,No,Bachelor's Degree,38319,suburban,south,left
+Amelia,Female,Married,Latino,Jewish,55,Yes,Bachelor's Degree,69671,suburban,midwest,right
+Matthew,Male,Unmarried,Black,Others,34,No,High School,90135,urban,south,right
+Sarah,Male,Unmarried,Latino,Atheist,46,Yes,Postgraduate degree,176086,urban,west,right
+Ethan,Male,Unmarried,White,Jewish,63,No,Associate Degree,154514,rural,east,right
+Charlotte,Female,Unmarried,White,Jewish,59,Yes,Associate Degree,132821,suburban,east,left
+Chris,Female,Unmarried,Latino,Protestant,38,No,Less then high school,114615,rural,east,left
+Isabella,Female,Married,Native American,Atheist,34,Yes,Postgraduate degree,197358,suburban,east,left
+Alex,Male,Married,Asian,Protestant,30,No,High School,51873,suburban,west,left
+Chris,Female,Married,Other,Protestant,36,Yes,Less then high school,176377,suburban,midwest,right
+Michael,Female,Married,Other,Atheist,46,No,Less then high school,132014,rural,south,left
+Joseph,Female,Unmarried,White,Jewish,47,Yes,Less then high school,64028,urban,west,right
+Benjamin,Female,Unmarried,Native American,Jewish,52,Yes,Less then high school,190171,suburban,midwest,right
+Alex,Male,Married,Native American,Protestant,22,Yes,Bachelor's Degree,42110,suburban,east,right
+Sarah,Female,Unmarried,Latino,Protestant,43,Yes,Postgraduate degree,142491,suburban,west,left
+Chris,Female,Unmarried,Asian,Jewish,56,No,Bachelor's Degree,145055,suburban,south,left
+Michael,Female,Unmarried,Black,Jewish,50,Yes,Less then high school,85906,rural,west,left
+David,Male,Married,Latino,Jewish,42,Yes,High School,135407,suburban,south,left
+Lucas,Male,Married,Other,Jewish,36,Yes,Associate Degree,94421,urban,midwest,left
+Ethan,Male,Married,Asian,Jewish,31,Yes,High School,177929,suburban,east,left
+Benjamin,Male,Married,Black,Catholic,47,Yes,High School,182398,rural,east,left
+Michael,Male,Married,Asian,Atheist,61,No,Bachelor's Degree,100261,urban,south,right
+Lucas,Male,Unmarried,Other,Atheist,19,Yes,Associate Degree,188032,rural,midwest,right
+Sarah,Female,Married,Black,Atheist,43,No,Associate Degree,83225,rural,east,left
+James,Female,Married,Latino,Atheist,39,No,Postgraduate degree,99801,rural,east,left
+Daniel,Female,Unmarried,Native American,Jewish,49,No,High School,96393,urban,midwest,left
+Evelyn,Male,Unmarried,Native American,Others,58,Yes,Bachelor's Degree,110076,rural,midwest,left
+Emma,Female,Married,Native American,Jewish,48,No,High School,93746,rural,south,left
+Lucas,Male,Married,Asian,Protestant,59,No,Less then high school,87243,rural,south,left
+Joseph,Female,Married,Asian,Protestant,36,No,Associate Degree,171455,suburban,east,right
+Benjamin,Female,Unmarried,Asian,Catholic,23,No,Bachelor's Degree,112284,suburban,midwest,right
+Laura,Male,Married,Other,Others,28,Yes,Bachelor's Degree,53576,urban,west,left
+Elijah,Male,Unmarried,Latino,Atheist,29,No,High School,39055,suburban,west,left
+Harper,Female,Unmarried,Native American,Protestant,61,No,Bachelor's Degree,125402,suburban,west,right
+Alex,Female,Unmarried,White,Jewish,53,Yes,High School,45380,rural,west,left
+Chris,Female,Married,Asian,Atheist,23,No,Postgraduate degree,158426,urban,east,left
+Amelia,Male,Married,White,Protestant,20,No,Associate Degree,148063,suburban,west,right
+Joseph,Male,Unmarried,White,Protestant,65,Yes,Postgraduate degree,41427,suburban,east,right
+Evelyn,Female,Married,Latino,Catholic,55,Yes,Associate Degree,32421,urban,south,right
+Ethan,Female,Married,Other,Atheist,52,No,Less then high school,65431,rural,midwest,right
+Alex,Female,Married,Native American,Others,50,No,Bachelor's Degree,114245,suburban,west,left
+Elijah,Female,Unmarried,Asian,Catholic,26,No,Postgraduate degree,42862,suburban,south,left
+Olivia,Female,Married,Black,Protestant,35,No,Postgraduate degree,144916,urban,east,right
+Sarah,Female,Married,Black,Jewish,27,Yes,Associate Degree,123885,urban,east,right
+Benjamin,Male,Unmarried,White,Catholic,46,No,Less then high school,55610,urban,west,right
+David,Female,Unmarried,Black,Others,38,Yes,Bachelor's Degree,153110,suburban,midwest,right
+Benjamin,Female,Unmarried,Other,Others,45,Yes,Associate Degree,151655,urban,west,left
+Amelia,Male,Married,Black,Others,28,No,Less then high school,51644,rural,east,left
+Charlotte,Male,Unmarried,White,Atheist,48,Yes,Postgraduate degree,188628,suburban,east,right
+Sarah,Male,Married,Native American,Others,32,Yes,Bachelor's Degree,105305,rural,south,left
+Chris,Female,Unmarried,Black,Others,52,No,Postgraduate degree,33625,suburban,midwest,left
+Isabella,Male,Married,Black,Others,56,Yes,Postgraduate degree,131854,suburban,east,right
+John,Female,Unmarried,Other,Others,53,Yes,High School,174997,rural,west,left
+Ethan,Male,Married,Asian,Atheist,55,No,Postgraduate degree,81414,suburban,west,left
+John,Female,Married,Native American,Catholic,53,No,Less then high school,85170,rural,east,left
+Amelia,Female,Married,Asian,Protestant,45,Yes,Less then high school,74805,urban,south,right
+David,Female,Unmarried,Black,Jewish,39,No,Postgraduate degree,171114,suburban,west,left
+Elijah,Male,Unmarried,Black,Protestant,63,Yes,Associate Degree,170745,suburban,south,right
+James,Female,Unmarried,White,Catholic,19,Yes,Associate Degree,194534,rural,midwest,left
+James,Female,Unmarried,White,Jewish,50,Yes,Postgraduate degree,97594,rural,midwest,left
+Ethan,Male,Unmarried,White,Catholic,48,Yes,Postgraduate degree,138307,rural,south,left
+Abigail,Male,Unmarried,Black,Others,50,No,High School,66566,suburban,west,left
+Isabella,Female,Married,Other,Atheist,48,No,Less then high school,51848,rural,east,right
+Sarah,Female,Married,Black,Others,19,Yes,Bachelor's Degree,34563,urban,midwest,left
+Olivia,Male,Married,Native American,Catholic,36,No,Postgraduate degree,84689,suburban,west,right
+Harper,Female,Married,Native American,Jewish,39,No,Postgraduate degree,184642,urban,west,right
+Joseph,Female,Unmarried,White,Others,30,Yes,High School,178208,urban,south,right
+David,Male,Married,Other,Jewish,53,Yes,Postgraduate degree,185490,suburban,east,right
+Charlotte,Male,Married,Other,Others,30,Yes,Associate Degree,143064,suburban,east,right
+Daniel,Female,Married,Black,Others,43,No,Postgraduate degree,194580,urban,east,right
+Matthew,Male,Unmarried,Other,Atheist,39,No,Associate Degree,121231,rural,midwest,left
+James,Male,Unmarried,Asian,Jewish,38,Yes,High School,91677,rural,west,left
+Katie,Female,Unmarried,Black,Protestant,53,No,High School,119873,rural,east,left
+Elijah,Male,Married,Black,Catholic,63,Yes,Bachelor's Degree,53076,urban,midwest,right
+Sarah,Female,Married,Other,Jewish,64,Yes,Postgraduate degree,174537,urban,east,right
+Benjamin,Female,Married,Latino,Jewish,43,No,Associate Degree,176764,urban,east,left
+Benjamin,Female,Unmarried,Black,Atheist,53,Yes,Bachelor's Degree,34181,suburban,midwest,left
+Matthew,Female,Married,White,Catholic,29,Yes,Less then high school,162958,suburban,midwest,left
+Jane,Male,Married,Native American,Others,26,No,Less then high school,98966,urban,east,left
+Harper,Female,Unmarried,Other,Others,58,No,Bachelor's Degree,43364,suburban,east,right
+Olivia,Female,Unmarried,Other,Others,59,No,Associate Degree,67639,rural,south,right
+David,Male,Unmarried,Black,Catholic,51,No,Postgraduate degree,86497,rural,midwest,left
+Olivia,Female,Married,White,Atheist,42,Yes,Postgraduate degree,121969,urban,east,left
+James,Female,Married,Black,Atheist,29,Yes,Less then high school,92921,rural,midwest,left
+Evelyn,Male,Unmarried,Latino,Catholic,34,Yes,Bachelor's Degree,55501,rural,south,left
+Lucas,Male,Unmarried,Native American,Others,21,Yes,Less then high school,146935,rural,south,left
+Ethan,Female,Married,Black,Catholic,21,Yes,Bachelor's Degree,161364,suburban,east,left
+Emma,Male,Unmarried,Latino,Catholic,29,Yes,High School,187102,urban,east,left
+Lucas,Female,Married,Latino,Protestant,42,No,Postgraduate degree,191662,urban,south,right
+Michael,Male,Unmarried,White,Protestant,64,No,High School,55523,urban,south,left
+Jane,Female,Unmarried,Asian,Others,52,Yes,High School,151675,urban,south,left
+Jane,Male,Unmarried,White,Protestant,47,No,High School,127268,suburban,west,left
+Mia,Male,Unmarried,White,Others,63,No,High School,106326,rural,west,right
+Sophia,Female,Unmarried,White,Protestant,50,No,High School,194366,urban,south,left
+Olivia,Male,Unmarried,Black,Protestant,53,Yes,Less then high school,100389,rural,midwest,right
+Charlotte,Female,Unmarried,Other,Atheist,31,No,Less then high school,144634,suburban,midwest,left
+John,Female,Unmarried,Asian,Others,59,No,Associate Degree,161209,suburban,east,right
+Lucas,Male,Married,Other,Atheist,59,No,High School,111188,urban,midwest,left
+Daniel,Male,Married,Other,Others,48,Yes,High School,51271,rural,west,right
+Alex,Male,Married,Latino,Jewish,26,Yes,Postgraduate degree,175414,suburban,east,right
+James,Male,Married,Latino,Others,34,No,Associate Degree,171409,suburban,south,right
+Elijah,Female,Married,Asian,Jewish,55,No,Bachelor's Degree,71840,rural,west,left
+Chris,Female,Unmarried,Other,Atheist,58,Yes,Postgraduate degree,190125,rural,east,right
+James,Male,Married,Native American,Catholic,29,No,Bachelor's Degree,164934,rural,south,right
+Evelyn,Female,Married,Black,Catholic,40,No,High School,169252,urban,south,right
+Matthew,Male,Married,Latino,Catholic,53,Yes,Associate Degree,136983,urban,midwest,right
+Charlotte,Female,Married,Black,Jewish,47,No,Less then high school,39974,suburban,east,left
+John,Female,Married,Other,Atheist,49,No,Postgraduate degree,180735,suburban,midwest,right
+Lucas,Male,Unmarried,Latino,Catholic,26,No,Bachelor's Degree,51881,suburban,south,right
+Evelyn,Female,Unmarried,Black,Others,55,Yes,Postgraduate degree,96133,rural,west,right
+Sarah,Male,Married,Native American,Jewish,22,Yes,High School,101280,urban,south,right
+John,Male,Unmarried,White,Catholic,37,Yes,Less then high school,162282,rural,midwest,left
+Lucas,Male,Married,Latino,Catholic,63,No,High School,93272,suburban,west,right
+Daniel,Male,Married,Black,Catholic,52,No,High School,148937,urban,south,left
+Ethan,Male,Married,Asian,Catholic,44,No,Postgraduate degree,117967,suburban,west,left
+Joseph,Female,Married,Other,Catholic,30,No,High School,170955,suburban,midwest,left
+Laura,Female,Unmarried,Asian,Catholic,51,No,Bachelor's Degree,132683,urban,west,left
+John,Male,Married,Other,Catholic,18,Yes,Associate Degree,65697,rural,east,right
+Chris,Male,Married,Other,Catholic,31,Yes,Postgraduate degree,154827,suburban,midwest,left
+Emma,Male,Married,White,Catholic,52,No,Associate Degree,102692,rural,midwest,left
+Samuel,Female,Married,Black,Atheist,30,Yes,Less then high school,192552,urban,midwest,right
+Chris,Male,Unmarried,Other,Others,22,Yes,Less then high school,141351,urban,midwest,right
+Elijah,Male,Unmarried,Black,Atheist,27,No,Less then high school,52399,suburban,south,right
+Samuel,Male,Unmarried,Latino,Catholic,45,No,Associate Degree,120709,suburban,south,left
+Charlotte,Male,Unmarried,White,Catholic,53,Yes,Less then high school,48675,suburban,east,right
+Lucas,Female,Unmarried,White,Atheist,56,No,Bachelor's Degree,102373,urban,midwest,left
+Olivia,Female,Unmarried,Native American,Atheist,61,Yes,High School,128698,rural,midwest,left
+Chris,Female,Married,Native American,Atheist,34,No,Associate Degree,168136,urban,south,left
+Emma,Female,Unmarried,Black,Atheist,20,No,High School,169056,rural,south,left
+Harper,Female,Married,Native American,Catholic,40,Yes,Postgraduate degree,73973,urban,midwest,right
+Daniel,Female,Married,Black,Atheist,44,No,Associate Degree,80348,rural,west,right
+Samuel,Female,Unmarried,Other,Atheist,46,No,Associate Degree,36037,rural,south,right
+Michael,Male,Unmarried,White,Protestant,52,No,Associate Degree,153819,suburban,midwest,right
+Isabella,Female,Married,White,Atheist,64,No,Less then high school,123480,suburban,east,right
+Jane,Female,Married,White,Jewish,47,Yes,Postgraduate degree,54973,suburban,west,right
+David,Male,Unmarried,Other,Catholic,28,Yes,Associate Degree,107689,rural,midwest,right
+Michael,Female,Married,Other,Atheist,49,Yes,High School,154653,suburban,midwest,left
+Chris,Female,Married,Latino,Protestant,32,Yes,Less then high school,102898,rural,south,right
+Mia,Male,Married,Asian,Atheist,19,No,High School,111962,rural,south,right
+Emma,Male,Unmarried,Black,Atheist,37,No,Associate Degree,34094,suburban,south,left
+Lucas,Male,Unmarried,Asian,Protestant,41,No,Postgraduate degree,71488,suburban,south,right
+Elijah,Female,Married,Asian,Protestant,30,No,Associate Degree,160122,rural,south,left
+Sarah,Female,Unmarried,White,Catholic,62,No,High School,97581,suburban,west,right
+David,Female,Unmarried,Black,Protestant,60,No,Less then high school,160111,urban,midwest,left
+Charlotte,Female,Married,Asian,Catholic,47,No,Associate Degree,57763,urban,east,right
+Isabella,Male,Unmarried,Black,Others,56,Yes,Bachelor's Degree,147354,urban,east,left
+Mia,Female,Unmarried,Other,Atheist,65,Yes,Associate Degree,53062,rural,west,left
+Ethan,Male,Married,Native American,Jewish,36,Yes,Associate Degree,33375,rural,east,left
+Andrew,Female,Unmarried,Latino,Catholic,44,No,Associate Degree,36059,suburban,west,right
+Olivia,Male,Married,Black,Atheist,34,Yes,Bachelor's Degree,56420,suburban,east,left
+Abigail,Female,Married,White,Atheist,24,Yes,High School,55278,rural,south,right
+Lucas,Female,Married,Latino,Atheist,42,No,High School,195403,rural,midwest,left
+Benjamin,Female,Unmarried,Black,Atheist,21,Yes,Bachelor's Degree,122039,urban,west,right
+Jane,Male,Unmarried,Native American,Protestant,44,Yes,Bachelor's Degree,66851,urban,east,right
+Jane,Female,Unmarried,Black,Catholic,58,Yes,Postgraduate degree,112839,urban,midwest,right
+Mia,Female,Married,Asian,Jewish,56,No,Associate Degree,88132,rural,midwest,right
+Elijah,Female,Unmarried,Asian,Atheist,36,No,High School,130778,rural,south,left
+Sophia,Female,Married,Other,Others,30,No,Bachelor's Degree,37737,urban,west,left
+Joseph,Male,Unmarried,White,Catholic,55,No,High School,189867,rural,midwest,right
+Daniel,Female,Married,Latino,Catholic,58,No,Bachelor's Degree,89487,rural,west,right
+Chris,Male,Unmarried,Native American,Protestant,62,Yes,Bachelor's Degree,190502,rural,west,left
+Elijah,Male,Unmarried,Native American,Others,43,No,Associate Degree,191354,rural,midwest,right
+Sarah,Male,Married,Native American,Others,51,No,Associate Degree,69013,rural,east,left
+Ethan,Male,Married,Latino,Others,51,Yes,Less then high school,155744,rural,west,right
+Sophia,Female,Married,Native American,Catholic,55,Yes,Postgraduate degree,120122,urban,west,left
+Katie,Male,Unmarried,Other,Catholic,39,Yes,Associate Degree,180574,suburban,midwest,right
+Samuel,Female,Married,Asian,Atheist,59,Yes,Associate Degree,77263,suburban,south,right
+Harper,Female,Married,Black,Protestant,49,Yes,Bachelor's Degree,181042,rural,east,left
+Emily,Male,Unmarried,Native American,Others,30,Yes,Associate Degree,75705,urban,west,left
+Mia,Male,Married,Latino,Protestant,39,Yes,Less then high school,122127,urban,midwest,right
+Emma,Male,Married,Black,Jewish,31,No,Less then high school,137740,rural,midwest,right
+James,Male,Unmarried,Other,Atheist,37,Yes,Postgraduate degree,30072,rural,west,left
+Samuel,Male,Unmarried,Latino,Protestant,18,Yes,High School,172882,suburban,midwest,left
+Lucas,Female,Married,Other,Others,32,Yes,Less then high school,96095,rural,east,left
+Andrew,Male,Unmarried,Latino,Catholic,41,No,Postgraduate degree,146238,urban,midwest,left
+Benjamin,Female,Unmarried,Other,Atheist,24,Yes,Postgraduate degree,166485,suburban,east,right
+Joseph,Male,Unmarried,Latino,Atheist,56,No,Postgraduate degree,34899,urban,east,right
+John,Male,Married,Asian,Catholic,37,Yes,Postgraduate degree,193801,suburban,east,left
+Benjamin,Female,Unmarried,Black,Protestant,43,Yes,Bachelor's Degree,142835,suburban,south,right
+Andrew,Female,Unmarried,Native American,Jewish,18,Yes,Less then high school,69113,suburban,west,left
+Sophia,Male,Married,Native American,Protestant,59,Yes,Bachelor's Degree,148671,suburban,south,right
+Harper,Female,Married,White,Catholic,47,No,Postgraduate degree,64091,suburban,midwest,right
+Abigail,Female,Unmarried,Black,Jewish,29,Yes,High School,177605,urban,south,left
+Evelyn,Female,Unmarried,Black,Protestant,31,Yes,High School,126809,urban,east,right
+Samuel,Male,Married,White,Protestant,25,No,High School,54401,suburban,west,left
+Sophia,Male,Married,Latino,Others,42,No,Bachelor's Degree,55901,rural,midwest,right
+John,Male,Married,Asian,Protestant,43,No,Bachelor's Degree,145513,urban,east,left
+Samuel,Male,Unmarried,White,Atheist,65,No,Bachelor's Degree,69207,urban,east,left
+Harper,Female,Married,Asian,Others,41,Yes,Postgraduate degree,165345,urban,west,left
+Ethan,Female,Married,Black,Others,48,Yes,Less then high school,97286,rural,west,left
+Laura,Male,Married,White,Atheist,38,Yes,Bachelor's Degree,57356,urban,east,right
+Joseph,Female,Unmarried,Asian,Jewish,21,Yes,Less then high school,139708,suburban,east,right
+Sarah,Male,Married,Asian,Jewish,53,Yes,Postgraduate degree,182577,rural,east,right
+Lucas,Male,Unmarried,Black,Others,43,No,Associate Degree,35585,rural,east,right
+Olivia,Male,Unmarried,Black,Others,59,Yes,Less then high school,34467,urban,west,left
+Evelyn,Male,Unmarried,Black,Atheist,29,Yes,Associate Degree,172747,suburban,midwest,right
+Elijah,Female,Unmarried,Native American,Atheist,57,Yes,High School,156395,suburban,south,right
+Benjamin,Female,Unmarried,Other,Catholic,24,No,Postgraduate degree,147763,rural,east,left
+Olivia,Male,Unmarried,Asian,Protestant,42,No,High School,137901,rural,midwest,left
+Laura,Male,Married,Latino,Others,46,No,Associate Degree,174852,suburban,west,right
+Isabella,Female,Unmarried,Native American,Catholic,25,No,Less then high school,43029,suburban,west,right
+Emily,Female,Married,Native American,Jewish,18,Yes,High School,53894,urban,midwest,left
+Joseph,Male,Married,Asian,Protestant,52,Yes,High School,47841,rural,south,left
+Sarah,Male,Unmarried,Native American,Atheist,39,Yes,Associate Degree,137155,rural,midwest,left
+Chris,Male,Married,Black,Catholic,63,No,Less then high school,111266,rural,west,right
+Joseph,Female,Married,Black,Others,39,Yes,High School,142256,rural,east,left
+Jane,Male,Unmarried,Native American,Protestant,65,No,Associate Degree,123606,suburban,south,right
+Lucas,Male,Married,Other,Atheist,45,No,Postgraduate degree,186723,suburban,south,right
+David,Male,Married,Asian,Protestant,36,No,High School,75016,rural,west,right
+Sarah,Male,Unmarried,Asian,Catholic,43,Yes,Bachelor's Degree,47758,urban,midwest,right
+John,Female,Married,Native American,Catholic,40,Yes,Less then high school,170428,urban,west,right
+David,Female,Married,Native American,Protestant,38,Yes,Less then high school,52040,rural,south,left
+Emma,Male,Married,White,Protestant,50,Yes,Postgraduate degree,83985,rural,south,right
+Evelyn,Male,Married,Black,Atheist,38,No,Less then high school,61436,rural,west,left
+David,Male,Unmarried,Latino,Others,56,No,Less then high school,194430,rural,south,right
+Amelia,Male,Married,Latino,Others,42,No,Postgraduate degree,75414,suburban,midwest,left
+Benjamin,Female,Married,Native American,Atheist,28,No,Less then high school,117172,urban,east,right
+John,Female,Married,White,Protestant,52,Yes,Less then high school,151317,urban,west,right
+Emily,Male,Unmarried,Asian,Atheist,49,Yes,Bachelor's Degree,40018,rural,east,right
+Chris,Female,Unmarried,White,Catholic,59,Yes,High School,104312,urban,west,left
+Emma,Female,Married,White,Protestant,29,No,Postgraduate degree,199968,rural,midwest,left
+Harper,Male,Married,Native American,Atheist,42,Yes,Postgraduate degree,167007,suburban,east,right
+Andrew,Male,Married,Latino,Protestant,63,Yes,High School,126042,suburban,east,right
+Harper,Female,Married,Black,Others,51,Yes,Less then high school,97928,rural,south,left
+Katie,Female,Unmarried,White,Catholic,61,No,High School,53271,rural,east,right
+David,Female,Married,White,Atheist,34,No,Associate Degree,128474,suburban,west,left
+Alex,Female,Unmarried,White,Jewish,65,No,Bachelor's Degree,99052,urban,south,left
+Amelia,Male,Unmarried,Other,Protestant,29,No,High School,168338,rural,midwest,right
+Mia,Female,Married,Black,Jewish,51,Yes,Bachelor's Degree,197048,urban,west,right
+Charlotte,Female,Unmarried,Asian,Protestant,45,Yes,Less then high school,77033,urban,midwest,right
+Lucas,Male,Unmarried,Black,Jewish,30,No,Postgraduate degree,148476,urban,south,left
+Harper,Female,Married,Other,Atheist,32,Yes,Less then high school,191982,rural,south,right
+Elijah,Female,Unmarried,Other,Protestant,56,Yes,Bachelor's Degree,156646,urban,midwest,left
+Elijah,Female,Unmarried,Black,Atheist,25,No,Less then high school,93586,suburban,west,right
+Andrew,Male,Unmarried,White,Jewish,45,Yes,High School,121547,rural,east,left
+Chris,Female,Married,Asian,Protestant,42,No,Postgraduate degree,173855,rural,west,right
+Abigail,Male,Married,White,Protestant,63,No,High School,128025,rural,west,right
+Katie,Male,Unmarried,White,Catholic,23,No,High School,90281,urban,south,right
+Olivia,Female,Married,Other,Others,19,Yes,Postgraduate degree,118777,urban,south,right
+Amelia,Male,Married,Latino,Catholic,40,No,Bachelor's Degree,132339,rural,south,left
+Matthew,Female,Married,Other,Jewish,26,Yes,Postgraduate degree,60084,urban,east,right
+Elijah,Male,Unmarried,Native American,Jewish,47,Yes,High School,99188,rural,west,left
+Chris,Female,Married,Asian,Atheist,58,Yes,Less then high school,63008,rural,south,left
+David,Female,Unmarried,Latino,Jewish,43,No,Less then high school,80696,suburban,west,right
+Alex,Female,Unmarried,Native American,Others,52,Yes,Associate Degree,166411,suburban,east,left
+Emily,Female,Unmarried,Latino,Jewish,60,No,Less then high school,87642,suburban,east,left
+Elijah,Female,Unmarried,Asian,Jewish,28,Yes,Postgraduate degree,94711,suburban,west,left
+Chris,Female,Married,Native American,Protestant,30,No,Associate Degree,179972,urban,midwest,right
+Ethan,Female,Unmarried,Asian,Others,51,Yes,Associate Degree,40429,rural,east,right
+Ethan,Male,Married,Other,Atheist,55,No,Less then high school,51867,suburban,west,right
+Sophia,Female,Unmarried,Native American,Atheist,58,Yes,High School,159828,suburban,west,left
+Amelia,Female,Married,Latino,Catholic,22,No,High School,177928,rural,west,left
+Emma,Female,Unmarried,Other,Jewish,34,Yes,Less then high school,121366,urban,west,left
+Andrew,Female,Unmarried,Asian,Jewish,31,Yes,Postgraduate degree,97322,rural,midwest,right
+John,Male,Married,Other,Catholic,27,Yes,Associate Degree,60743,suburban,west,right
+Emma,Male,Unmarried,Native American,Protestant,58,No,Less then high school,30444,urban,midwest,left
+Isabella,Male,Unmarried,White,Protestant,35,Yes,Less then high school,147613,suburban,south,left
+John,Female,Unmarried,Black,Protestant,65,No,Bachelor's Degree,73892,suburban,west,right
+Michael,Male,Unmarried,Asian,Protestant,59,No,Bachelor's Degree,93504,rural,midwest,left
+Charlotte,Female,Married,Latino,Atheist,29,Yes,Bachelor's Degree,73075,urban,midwest,right
+Sophia,Female,Married,Native American,Catholic,57,No,Bachelor's Degree,36318,urban,midwest,right
+Amelia,Male,Unmarried,Asian,Catholic,50,No,Bachelor's Degree,194114,suburban,midwest,right
+Sophia,Female,Unmarried,White,Protestant,51,Yes,Bachelor's Degree,81486,rural,west,right
+Katie,Female,Unmarried,Native American,Atheist,20,Yes,Postgraduate degree,162122,rural,east,right
+Elijah,Female,Married,White,Catholic,61,No,High School,166284,suburban,south,right
+John,Male,Married,Other,Atheist,58,No,Bachelor's Degree,34919,suburban,south,left
+Charlotte,Female,Married,Native American,Jewish,20,No,Bachelor's Degree,78951,rural,east,left
+Abigail,Female,Unmarried,Other,Catholic,35,Yes,Postgraduate degree,108590,suburban,midwest,right
+Samuel,Female,Unmarried,Asian,Jewish,42,Yes,Less then high school,180370,rural,south,left
+Olivia,Female,Unmarried,Other,Others,31,Yes,High School,114428,urban,midwest,right
+Jane,Female,Unmarried,Other,Protestant,54,No,Bachelor's Degree,76961,rural,midwest,left
+Olivia,Female,Married,Native American,Jewish,33,No,Postgraduate degree,54527,rural,midwest,left
+Olivia,Male,Married,Other,Atheist,34,No,Associate Degree,101107,suburban,midwest,left
+James,Female,Unmarried,Native American,Protestant,33,Yes,Postgraduate degree,173317,urban,south,left
+Sophia,Male,Unmarried,Native American,Protestant,62,No,Less then high school,57447,rural,west,left
+Alex,Male,Married,Other,Catholic,51,Yes,Postgraduate degree,147878,suburban,east,right
+Abigail,Female,Unmarried,Native American,Atheist,57,No,Less then high school,136505,rural,midwest,left
+David,Female,Married,Latino,Jewish,26,Yes,Postgraduate degree,179048,urban,south,left
+Sarah,Male,Unmarried,White,Protestant,19,No,Postgraduate degree,91986,suburban,south,right
+Michael,Male,Unmarried,Native American,Catholic,30,Yes,Bachelor's Degree,117752,suburban,midwest,right
+Alex,Male,Married,Native American,Catholic,30,No,High School,115201,suburban,south,right
+Samuel,Female,Unmarried,Asian,Catholic,31,No,Less then high school,147013,rural,east,right
+Ethan,Female,Married,Asian,Jewish,42,Yes,Postgraduate degree,189636,urban,east,left
+Mia,Male,Married,Native American,Protestant,28,Yes,Associate Degree,128542,suburban,midwest,left
+James,Female,Unmarried,Native American,Atheist,29,Yes,Bachelor's Degree,193977,urban,west,left
+Ethan,Female,Married,Other,Jewish,26,Yes,Bachelor's Degree,34267,suburban,midwest,right
+Charlotte,Male,Unmarried,Black,Others,24,Yes,Less then high school,129372,urban,east,right
+Isabella,Female,Unmarried,Latino,Others,44,Yes,Associate Degree,198531,urban,midwest,right
+Michael,Male,Unmarried,White,Catholic,45,Yes,Postgraduate degree,98097,urban,east,left
+Ethan,Female,Married,Asian,Others,61,No,Less then high school,49271,rural,east,left
+Harper,Female,Unmarried,Other,Catholic,34,No,Less then high school,41008,rural,south,left
+Katie,Female,Unmarried,Native American,Atheist,39,Yes,High School,132698,suburban,midwest,right
+Katie,Male,Married,Black,Protestant,55,Yes,Postgraduate degree,47620,urban,east,right
+Lucas,Male,Married,Other,Others,23,No,Postgraduate degree,40408,urban,west,right
+Sophia,Female,Unmarried,Native American,Protestant,48,Yes,Less then high school,189599,rural,west,right
+Matthew,Male,Married,White,Catholic,32,Yes,Less then high school,175119,suburban,east,left
+Harper,Male,Unmarried,Native American,Atheist,60,No,Postgraduate degree,121448,rural,south,right
+Sarah,Female,Married,Latino,Others,62,Yes,Associate Degree,84361,suburban,east,right
+Laura,Male,Unmarried,Native American,Jewish,55,Yes,Less then high school,101124,urban,midwest,right
+Samuel,Female,Married,Other,Catholic,34,No,High School,81037,rural,east,right
+Katie,Male,Married,Asian,Others,51,No,Less then high school,177804,rural,west,left
+Elijah,Male,Married,Latino,Others,30,No,Less then high school,113397,urban,midwest,left
+Olivia,Male,Married,White,Others,42,Yes,Bachelor's Degree,88311,rural,midwest,left
+Daniel,Male,Unmarried,Asian,Jewish,36,No,High School,58937,rural,west,left
+Laura,Male,Married,Black,Jewish,48,No,Less then high school,157528,suburban,east,left
+Emma,Male,Married,Other,Catholic,41,No,Postgraduate degree,82930,suburban,midwest,right
+James,Female,Unmarried,Black,Atheist,42,No,Associate Degree,105012,rural,west,right
+Ethan,Male,Married,White,Others,65,No,Postgraduate degree,97850,rural,west,right
+Sophia,Female,Married,Native American,Catholic,31,Yes,Associate Degree,95242,suburban,south,right
+Elijah,Male,Married,Other,Protestant,51,No,Associate Degree,173849,urban,east,right
+Matthew,Male,Unmarried,Latino,Others,43,No,Bachelor's Degree,171063,rural,east,left
+Ethan,Female,Married,Native American,Protestant,62,Yes,Associate Degree,42954,urban,east,left
+Emma,Female,Unmarried,Other,Jewish,61,No,Bachelor's Degree,36403,suburban,south,right
+Isabella,Male,Married,Asian,Others,35,Yes,High School,63819,rural,midwest,left
+Samuel,Male,Married,Black,Jewish,47,No,Bachelor's Degree,189187,urban,west,left
+Alex,Female,Unmarried,Asian,Protestant,63,Yes,Postgraduate degree,96672,suburban,south,left
+Amelia,Female,Unmarried,Other,Protestant,62,Yes,High School,192710,suburban,west,left
+Samuel,Male,Unmarried,Native American,Others,65,Yes,Postgraduate degree,71142,rural,midwest,right
+Emma,Female,Unmarried,White,Others,39,Yes,Associate Degree,97309,suburban,east,right
+John,Male,Unmarried,Latino,Jewish,64,Yes,Postgraduate degree,44436,suburban,west,right
+Andrew,Female,Married,Latino,Catholic,40,Yes,Bachelor's Degree,189565,urban,south,left
+Ethan,Male,Unmarried,Native American,Catholic,39,Yes,Associate Degree,146441,urban,west,left
+James,Male,Married,Native American,Catholic,44,No,Postgraduate degree,120261,rural,south,left
+Ethan,Male,Married,Native American,Protestant,25,Yes,Postgraduate degree,181054,rural,midwest,left
+Jane,Male,Married,White,Atheist,63,No,Bachelor's Degree,117610,suburban,east,right
+Samuel,Female,Unmarried,Black,Others,26,No,High School,151813,rural,east,right
+Laura,Female,Married,Latino,Atheist,39,Yes,Postgraduate degree,195434,rural,south,right
+Elijah,Male,Married,Other,Others,53,Yes,Bachelor's Degree,51021,suburban,west,right
+Elijah,Female,Unmarried,Native American,Catholic,42,Yes,Bachelor's Degree,137506,rural,midwest,right
+Amelia,Female,Unmarried,Black,Catholic,37,No,Bachelor's Degree,145306,rural,west,right
+Sophia,Female,Married,Other,Atheist,32,Yes,Postgraduate degree,149210,suburban,west,left
+Evelyn,Female,Married,Black,Others,63,No,Less then high school,108221,urban,east,right
+Emma,Female,Unmarried,Native American,Catholic,23,No,Postgraduate degree,152633,urban,midwest,left
+James,Female,Married,Latino,Jewish,38,No,Postgraduate degree,80722,urban,east,left
+Sarah,Male,Married,Asian,Atheist,29,Yes,Postgraduate degree,107267,rural,east,left
+Sarah,Male,Married,White,Others,42,No,Postgraduate degree,60751,urban,midwest,right
+Chris,Female,Married,Black,Others,64,No,High School,143027,urban,midwest,left
+Sarah,Female,Unmarried,Latino,Atheist,26,No,Postgraduate degree,107506,urban,midwest,right
+Andrew,Male,Unmarried,Other,Others,47,No,Postgraduate degree,173564,rural,east,right
+Lucas,Male,Married,Native American,Protestant,26,No,Less then high school,72806,suburban,east,right
+Sophia,Female,Unmarried,Asian,Protestant,40,Yes,Associate Degree,78341,suburban,west,left
+Isabella,Female,Married,Native American,Atheist,25,Yes,Bachelor's Degree,123253,suburban,midwest,left
+Benjamin,Female,Unmarried,White,Catholic,46,Yes,Associate Degree,122449,suburban,east,left
+Sarah,Male,Married,Black,Jewish,63,Yes,Bachelor's Degree,37845,urban,south,left
+Charlotte,Male,Unmarried,Asian,Atheist,18,No,High School,74437,rural,south,right
+Matthew,Male,Married,Asian,Others,53,Yes,Associate Degree,197095,urban,midwest,left
+Elijah,Male,Unmarried,Other,Atheist,48,Yes,Less then high school,72291,suburban,west,left
+Jane,Male,Unmarried,Other,Jewish,38,No,Less then high school,78716,urban,west,left
+Andrew,Male,Married,Black,Others,61,Yes,Postgraduate degree,172214,rural,south,left
+Lucas,Female,Unmarried,Asian,Others,23,No,High School,187319,suburban,east,left
+Evelyn,Male,Married,Latino,Catholic,21,Yes,Postgraduate degree,181479,suburban,east,right
+Charlotte,Female,Unmarried,Asian,Others,52,No,Bachelor's Degree,149294,rural,midwest,right
+Ethan,Female,Unmarried,White,Atheist,42,No,Bachelor's Degree,38999,urban,south,right
+Alex,Male,Married,Native American,Catholic,48,Yes,Postgraduate degree,69186,suburban,east,right
+Ethan,Male,Unmarried,Latino,Jewish,60,No,Postgraduate degree,193493,suburban,midwest,right
+Matthew,Female,Married,Other,Atheist,30,Yes,Less then high school,134507,urban,south,left
+James,Female,Married,Other,Catholic,48,Yes,High School,90118,suburban,west,left
+Matthew,Male,Married,Other,Jewish,41,No,Less then high school,86481,urban,midwest,right
+James,Female,Unmarried,Other,Others,31,Yes,Postgraduate degree,145153,rural,south,right
+David,Female,Married,Latino,Others,28,No,Postgraduate degree,49420,urban,east,right
+Harper,Female,Unmarried,Asian,Protestant,50,No,High School,59019,rural,south,left
+Mia,Male,Unmarried,Other,Jewish,24,Yes,Bachelor's Degree,107409,suburban,midwest,left
+Elijah,Female,Married,Other,Protestant,40,No,Associate Degree,166287,urban,south,right
+Evelyn,Male,Unmarried,White,Jewish,36,No,High School,133982,urban,south,left
+Abigail,Male,Unmarried,Asian,Protestant,61,Yes,High School,159446,suburban,south,left
+James,Female,Married,Black,Protestant,26,Yes,Postgraduate degree,83712,rural,east,right
+James,Female,Married,Other,Jewish,41,No,High School,53610,urban,south,left
+Sarah,Male,Unmarried,Native American,Catholic,60,No,Postgraduate degree,92471,rural,south,left
+Matthew,Male,Unmarried,Native American,Catholic,23,Yes,Bachelor's Degree,125633,suburban,west,left
+Evelyn,Female,Married,Asian,Others,54,No,Bachelor's Degree,114025,suburban,west,left
+Daniel,Male,Married,Latino,Catholic,35,Yes,Associate Degree,47999,suburban,midwest,right
+Lucas,Male,Unmarried,Other,Others,38,Yes,Postgraduate degree,155399,rural,west,right
+Isabella,Female,Married,Other,Atheist,36,Yes,Bachelor's Degree,195079,suburban,west,right
+Michael,Female,Unmarried,Black,Protestant,50,No,Associate Degree,88282,rural,west,right
+Samuel,Male,Married,Latino,Jewish,35,Yes,High School,63664,rural,east,left
+Sarah,Female,Married,Other,Protestant,65,Yes,Postgraduate degree,42649,urban,east,right
+Matthew,Female,Married,White,Catholic,44,No,High School,85671,suburban,east,left
+Isabella,Male,Unmarried,White,Protestant,65,Yes,Bachelor's Degree,171008,suburban,west,left
+Sarah,Female,Married,White,Protestant,50,Yes,High School,50043,rural,south,left
+Sarah,Male,Married,White,Others,57,No,Postgraduate degree,147724,suburban,east,right
+Evelyn,Female,Unmarried,Other,Protestant,45,No,Postgraduate degree,138509,rural,south,right
+Joseph,Female,Married,White,Catholic,52,No,Postgraduate degree,188617,suburban,midwest,right
+Sarah,Male,Married,Asian,Catholic,20,Yes,High School,137998,urban,west,right
+Matthew,Female,Unmarried,Native American,Catholic,24,No,Bachelor's Degree,75676,urban,east,left
+Katie,Male,Unmarried,Asian,Jewish,42,No,Bachelor's Degree,104349,rural,midwest,right
+Matthew,Female,Married,Black,Catholic,58,Yes,Postgraduate degree,179897,suburban,south,left
+Mia,Female,Unmarried,Other,Protestant,26,No,Bachelor's Degree,116860,rural,midwest,right
+Daniel,Female,Unmarried,Latino,Catholic,50,Yes,Postgraduate degree,143893,rural,midwest,left
+Harper,Male,Married,White,Atheist,22,Yes,High School,185273,suburban,midwest,left
+Sarah,Male,Unmarried,Black,Jewish,20,No,Less then high school,168472,rural,west,right
+Emily,Female,Married,Latino,Jewish,54,Yes,Postgraduate degree,45362,urban,west,right
+Jane,Female,Unmarried,White,Jewish,48,No,Postgraduate degree,51027,suburban,west,right
+Laura,Male,Married,Asian,Others,65,Yes,Bachelor's Degree,193911,rural,south,left
+Joseph,Male,Unmarried,Black,Jewish,18,No,Postgraduate degree,190054,suburban,east,left
+Amelia,Female,Unmarried,White,Atheist,52,Yes,Postgraduate degree,160368,urban,south,right
+Harper,Female,Married,Asian,Jewish,43,No,Bachelor's Degree,65617,urban,east,right
+Sophia,Male,Unmarried,Black,Others,52,Yes,Less then high school,134364,urban,west,right
+John,Male,Unmarried,Native American,Atheist,23,Yes,High School,199512,rural,east,right
+Chris,Male,Unmarried,White,Protestant,60,No,Bachelor's Degree,91724,urban,west,left
+Katie,Female,Married,White,Others,34,No,Associate Degree,111652,urban,south,right
+Laura,Male,Married,White,Others,37,No,Postgraduate degree,124818,urban,east,left
+Daniel,Female,Unmarried,Latino,Atheist,51,No,Bachelor's Degree,158473,urban,east,right
+Lucas,Male,Married,Other,Catholic,63,No,Postgraduate degree,42750,urban,midwest,left
+Matthew,Male,Unmarried,Native American,Atheist,57,No,Less then high school,182462,rural,east,right
+Benjamin,Female,Unmarried,Native American,Atheist,53,Yes,Postgraduate degree,67475,suburban,midwest,left
+Elijah,Male,Married,Other,Protestant,18,Yes,High School,55838,rural,west,left
+Lucas,Female,Unmarried,Other,Others,50,No,Less then high school,34251,suburban,south,right
+Laura,Male,Unmarried,Latino,Atheist,34,No,Bachelor's Degree,39244,suburban,midwest,right
+Daniel,Male,Married,Black,Atheist,22,No,Less then high school,126739,rural,midwest,left
+Ethan,Male,Married,Other,Protestant,25,Yes,Associate Degree,178524,urban,west,right
+Sophia,Male,Unmarried,Latino,Protestant,44,Yes,Less then high school,174593,rural,south,left
+Samuel,Female,Married,Other,Jewish,20,Yes,Less then high school,148735,suburban,west,right
+Harper,Male,Unmarried,Black,Jewish,34,Yes,Postgraduate degree,34525,urban,west,left
+Emily,Male,Unmarried,Other,Jewish,40,No,High School,97037,urban,south,left
+Harper,Female,Married,Black,Atheist,21,Yes,Bachelor's Degree,38151,suburban,west,right
+Daniel,Male,Married,Latino,Atheist,43,Yes,Bachelor's Degree,177866,urban,east,right
+David,Female,Unmarried,Latino,Catholic,45,Yes,Less then high school,154948,suburban,east,right
+Ethan,Male,Unmarried,Other,Catholic,60,Yes,Less then high school,59472,urban,east,right
+Charlotte,Male,Married,Black,Protestant,48,No,Less then high school,80540,rural,south,left
+Emily,Male,Unmarried,Asian,Others,25,Yes,Associate Degree,57935,urban,midwest,left
+Charlotte,Female,Married,White,Jewish,25,No,Less then high school,143445,suburban,midwest,left
+Benjamin,Female,Unmarried,Native American,Protestant,48,No,Less then high school,88344,rural,south,left
+Joseph,Female,Married,Black,Others,34,Yes,Bachelor's Degree,48925,urban,east,right
+Katie,Male,Unmarried,Latino,Protestant,27,Yes,Bachelor's Degree,126551,urban,south,left
+Samuel,Male,Married,White,Others,40,Yes,Postgraduate degree,106778,suburban,midwest,right
+Sophia,Male,Married,Latino,Jewish,32,Yes,Associate Degree,127751,rural,south,left
+Harper,Male,Unmarried,Black,Others,50,Yes,Less then high school,118629,urban,midwest,left
+Chris,Male,Married,Native American,Catholic,25,No,High School,142326,rural,midwest,right
+Sophia,Female,Married,Native American,Catholic,35,No,High School,100557,urban,midwest,left
+Sarah,Female,Married,Asian,Others,51,Yes,High School,150197,rural,south,left
+Sophia,Female,Unmarried,White,Atheist,53,No,Postgraduate degree,44694,rural,west,left
+Amelia,Female,Unmarried,Asian,Jewish,41,Yes,Bachelor's Degree,145349,suburban,east,left
+Abigail,Female,Unmarried,Native American,Protestant,19,Yes,Bachelor's Degree,155875,urban,west,left
+Daniel,Female,Married,Latino,Jewish,43,Yes,High School,133605,rural,south,left
+Andrew,Female,Unmarried,Asian,Atheist,54,Yes,Postgraduate degree,92146,rural,east,right
+Lucas,Female,Married,Other,Catholic,44,Yes,Less then high school,157884,rural,south,left
+Andrew,Female,Married,Latino,Protestant,35,No,Associate Degree,131312,rural,south,right
+Ethan,Male,Married,Asian,Jewish,37,Yes,High School,158192,rural,east,left
+Charlotte,Female,Unmarried,Other,Catholic,23,Yes,High School,57402,rural,east,left
+Alex,Female,Married,Native American,Others,35,Yes,High School,114677,urban,east,left
+Olivia,Female,Married,Native American,Atheist,49,No,Bachelor's Degree,124501,rural,west,right
+Sarah,Female,Unmarried,Asian,Catholic,27,Yes,Associate Degree,133406,urban,west,right
+Samuel,Male,Unmarried,Native American,Jewish,31,No,Associate Degree,171992,suburban,east,right
+Joseph,Female,Married,White,Catholic,27,No,Postgraduate degree,38643,suburban,east,left
+Jane,Male,Unmarried,Native American,Catholic,53,No,Bachelor's Degree,35457,rural,midwest,right
+Joseph,Male,Unmarried,Native American,Catholic,22,No,Associate Degree,79096,rural,west,left
+Daniel,Female,Unmarried,Asian,Catholic,31,Yes,Less then high school,30549,urban,midwest,right
+David,Male,Unmarried,Black,Atheist,52,No,High School,75003,rural,midwest,left
+Evelyn,Female,Unmarried,Black,Catholic,32,Yes,Postgraduate degree,163208,rural,west,left
+Katie,Female,Unmarried,Other,Catholic,34,No,Less then high school,178699,urban,south,right
+Samuel,Female,Unmarried,White,Atheist,23,Yes,Postgraduate degree,164410,urban,west,left
+Mia,Male,Married,Native American,Catholic,18,Yes,Associate Degree,117732,rural,east,left
+Emma,Male,Unmarried,Other,Protestant,38,No,Associate Degree,47683,rural,east,left
+Abigail,Female,Unmarried,White,Others,56,Yes,Less then high school,195491,suburban,east,right
+Abigail,Male,Unmarried,Asian,Others,25,No,High School,138625,urban,west,right
+Olivia,Female,Married,Black,Catholic,44,Yes,Associate Degree,127507,urban,west,right
+Sophia,Male,Unmarried,Latino,Protestant,49,No,High School,169480,urban,south,right
+Emily,Female,Married,White,Atheist,30,No,Postgraduate degree,135326,rural,east,left
+Katie,Female,Unmarried,Asian,Catholic,43,Yes,High School,139477,rural,south,left
+Evelyn,Male,Unmarried,Asian,Jewish,56,Yes,High School,124455,urban,midwest,right
+Emily,Female,Married,Black,Protestant,44,No,Less then high school,71955,rural,south,right
+Harper,Female,Unmarried,Native American,Protestant,40,No,Postgraduate degree,148257,suburban,east,left
+Joseph,Female,Unmarried,Other,Atheist,49,Yes,Associate Degree,157588,rural,midwest,left
+Sophia,Female,Married,Other,Atheist,50,Yes,Postgraduate degree,65052,rural,midwest,right
+Lucas,Male,Married,Native American,Jewish,55,Yes,Bachelor's Degree,191777,rural,midwest,left
+James,Female,Married,Other,Protestant,33,Yes,Less then high school,111500,rural,west,left
+Charlotte,Female,Married,Asian,Catholic,53,No,Postgraduate degree,44267,suburban,east,right
+Katie,Female,Married,Other,Others,37,Yes,Postgraduate degree,127062,suburban,midwest,right
+Evelyn,Female,Married,White,Atheist,33,No,Bachelor's Degree,113038,urban,west,right
+Emma,Female,Unmarried,Asian,Others,49,Yes,High School,142571,urban,west,left
+Elijah,Female,Unmarried,Latino,Others,45,No,Less then high school,184697,urban,east,right
+Lucas,Female,Unmarried,Latino,Atheist,42,Yes,Postgraduate degree,145385,rural,south,right
+Lucas,Male,Unmarried,Asian,Others,55,Yes,Less then high school,107902,rural,midwest,left
+Laura,Female,Married,Other,Jewish,30,Yes,Bachelor's Degree,150145,suburban,midwest,right
+Emma,Female,Unmarried,Black,Atheist,19,No,Postgraduate degree,92537,rural,midwest,right
+Ethan,Female,Married,Black,Jewish,30,No,Bachelor's Degree,69430,urban,south,right
+John,Male,Unmarried,Native American,Others,35,No,Postgraduate degree,39522,rural,east,right
+Emily,Male,Married,Other,Protestant,23,Yes,Associate Degree,30383,suburban,east,left
+Isabella,Male,Unmarried,Native American,Catholic,49,Yes,Postgraduate degree,62379,suburban,midwest,left
+Matthew,Male,Married,White,Others,35,No,Associate Degree,153822,urban,west,left
+Lucas,Male,Unmarried,Native American,Others,53,Yes,Postgraduate degree,160020,rural,east,right
+Amelia,Male,Unmarried,Black,Atheist,54,No,High School,156126,urban,west,left
+Andrew,Male,Married,Latino,Catholic,39,No,Postgraduate degree,96344,urban,west,right
+Benjamin,Male,Married,Black,Others,35,Yes,High School,155144,rural,west,right
+James,Female,Unmarried,White,Jewish,41,No,Postgraduate degree,152116,suburban,midwest,right
+Lucas,Female,Unmarried,Other,Others,65,No,Bachelor's Degree,178372,urban,west,left
+Ethan,Male,Unmarried,Asian,Atheist,59,No,Bachelor's Degree,163126,suburban,midwest,left
+Mia,Male,Unmarried,Asian,Others,24,No,Postgraduate degree,93725,urban,west,right
+Charlotte,Female,Unmarried,Native American,Others,26,No,Postgraduate degree,67141,rural,south,left
+Sophia,Female,Married,Asian,Others,60,Yes,Postgraduate degree,161743,suburban,west,left
+Emily,Female,Unmarried,Black,Others,23,Yes,Bachelor's Degree,53107,suburban,west,left
+Amelia,Male,Unmarried,Black,Others,35,No,Bachelor's Degree,188997,rural,west,right
+Katie,Male,Unmarried,Native American,Jewish,38,Yes,Less then high school,197360,rural,east,left
+Laura,Female,Unmarried,Asian,Atheist,26,Yes,Associate Degree,93901,urban,west,right
+Ethan,Female,Unmarried,Black,Jewish,52,Yes,Less then high school,36802,urban,south,right
+Lucas,Male,Unmarried,Other,Atheist,33,No,High School,140103,suburban,midwest,left
+Sophia,Female,Married,White,Protestant,31,No,Associate Degree,194149,urban,midwest,right
+John,Male,Married,Latino,Others,24,No,Less then high school,119823,urban,west,left
+Katie,Male,Married,Native American,Catholic,41,Yes,Postgraduate degree,142103,suburban,west,right
+Alex,Female,Married,White,Others,47,No,Associate Degree,123375,urban,east,right
+James,Female,Married,White,Catholic,32,No,Bachelor's Degree,195448,suburban,south,left
+James,Male,Unmarried,Native American,Atheist,26,Yes,Bachelor's Degree,81059,urban,south,right
+Isabella,Male,Unmarried,Native American,Atheist,36,Yes,Associate Degree,124652,urban,east,left
+Evelyn,Female,Married,White,Protestant,50,Yes,Bachelor's Degree,187891,urban,midwest,left
+Katie,Female,Unmarried,Latino,Atheist,48,No,High School,167429,suburban,east,right
+David,Male,Unmarried,Other,Others,57,Yes,Bachelor's Degree,150208,suburban,west,left
+Ethan,Female,Married,Native American,Protestant,58,No,Associate Degree,90982,urban,midwest,right
+James,Female,Married,Latino,Jewish,31,Yes,Bachelor's Degree,52161,suburban,east,right
+Emily,Female,Unmarried,Other,Others,61,Yes,Less then high school,77152,suburban,midwest,left
+Abigail,Male,Unmarried,Native American,Protestant,64,Yes,High School,140235,suburban,west,left
+Olivia,Male,Unmarried,White,Protestant,62,Yes,High School,80766,urban,west,left
+Abigail,Female,Married,Asian,Catholic,63,No,Bachelor's Degree,186467,rural,south,left
+Benjamin,Male,Married,Other,Atheist,59,No,High School,184312,rural,west,right
+Charlotte,Male,Married,Other,Atheist,62,No,Postgraduate degree,127120,suburban,west,right
+Olivia,Male,Unmarried,Native American,Jewish,44,Yes,Bachelor's Degree,68908,urban,midwest,right
+Daniel,Female,Unmarried,Other,Jewish,34,No,Less then high school,115385,urban,east,left
+Daniel,Male,Married,White,Atheist,64,Yes,High School,98429,rural,east,right
+James,Female,Married,White,Catholic,57,Yes,High School,139206,urban,east,left
+Joseph,Female,Married,Asian,Catholic,31,Yes,Associate Degree,126185,rural,midwest,right
+Charlotte,Female,Married,Asian,Protestant,39,No,Associate Degree,164621,urban,midwest,right
+Evelyn,Male,Unmarried,Native American,Jewish,28,No,Postgraduate degree,175916,rural,south,right
+Evelyn,Male,Married,Other,Jewish,51,Yes,Postgraduate degree,119659,rural,west,right
+James,Male,Unmarried,White,Others,47,No,Associate Degree,52735,urban,east,right
+Alex,Male,Married,Asian,Catholic,45,No,Bachelor's Degree,88334,suburban,midwest,right
+James,Male,Married,Asian,Atheist,59,Yes,Less then high school,62440,urban,south,right
+Charlotte,Male,Unmarried,Native American,Jewish,58,No,Postgraduate degree,158070,urban,midwest,left
+Mia,Male,Unmarried,Native American,Catholic,52,No,Bachelor's Degree,104317,suburban,east,left
+Benjamin,Female,Unmarried,White,Jewish,34,Yes,Associate Degree,160567,suburban,east,left
+Mia,Male,Unmarried,Other,Jewish,49,Yes,Less then high school,156169,suburban,midwest,left
+Isabella,Female,Married,Latino,Protestant,48,No,Bachelor's Degree,49499,urban,south,left
+Benjamin,Male,Unmarried,Latino,Protestant,53,Yes,High School,125687,suburban,midwest,right
+Isabella,Female,Unmarried,Other,Atheist,29,No,Associate Degree,107757,urban,west,left
+Sophia,Male,Unmarried,Black,Others,64,No,Postgraduate degree,177057,suburban,west,left
+Samuel,Male,Unmarried,Black,Atheist,22,No,Bachelor's Degree,158837,rural,west,left
+Andrew,Male,Married,Native American,Catholic,20,No,Associate Degree,41880,suburban,east,right
+Michael,Male,Married,Other,Catholic,32,No,High School,70967,suburban,midwest,left
+Lucas,Female,Married,Latino,Catholic,31,Yes,High School,45779,suburban,east,right
+Samuel,Male,Unmarried,Latino,Protestant,20,Yes,Bachelor's Degree,86885,suburban,midwest,left
+Daniel,Female,Married,White,Jewish,40,Yes,Bachelor's Degree,193068,urban,west,left
+Evelyn,Female,Unmarried,Native American,Catholic,32,No,Associate Degree,82336,rural,south,right
+Joseph,Female,Unmarried,Black,Catholic,57,Yes,Less then high school,67233,suburban,east,left
+Michael,Male,Married,Other,Others,37,No,Associate Degree,113395,urban,midwest,right
+James,Male,Unmarried,Black,Atheist,55,No,Associate Degree,119545,suburban,midwest,left
+John,Female,Married,Native American,Protestant,36,No,Bachelor's Degree,40661,urban,south,left
+Chris,Female,Unmarried,Asian,Others,51,Yes,Less then high school,85905,suburban,west,left
+Benjamin,Female,Married,Native American,Jewish,27,Yes,Bachelor's Degree,138353,urban,east,right
+Evelyn,Female,Unmarried,Latino,Catholic,23,Yes,Postgraduate degree,116092,rural,east,left
+David,Male,Unmarried,Native American,Protestant,55,No,Associate Degree,32930,rural,midwest,right
+Abigail,Female,Unmarried,Asian,Catholic,27,Yes,Postgraduate degree,148750,urban,west,right
+Alex,Female,Married,White,Protestant,46,No,Bachelor's Degree,55754,urban,west,right
+John,Male,Married,Black,Atheist,44,No,Postgraduate degree,59898,suburban,east,right
+Amelia,Male,Unmarried,Other,Atheist,22,No,Bachelor's Degree,54839,urban,west,left
+Alex,Female,Unmarried,Native American,Atheist,47,No,Associate Degree,32247,urban,midwest,left
+Chris,Female,Unmarried,Native American,Catholic,50,Yes,Postgraduate degree,143070,suburban,east,left
+Abigail,Female,Married,Other,Others,29,Yes,Less then high school,85912,rural,east,left
+David,Female,Married,Native American,Protestant,52,Yes,Bachelor's Degree,174033,urban,east,left
+John,Male,Married,Asian,Others,22,Yes,Bachelor's Degree,37788,suburban,west,left
+Sophia,Male,Unmarried,Latino,Atheist,60,No,Bachelor's Degree,129587,urban,east,left
+Benjamin,Male,Unmarried,Black,Jewish,40,No,High School,49682,urban,south,right
+Andrew,Female,Married,Native American,Protestant,41,Yes,Bachelor's Degree,160757,suburban,midwest,right
+Abigail,Female,Married,Native American,Atheist,44,Yes,Bachelor's Degree,66957,urban,east,left
+James,Male,Married,Native American,Atheist,35,Yes,Bachelor's Degree,57931,rural,west,left
+Abigail,Female,Unmarried,Black,Jewish,60,No,Associate Degree,88026,urban,west,right
+Matthew,Male,Unmarried,Asian,Jewish,57,No,Postgraduate degree,158333,suburban,south,right
+John,Female,Unmarried,Black,Others,47,No,Less then high school,68393,urban,midwest,left
+Lucas,Male,Married,White,Jewish,60,Yes,Bachelor's Degree,61149,urban,west,left
+John,Male,Married,Other,Jewish,18,No,High School,118572,rural,west,left
+John,Male,Married,Native American,Atheist,33,Yes,Postgraduate degree,94271,suburban,midwest,left
+Sarah,Female,Unmarried,Native American,Jewish,26,No,High School,108813,suburban,west,left
+Michael,Female,Married,Other,Others,49,No,Less then high school,138946,suburban,midwest,right
+Elijah,Female,Married,White,Jewish,24,No,Bachelor's Degree,174063,rural,midwest,right
+Elijah,Male,Married,Other,Atheist,62,No,High School,80634,suburban,east,right
+Andrew,Male,Married,Native American,Catholic,41,No,Associate Degree,108382,rural,east,right
+Michael,Female,Married,Native American,Atheist,64,Yes,High School,38821,urban,midwest,right
+Sophia,Male,Unmarried,Asian,Protestant,40,No,Postgraduate degree,199440,suburban,east,left
+John,Male,Married,Latino,Atheist,51,No,Postgraduate degree,166718,suburban,midwest,left
+Laura,Female,Unmarried,Black,Atheist,33,No,Less then high school,154161,rural,east,right
+Katie,Female,Unmarried,Native American,Catholic,36,No,High School,157329,suburban,west,right
+Daniel,Female,Married,Latino,Jewish,34,Yes,Associate Degree,121879,suburban,south,left
+Andrew,Female,Married,Other,Protestant,48,Yes,Postgraduate degree,161441,suburban,west,right
+Joseph,Female,Married,Native American,Catholic,43,Yes,Bachelor's Degree,156347,urban,south,left
+Olivia,Female,Married,Asian,Atheist,36,Yes,Associate Degree,77475,suburban,west,left
+Sophia,Female,Married,White,Catholic,42,No,Less then high school,173077,suburban,east,right
+Ethan,Male,Married,Other,Others,59,Yes,Bachelor's Degree,192262,urban,west,right
+Laura,Male,Unmarried,Black,Catholic,55,Yes,Bachelor's Degree,31276,suburban,east,left
+Abigail,Male,Unmarried,Asian,Jewish,26,No,Postgraduate degree,136943,rural,east,right
+Alex,Male,Unmarried,White,Atheist,37,No,High School,181632,suburban,west,right
+Elijah,Male,Unmarried,Black,Jewish,23,No,Less then high school,40787,suburban,east,right
+Emma,Female,Married,Other,Jewish,55,No,High School,177418,rural,south,right
+Samuel,Male,Unmarried,Asian,Catholic,47,No,Bachelor's Degree,134392,suburban,west,right
+Isabella,Male,Married,Native American,Atheist,18,No,Associate Degree,102180,suburban,midwest,left
+Mia,Female,Unmarried,Asian,Protestant,43,Yes,Associate Degree,172153,urban,west,right
+Lucas,Female,Unmarried,Black,Atheist,59,Yes,Bachelor's Degree,84658,suburban,west,left
+Benjamin,Male,Married,Black,Jewish,26,No,Associate Degree,89382,urban,east,right
+Joseph,Female,Married,Black,Protestant,62,Yes,Less then high school,110219,urban,midwest,left
+Katie,Female,Unmarried,Black,Others,48,Yes,Associate Degree,133960,suburban,west,left
+Andrew,Male,Married,Native American,Others,25,Yes,Postgraduate degree,130142,urban,east,left
+Benjamin,Female,Unmarried,Native American,Atheist,50,No,Less then high school,33384,suburban,midwest,right
+Alex,Female,Married,White,Protestant,54,Yes,Associate Degree,135620,rural,south,right
+Lucas,Female,Married,Other,Jewish,48,Yes,High School,144794,suburban,south,left
+Isabella,Female,Unmarried,Black,Others,63,No,High School,106657,rural,west,right
+Emma,Male,Unmarried,Black,Atheist,30,Yes,Associate Degree,55631,urban,west,right
+Jane,Male,Unmarried,Black,Protestant,44,Yes,Bachelor's Degree,33229,suburban,south,right
+Emma,Female,Unmarried,White,Atheist,45,No,Postgraduate degree,92025,suburban,east,left
+Harper,Male,Unmarried,Asian,Protestant,32,No,High School,126666,rural,south,left
+Michael,Male,Married,Native American,Atheist,40,Yes,Bachelor's Degree,113124,suburban,east,left
+Sarah,Female,Married,White,Catholic,55,Yes,Less then high school,37983,urban,east,right
+Laura,Male,Unmarried,Native American,Jewish,20,No,Associate Degree,182744,suburban,south,right
+Isabella,Female,Married,Black,Jewish,34,Yes,High School,37502,suburban,east,right
+Matthew,Male,Married,Other,Jewish,34,No,High School,172153,suburban,west,right
+Matthew,Male,Unmarried,Latino,Protestant,53,Yes,Postgraduate degree,72350,suburban,midwest,right
+Alex,Female,Married,Black,Others,22,No,Associate Degree,179673,suburban,east,left
+Isabella,Female,Married,Latino,Others,62,No,Associate Degree,178612,suburban,west,left
+Matthew,Male,Married,Asian,Jewish,41,Yes,Associate Degree,108442,rural,west,left
+Mia,Female,Married,Other,Others,62,Yes,High School,64799,rural,east,right
+Michael,Female,Married,Native American,Protestant,32,Yes,Less then high school,125974,urban,west,right
+Harper,Male,Married,Latino,Jewish,28,No,Associate Degree,54876,suburban,west,right
+Harper,Female,Married,Other,Others,37,No,High School,106226,suburban,midwest,right
+Sophia,Female,Married,Native American,Atheist,25,No,Associate Degree,53771,urban,west,right
+Ethan,Female,Unmarried,Other,Atheist,32,No,Bachelor's Degree,117044,rural,midwest,right
+John,Female,Married,Other,Atheist,45,Yes,Bachelor's Degree,37699,suburban,midwest,right
+Elijah,Female,Unmarried,Other,Atheist,32,No,Associate Degree,104908,rural,west,right
+Katie,Female,Unmarried,Asian,Atheist,36,Yes,Associate Degree,51415,urban,west,left
+Alex,Male,Married,Asian,Jewish,24,Yes,High School,164505,rural,south,right
+Evelyn,Female,Unmarried,Other,Jewish,63,Yes,Less then high school,54503,urban,east,right
+Emma,Female,Married,White,Atheist,31,No,Less then high school,147052,suburban,south,left
+Chris,Female,Unmarried,Latino,Others,58,No,Less then high school,174091,suburban,midwest,left
+Evelyn,Male,Unmarried,White,Jewish,34,Yes,Postgraduate degree,76949,urban,south,left
+Alex,Female,Unmarried,Other,Atheist,35,No,Bachelor's Degree,65045,urban,south,right
+Matthew,Female,Unmarried,Other,Atheist,52,No,High School,135889,urban,south,right
+John,Female,Unmarried,White,Protestant,18,Yes,Less then high school,105175,urban,west,right
+Abigail,Female,Married,Black,Others,40,No,High School,101511,rural,south,right
+Charlotte,Female,Married,Latino,Atheist,55,No,High School,52669,urban,east,right
+Chris,Male,Unmarried,Other,Protestant,36,No,Less then high school,78515,urban,west,left
+Amelia,Male,Married,Black,Atheist,55,No,Associate Degree,99134,urban,south,right
+Abigail,Female,Unmarried,Other,Jewish,57,No,Less then high school,49017,urban,south,left
+Abigail,Female,Unmarried,Native American,Others,18,Yes,Associate Degree,173966,suburban,midwest,left
+Amelia,Male,Unmarried,White,Atheist,58,No,Postgraduate degree,42256,rural,west,left
+Sophia,Male,Married,Other,Protestant,40,Yes,Postgraduate degree,145425,rural,midwest,right
+Matthew,Female,Unmarried,Asian,Protestant,32,No,Associate Degree,72302,urban,midwest,left
+Emily,Female,Unmarried,White,Protestant,36,Yes,Bachelor's Degree,158511,rural,south,right
+Sarah,Male,Married,Black,Jewish,24,No,Bachelor's Degree,86174,urban,south,left
+Jane,Female,Married,Asian,Atheist,41,Yes,Postgraduate degree,90288,rural,west,right
+Isabella,Male,Married,Black,Jewish,24,Yes,Postgraduate degree,188666,suburban,south,right
+Emma,Female,Married,Native American,Catholic,28,No,Bachelor's Degree,89675,urban,east,left
+Amelia,Female,Unmarried,Latino,Atheist,37,Yes,Less then high school,127854,suburban,west,right
+Chris,Female,Married,Other,Others,23,No,Associate Degree,36727,suburban,west,left
+Matthew,Female,Married,Latino,Others,52,Yes,Bachelor's Degree,175026,suburban,south,left
+Jane,Male,Unmarried,Native American,Protestant,64,Yes,Associate Degree,98049,rural,south,left
+Mia,Male,Unmarried,Latino,Protestant,48,No,High School,106992,urban,south,left
+Lucas,Female,Unmarried,Native American,Catholic,42,No,High School,66408,suburban,east,right
+Samuel,Male,Unmarried,Native American,Protestant,40,No,Bachelor's Degree,81500,suburban,east,left
+Andrew,Male,Married,Native American,Atheist,32,No,Bachelor's Degree,178961,rural,midwest,left
+Mia,Female,Unmarried,White,Protestant,44,No,Less then high school,193351,rural,west,left
+Charlotte,Male,Married,Black,Catholic,21,No,Associate Degree,109342,suburban,south,right
+Harper,Female,Unmarried,Native American,Atheist,31,No,Less then high school,33783,urban,east,right
+Isabella,Female,Unmarried,Asian,Protestant,48,No,Postgraduate degree,144417,urban,east,left
+Harper,Female,Married,Asian,Protestant,42,No,Associate Degree,135487,rural,east,left
+Laura,Male,Unmarried,White,Catholic,31,No,Bachelor's Degree,104183,suburban,south,left
+Abigail,Female,Married,Latino,Jewish,64,Yes,Associate Degree,38257,urban,east,left
+Laura,Male,Unmarried,Latino,Catholic,65,Yes,Bachelor's Degree,128628,urban,east,left
+Matthew,Female,Unmarried,Black,Others,55,No,Associate Degree,80055,rural,east,right
+John,Female,Married,White,Atheist,47,No,Associate Degree,156480,suburban,south,right
+Jane,Male,Married,Black,Jewish,61,Yes,Less then high school,197690,suburban,south,right
+Amelia,Female,Married,Other,Jewish,35,Yes,Bachelor's Degree,170892,suburban,south,left
+Laura,Female,Unmarried,Other,Protestant,37,No,Bachelor's Degree,88412,rural,midwest,right
+Emily,Male,Married,Other,Catholic,30,No,Associate Degree,121495,rural,south,left
+Abigail,Female,Unmarried,Other,Jewish,20,No,Associate Degree,121223,rural,south,left
+Mia,Male,Unmarried,Latino,Protestant,30,No,Postgraduate degree,42139,urban,west,right
+Alex,Male,Unmarried,Black,Protestant,41,No,Associate Degree,45215,rural,midwest,left
+Andrew,Male,Unmarried,White,Jewish,18,Yes,Postgraduate degree,135131,urban,midwest,left
+Benjamin,Male,Married,Native American,Catholic,39,Yes,Bachelor's Degree,101099,suburban,south,right
+Jane,Male,Married,Native American,Protestant,52,Yes,Less then high school,95759,rural,east,right
+Charlotte,Female,Unmarried,Other,Jewish,46,No,Postgraduate degree,64339,rural,west,left
+John,Male,Unmarried,White,Others,36,Yes,Less then high school,179259,rural,west,left
+John,Male,Unmarried,Black,Atheist,61,Yes,High School,177863,rural,west,right
+Katie,Female,Married,Latino,Atheist,26,No,Bachelor's Degree,54694,rural,west,right
+Elijah,Male,Married,Black,Atheist,18,Yes,Less then high school,58096,suburban,east,right
+Jane,Female,Unmarried,Other,Protestant,18,Yes,Postgraduate degree,141203,suburban,south,left
+John,Female,Married,White,Protestant,63,Yes,Bachelor's Degree,102732,suburban,east,left
+Harper,Male,Unmarried,White,Jewish,63,No,Postgraduate degree,194876,rural,midwest,left
+Lucas,Male,Married,Asian,Catholic,27,Yes,High School,169546,urban,east,right
+Lucas,Male,Married,Native American,Others,58,Yes,Bachelor's Degree,53459,suburban,south,right
+Isabella,Male,Unmarried,Black,Others,53,Yes,Postgraduate degree,40092,rural,midwest,right
+Elijah,Female,Unmarried,Black,Catholic,53,No,Postgraduate degree,114129,rural,west,left
+Amelia,Male,Unmarried,Latino,Jewish,33,No,Bachelor's Degree,42621,suburban,south,right
+Laura,Female,Married,Native American,Others,49,Yes,Bachelor's Degree,146090,urban,east,right
+Samuel,Female,Married,White,Protestant,34,Yes,Bachelor's Degree,119873,urban,south,right
+Laura,Female,Unmarried,Native American,Others,28,Yes,Postgraduate degree,109280,urban,midwest,left
+Emily,Male,Married,White,Atheist,46,No,Bachelor's Degree,145836,rural,west,left
+Emma,Female,Unmarried,White,Others,32,Yes,High School,64651,urban,midwest,right
+Harper,Male,Married,Other,Catholic,36,No,Postgraduate degree,32547,rural,west,left
+Laura,Male,Unmarried,Native American,Catholic,31,Yes,Bachelor's Degree,64260,rural,midwest,right
+Benjamin,Male,Married,Asian,Atheist,22,Yes,High School,115126,rural,midwest,left
+Samuel,Female,Unmarried,Black,Protestant,21,No,Associate Degree,104225,suburban,west,left
+Alex,Female,Married,White,Others,30,Yes,High School,101875,rural,midwest,right
+Benjamin,Male,Unmarried,Latino,Others,62,No,Less then high school,170591,suburban,south,right
+Benjamin,Female,Unmarried,Latino,Others,43,No,Associate Degree,139770,suburban,west,left
+John,Male,Married,Asian,Catholic,56,Yes,High School,100275,suburban,south,left
+Joseph,Male,Unmarried,Asian,Jewish,52,No,Postgraduate degree,116435,rural,east,left
+Elijah,Male,Unmarried,White,Catholic,61,Yes,Less then high school,129605,urban,midwest,left
+Evelyn,Male,Married,Asian,Others,39,No,Less then high school,72861,urban,south,right
+Alex,Female,Married,Native American,Catholic,26,Yes,Less then high school,145234,urban,south,left
+John,Female,Married,Native American,Catholic,48,Yes,Bachelor's Degree,65573,urban,west,right
+Alex,Female,Unmarried,Latino,Protestant,57,No,Postgraduate degree,98546,suburban,midwest,left
+John,Female,Married,White,Protestant,48,No,Postgraduate degree,85976,urban,east,left
+John,Male,Unmarried,Black,Protestant,38,Yes,Bachelor's Degree,179049,suburban,midwest,right
+Evelyn,Female,Married,Latino,Atheist,41,Yes,High School,107564,suburban,midwest,right
+Ethan,Female,Married,Other,Protestant,40,Yes,Associate Degree,130769,rural,south,right
+Emily,Female,Unmarried,Latino,Jewish,29,Yes,Postgraduate degree,67309,urban,midwest,right
+Olivia,Female,Married,Native American,Atheist,33,Yes,High School,144901,rural,west,left
+Emma,Male,Unmarried,Black,Others,61,Yes,Postgraduate degree,194732,rural,west,left
+Alex,Male,Married,Other,Protestant,29,No,High School,187120,suburban,west,left
+Evelyn,Female,Unmarried,White,Atheist,60,Yes,Less then high school,112353,suburban,west,right
+Sarah,Male,Unmarried,Native American,Catholic,25,No,Associate Degree,167363,rural,midwest,left
+Matthew,Female,Unmarried,Latino,Jewish,21,Yes,High School,136215,urban,west,left
+Isabella,Female,Unmarried,Asian,Jewish,57,Yes,Less then high school,173745,suburban,west,right
+Samuel,Female,Married,Other,Atheist,22,No,Bachelor's Degree,95314,rural,midwest,right
+Mia,Male,Married,Latino,Jewish,33,Yes,Less then high school,31401,suburban,east,left
+Alex,Female,Married,Other,Others,48,Yes,Bachelor's Degree,77992,suburban,south,right
+Isabella,Male,Married,Latino,Others,39,Yes,High School,116057,suburban,midwest,left
+Michael,Female,Married,Other,Atheist,44,No,Less then high school,63668,urban,west,right
+Katie,Female,Unmarried,Native American,Protestant,57,No,Less then high school,120816,suburban,east,right
+Samuel,Female,Unmarried,Native American,Protestant,44,No,Bachelor's Degree,42601,rural,east,right
+Andrew,Female,Married,Black,Jewish,65,Yes,Less then high school,85156,suburban,west,right
+Elijah,Female,Unmarried,White,Catholic,53,Yes,Postgraduate degree,166275,urban,east,right
+James,Male,Married,Asian,Jewish,39,No,Postgraduate degree,195266,rural,east,right
+Amelia,Female,Unmarried,Black,Atheist,65,Yes,Associate Degree,30378,suburban,east,left
+Sophia,Female,Married,Black,Jewish,33,Yes,Less then high school,148660,urban,south,left
+Michael,Female,Married,White,Others,45,No,Less then high school,109801,urban,south,right
+Emma,Female,Married,Other,Protestant,63,No,Less then high school,110608,suburban,west,right
+Benjamin,Female,Married,Latino,Protestant,24,No,Less then high school,98380,urban,east,right
+Jane,Male,Unmarried,Black,Others,22,No,Postgraduate degree,32194,rural,midwest,left
+Abigail,Male,Unmarried,Asian,Others,27,No,Associate Degree,79049,suburban,west,left
+Laura,Male,Unmarried,Other,Catholic,61,No,Bachelor's Degree,96530,suburban,midwest,right
+Sarah,Female,Married,Black,Protestant,39,Yes,Associate Degree,124991,suburban,south,right
+Alex,Male,Unmarried,Other,Others,53,No,High School,43194,urban,west,right
+Elijah,Female,Unmarried,Latino,Jewish,40,No,Less then high school,46539,urban,west,right
+Daniel,Female,Unmarried,Native American,Jewish,50,No,Associate Degree,119724,suburban,midwest,left
+Michael,Male,Unmarried,White,Atheist,18,Yes,Less then high school,47906,urban,midwest,left
+David,Male,Married,Native American,Protestant,49,No,Postgraduate degree,98359,rural,east,right
+Mia,Female,Married,Asian,Catholic,49,Yes,Less then high school,43408,urban,west,right
+Emma,Male,Married,Black,Catholic,34,Yes,Associate Degree,58106,urban,east,left
+Amelia,Female,Unmarried,Other,Protestant,41,No,Postgraduate degree,46016,urban,west,right
+Benjamin,Female,Married,Native American,Catholic,19,Yes,Bachelor's Degree,68398,urban,east,left
+Abigail,Male,Unmarried,Native American,Others,47,Yes,Less then high school,160731,urban,midwest,left
+David,Female,Married,Other,Atheist,33,Yes,Postgraduate degree,105412,rural,west,left
+Olivia,Male,Unmarried,White,Others,44,Yes,Associate Degree,51090,rural,midwest,right
+Michael,Female,Unmarried,Black,Jewish,31,No,Less then high school,114335,rural,west,left
+Mia,Male,Unmarried,Latino,Protestant,50,Yes,Associate Degree,40241,urban,south,left
+Abigail,Female,Married,Asian,Protestant,61,No,High School,103073,rural,south,right
+Mia,Male,Married,Native American,Protestant,59,No,Bachelor's Degree,133310,rural,midwest,right
+Emily,Female,Married,White,Protestant,39,Yes,Less then high school,95179,rural,midwest,left
+Harper,Male,Unmarried,Native American,Jewish,65,Yes,Postgraduate degree,103059,urban,east,left
+Isabella,Male,Married,Other,Others,50,Yes,Postgraduate degree,182403,urban,east,left
+Mia,Female,Unmarried,Asian,Others,63,No,Postgraduate degree,132352,suburban,east,left
+Andrew,Male,Unmarried,Latino,Atheist,18,No,Bachelor's Degree,42388,rural,west,right
+Olivia,Male,Unmarried,Latino,Atheist,51,No,High School,92950,rural,south,right
+Benjamin,Male,Unmarried,Asian,Protestant,32,Yes,Associate Degree,90042,rural,west,right
+Michael,Male,Married,Other,Protestant,56,Yes,Postgraduate degree,172463,suburban,south,left
+Jane,Female,Married,Asian,Atheist,25,No,Associate Degree,46897,suburban,south,right
+Andrew,Male,Married,Asian,Jewish,32,Yes,Postgraduate degree,84250,urban,midwest,left
+Olivia,Male,Married,White,Atheist,28,No,Postgraduate degree,106345,suburban,south,left
+John,Female,Married,White,Atheist,23,Yes,Associate Degree,198186,urban,south,left
+Mia,Female,Married,Latino,Jewish,31,Yes,Less then high school,176294,suburban,east,left
+Amelia,Female,Married,Asian,Atheist,44,Yes,High School,126919,suburban,east,right
+Ethan,Male,Unmarried,Native American,Atheist,21,No,Bachelor's Degree,67604,suburban,west,left
+John,Female,Unmarried,Other,Others,38,Yes,Associate Degree,112404,urban,east,right
+James,Female,Married,White,Jewish,57,No,High School,145280,rural,west,left
+Andrew,Female,Unmarried,Native American,Others,38,No,Less then high school,66301,urban,west,left
+Sophia,Male,Married,Asian,Others,22,Yes,Postgraduate degree,133273,rural,west,left
+Emily,Female,Married,Asian,Jewish,47,Yes,Less then high school,142896,urban,east,right
+John,Male,Married,White,Atheist,39,Yes,Bachelor's Degree,70825,rural,midwest,right
+Laura,Male,Married,Native American,Atheist,57,No,Associate Degree,166449,urban,south,left
+Chris,Female,Unmarried,Other,Others,20,No,Less then high school,43491,rural,south,left
+Evelyn,Male,Married,Asian,Atheist,33,No,Less then high school,191140,rural,west,left
+Alex,Male,Married,Latino,Protestant,38,No,Associate Degree,77418,suburban,west,right
+Joseph,Male,Unmarried,Black,Others,36,Yes,High School,56123,rural,midwest,left
+Olivia,Male,Married,Asian,Catholic,28,Yes,Postgraduate degree,162139,rural,south,right
+Joseph,Female,Unmarried,Latino,Jewish,23,Yes,Less then high school,186158,urban,west,left
+Alex,Female,Married,White,Catholic,42,No,Associate Degree,37398,urban,south,left
+Samuel,Male,Married,Asian,Atheist,63,No,Postgraduate degree,136853,urban,west,right
+Matthew,Female,Unmarried,Other,Catholic,25,Yes,Postgraduate degree,151266,rural,midwest,left
+Elijah,Female,Married,Native American,Jewish,54,Yes,Bachelor's Degree,162930,urban,west,right
+Mia,Female,Married,White,Protestant,52,Yes,Postgraduate degree,104467,rural,south,left
+James,Male,Unmarried,Black,Others,46,No,High School,185804,urban,west,left
+Harper,Female,Married,White,Catholic,46,No,Associate Degree,30606,rural,east,right
+Evelyn,Male,Unmarried,Black,Jewish,61,No,Postgraduate degree,111690,suburban,east,right
+Ethan,Female,Married,White,Catholic,25,No,Postgraduate degree,78973,rural,midwest,left
+Ethan,Female,Unmarried,Other,Atheist,22,No,High School,188463,rural,south,left
+Michael,Female,Unmarried,Asian,Atheist,43,No,Associate Degree,178282,suburban,west,left
+Charlotte,Female,Married,Asian,Atheist,40,Yes,High School,72596,suburban,south,right
+Daniel,Female,Married,Native American,Protestant,50,Yes,Postgraduate degree,90513,urban,east,right
+Chris,Male,Married,White,Catholic,62,Yes,Less then high school,70733,rural,west,right
+Emma,Male,Married,Asian,Catholic,50,No,High School,51488,urban,east,left
+Olivia,Male,Married,Black,Jewish,57,Yes,Bachelor's Degree,134125,rural,east,left
+Matthew,Female,Unmarried,Other,Catholic,65,Yes,Associate Degree,192436,rural,midwest,left
+Benjamin,Male,Unmarried,Black,Atheist,46,Yes,High School,135767,rural,east,right
+Daniel,Male,Married,Latino,Protestant,28,Yes,Postgraduate degree,79015,rural,east,left
+Amelia,Male,Unmarried,Latino,Atheist,62,No,Associate Degree,195544,rural,midwest,right
+Elijah,Female,Married,Black,Atheist,27,Yes,Less then high school,42771,rural,midwest,right
+Emily,Male,Unmarried,White,Protestant,41,Yes,Bachelor's Degree,160659,rural,midwest,right
+Abigail,Female,Unmarried,Native American,Others,28,No,Bachelor's Degree,126300,suburban,south,right
+Emily,Male,Unmarried,Black,Others,45,Yes,Associate Degree,136193,urban,west,right
+Jane,Female,Married,Other,Jewish,30,No,Associate Degree,62367,rural,midwest,right
+Chris,Male,Married,Asian,Catholic,25,No,Postgraduate degree,151586,urban,west,left
+Mia,Male,Married,Asian,Atheist,37,Yes,Bachelor's Degree,184296,rural,east,right
+Mia,Male,Unmarried,Asian,Protestant,21,Yes,Less then high school,44397,rural,west,right
+Elijah,Male,Married,Native American,Atheist,60,Yes,High School,104070,rural,midwest,left
+James,Female,Unmarried,Black,Others,42,Yes,Less then high school,190573,rural,south,right
+Jane,Male,Married,Other,Protestant,50,Yes,High School,113075,urban,midwest,left
+Chris,Female,Married,Latino,Atheist,42,No,Less then high school,116483,suburban,south,right
+Alex,Female,Married,Black,Jewish,58,Yes,Bachelor's Degree,85799,rural,east,right
+Isabella,Male,Married,White,Atheist,60,No,Associate Degree,158278,rural,south,left
+Joseph,Female,Unmarried,Asian,Catholic,41,Yes,Bachelor's Degree,71237,urban,west,left
+Daniel,Female,Married,Latino,Jewish,22,No,Postgraduate degree,188779,urban,south,right
+Michael,Female,Married,Black,Catholic,18,Yes,Bachelor's Degree,109788,suburban,south,right
+Joseph,Male,Married,Native American,Atheist,62,No,Bachelor's Degree,91046,rural,midwest,left
+Sarah,Female,Married,Other,Others,38,No,High School,148830,urban,west,left
+Amelia,Female,Married,Native American,Protestant,42,No,Postgraduate degree,198544,urban,south,left
+Amelia,Female,Married,Black,Atheist,43,Yes,Associate Degree,64237,rural,midwest,right
+Isabella,Female,Unmarried,Black,Atheist,25,No,High School,150433,rural,west,left
+Isabella,Male,Unmarried,Latino,Others,34,Yes,Associate Degree,98099,suburban,midwest,left
+Emily,Female,Married,White,Catholic,48,Yes,Associate Degree,193969,suburban,east,left
+Sophia,Male,Unmarried,Asian,Atheist,18,No,Less then high school,171149,rural,south,left
+Samuel,Male,Unmarried,Latino,Atheist,21,Yes,Associate Degree,39409,suburban,west,left
+Laura,Male,Married,Other,Others,33,Yes,Bachelor's Degree,62600,urban,midwest,right
+Laura,Male,Unmarried,Other,Jewish,22,Yes,Postgraduate degree,91424,suburban,east,left
+Ethan,Male,Married,Latino,Catholic,39,No,High School,71995,suburban,west,right
+James,Female,Unmarried,Latino,Others,45,Yes,High School,102282,suburban,midwest,right
+Andrew,Male,Unmarried,Native American,Others,52,No,Bachelor's Degree,59154,urban,midwest,right
+Alex,Male,Married,Other,Catholic,36,No,Less then high school,169069,urban,south,left
+Daniel,Male,Unmarried,Native American,Jewish,51,No,Postgraduate degree,46682,suburban,midwest,left
+Emma,Female,Unmarried,Native American,Catholic,63,No,Postgraduate degree,197146,urban,east,left
+Alex,Male,Unmarried,Other,Others,32,Yes,High School,184437,suburban,south,left
+Sarah,Male,Married,Asian,Jewish,36,Yes,High School,139679,urban,west,left
+Daniel,Male,Unmarried,White,Atheist,37,Yes,High School,93821,rural,south,right
+Alex,Female,Unmarried,Latino,Protestant,63,Yes,High School,167363,rural,west,left
+Emma,Male,Unmarried,Black,Others,32,Yes,Postgraduate degree,186654,rural,west,right
+Benjamin,Male,Unmarried,Native American,Protestant,53,No,Bachelor's Degree,78053,suburban,south,right
+Alex,Female,Unmarried,Asian,Catholic,62,No,Associate Degree,162045,urban,east,right
+Elijah,Female,Unmarried,White,Others,53,No,Less then high school,60031,rural,south,right
+James,Male,Unmarried,Native American,Protestant,26,Yes,Bachelor's Degree,120224,suburban,west,right
+Olivia,Male,Unmarried,Other,Jewish,36,No,Less then high school,172886,suburban,south,right
