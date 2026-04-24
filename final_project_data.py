@@ -4,44 +4,46 @@ import random
 import matplotlib.pyplot as plt
 
 # Sample data
-first_names = ["John", "Jane", "Alex", "Emily", "Chris", "Katie", "Michael", "Sarah", "David", "Laura", "Daniel", "Emma", "James", "Olivia", 
-               "Ethan", "Sophia", "Matthew", "Isabella", "Andrew", 
-               "Mia","Joseph", "Charlotte", "Samuel", "Amelia", "Benjamin", "Harper", "Elijah", "Evelyn", "Lucas", "Abigail"]
-gender = ["Male", "Female"]
-maital_status = ["Married", "Unmarried"]
-race = ["White", "Black", "Latino", "Asian", "Native American", "Other"]
-religion = ["Protestant", "Catholic", "Jewish", "Atheist", "Others"]
-yes_no = ["Yes", 'No']
-education = ['High School', 'Associate Degree', "Bachelor's Degree", 
-             'Postgraduate degree', 'Less then high school']
-area = ['urban', 'suburban', 'rural']
-region = ['east', 'west', 'south', 'midwest']
-names = []
-for i in range(1000):
-    names.append(f"{random.choice(first_names)}")
+# first_names = ["John", "Jane", "Alex", "Emily", "Chris", "Katie", "Michael", "Sarah", "David", "Laura", "Daniel", "Emma", "James", "Olivia", 
+#                "Ethan", "Sophia", "Matthew", "Isabella", "Andrew", 
+#                "Mia","Joseph", "Charlotte", "Samuel", "Amelia", "Benjamin", "Harper", "Elijah", "Evelyn", "Lucas", "Abigail"]
+# gender = ["Male", "Female"]
+# maital_status = ["Married", "Unmarried"]
+# race = ["White", "Black", "Latino", "Asian", "Native American", "Other"]
+# religion = ["Protestant", "Catholic", "Jewish", "Atheist", "Others"]
+# yes_no = ["Yes", 'No']
+# education = ['High School', 'Associate Degree', "Bachelor's Degree", 
+#              'Postgraduate degree', 'Less then high school']
+# area = ['urban', 'suburban', 'rural']
+# region = ['east', 'west', 'south', 'midwest']
+# party = ['left', 'right']
+# names = []
+# for i in range(1000):
+#     names.append(f"{random.choice(first_names)}")
 
-# Generate random student data
-data = {
-    "Name": names,
-    "Gender": [random.choice(gender) for _ in names],
-    "Marital Status": [random.choice(maital_status) for _ in names],
-    "Race/Ethnicity": [random.choice(race) for _ in names],
-    "Religion": [random.choice(religion) for _ in names],
-    "Religion": [random.choice(religion) for _ in names],
-    "Age": [random.randint(18,65) for _ in names],
-    "First Time Voting": [random.choice(yes_no) for _ in names],
-    "Education": [random.choice(education) for _ in names],
-    "Income": [random.randint(30000,200000) for _ in names],
-    "Area type": [random.choice(area) for _ in names],
-    "Region": [random.choice(region) for _ in names],
-}
+# # Generate random student data
+# data = {
+#     "Name": names,
+#     "Gender": [random.choice(gender) for _ in names],
+#     "Marital Status": [random.choice(maital_status) for _ in names],
+#     "Race/Ethnicity": [random.choice(race) for _ in names],
+#     "Religion": [random.choice(religion) for _ in names],
+#     "Religion": [random.choice(religion) for _ in names],
+#     "Age": [random.randint(18,65) for _ in names],
+#     "First Time Voting": [random.choice(yes_no) for _ in names],
+#     "Education": [random.choice(education) for _ in names],
+#     "Income": [random.randint(30000,200000) for _ in names],
+#     "Area type": [random.choice(area) for _ in names],
+#     "Region": [random.choice(region) for _ in names],
+#     "Leaning": [random.choice(party) for _ in names],
+# }
 
-students = pd.DataFrame(data)
+# students = pd.DataFrame(data)
 
-#print(round(students_df.describe()))
+# #print(round(students_df.describe()))
 
-students.to_csv('exitpoll.csv', index=False) # Save to CSV file
-# print("DataFrame saved to 'students_data.csv'")
+# students.to_csv('exitpoll.csv', index=False) # Save to CSV file
+# # print("DataFrame saved to 'students_data.csv'")
 
 
 # Calcualtes Data
@@ -61,7 +63,7 @@ print("-_"*40)
 print("Statistical Summary:")
 print(round(students_df.describe(),1)) #.describe() gives statistical summary of numerical columns
 print("-_"*40)
-print("Counts of students in each gender:")
+print("Counts of voters in each gender:")
 print(students_df['Gender'].value_counts()) 
 print("-_"*40)
 print("Voters with income greater than 100k:")
@@ -69,6 +71,9 @@ print(students_df[students_df['Income'] > 100000])
 print("-_"*40)
 print("First voter details:")
 print(students_df.iloc[0]) 
+print("-_"*40)
+print("Counts of voter leanings:")
+print(students_df['Leaning'].value_counts()) 
 print("-_"*40)
 print(students_df.head())
 
