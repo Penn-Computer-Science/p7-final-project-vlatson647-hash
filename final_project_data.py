@@ -8,7 +8,7 @@ first_names = ["John", "Jane", "Alex", "Emily", "Chris", "Katie", "Michael", "Sa
                "Ethan", "Sophia", "Matthew", "Isabella", "Andrew", 
                "Mia","Joseph", "Charlotte", "Samuel", "Amelia", "Benjamin", "Harper", "Elijah", "Evelyn", "Lucas", "Abigail",
                "Liam","Noah","Lucas","Henry","Jack","Aiden","Sebastian","Wyatt","Leonardo","Julian","Nora"
-               "Grace","Chloe","Lily","Zoe"]
+               "Grace","Chloe","Lily","Zoe", 'Vincent']
 gender = ["Male", "Female"]
 maital_status = ["Married", "Unmarried"]
 race = ["White", "Black", "Latino", "Asian", "Native American", "Other"]
